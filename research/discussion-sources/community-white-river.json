@@ -1,0 +1,126 @@
+{
+  "platform": "Bilibili",
+  "checkedAt": "2026-10-11T19:23:26+08:00",
+  "sourceHint": {
+    "bvid": "BV1WG4y1e7wC",
+    "relation": "topic-explainer"
+  },
+  "comments": [
+    {
+      "id": "125487744480",
+      "userId": "393931134",
+      "username": "天命第一纯爱战神",
+      "publishedAt": "2022-08-13T18:26:08+08:00",
+      "text": "1.兄弟我学会瞬大了  21883   +160\n2.兄弟我不想学瞬大  21876  +143\n3.兄弟们给我条活路  21873  +126\n4.求求你们别凹了      21870   +109",
+      "likes": 12581,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV1WG4y1e7wC/#reply125487744480"
+    },
+    {
+      "id": "125495111616",
+      "userId": "327537353",
+      "username": "沉睡の石榴58",
+      "publishedAt": "2022-08-13T19:13:05+08:00",
+      "text": "经典永流传",
+      "likes": 195,
+      "replyTo": "125487744480",
+      "sourceURL": "https://www.bilibili.com/video/BV1WG4y1e7wC/#reply125495111616"
+    },
+    {
+      "id": "125485707088",
+      "userId": "240175745",
+      "username": "鄙人下雪",
+      "publishedAt": "2022-08-13T18:12:27+08:00",
+      "text": "比太阳更光！！！",
+      "likes": 7664,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV1WG4y1e7wC/#reply125485707088"
+    },
+    {
+      "id": "125486805968",
+      "userId": "240357077",
+      "username": "扇丹青",
+      "publishedAt": "2022-08-13T18:18:49+08:00",
+      "text": "不对不对，该这么说[脱单doge]\n\n比  ！太  ！阳  ！更  ！光  ！",
+      "likes": 352,
+      "replyTo": "125485707088",
+      "sourceURL": "https://www.bilibili.com/video/BV1WG4y1e7wC/#reply125486805968"
+    },
+    {
+      "id": "125486419840",
+      "userId": "409629476",
+      "username": "这句话是错误的",
+      "publishedAt": "2022-08-13T18:16:55+08:00",
+      "text": "金武器或银武器",
+      "likes": 58,
+      "replyTo": "125485707088",
+      "sourceURL": "https://www.bilibili.com/video/BV1WG4y1e7wC/#reply125486419840"
+    },
+    {
+      "id": "125487523472",
+      "userId": "35840273",
+      "username": "黑骑2236",
+      "publishedAt": "2022-08-13T18:23:34+08:00",
+      "text": "回复 @这句话是错误的 :兄啊那是最光吧",
+      "likes": 51,
+      "replyTo": "125486419840",
+      "sourceURL": "https://www.bilibili.com/video/BV1WG4y1e7wC/#reply125487523472"
+    },
+    {
+      "id": "125488081264",
+      "userId": "500577569",
+      "username": "カラーびジユ",
+      "publishedAt": "2022-08-13T18:26:43+08:00",
+      "text": "数值策划出来挨打        我带你去找策划      我就是策划你有事吗       看见策划就烦.JPG",
+      "likes": 5380,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV1WG4y1e7wC/#reply125488081264"
+    },
+    {
+      "id": "125490684768",
+      "userId": "20607590",
+      "username": "八雲黧",
+      "publishedAt": "2022-08-13T18:43:40+08:00",
+      "text": "5.9圣经是吧[doge]",
+      "likes": 113,
+      "replyTo": "125488081264",
+      "sourceURL": "https://www.bilibili.com/video/BV1WG4y1e7wC/#reply125490684768"
+    },
+    {
+      "id": "125532951664",
+      "userId": "353393929",
+      "username": "Hes_tater",
+      "publishedAt": "2022-08-13T23:05:12+08:00",
+      "text": "这不是pv最后人员公示里的吗",
+      "likes": 88,
+      "replyTo": "125488081264",
+      "sourceURL": "https://www.bilibili.com/video/BV1WG4y1e7wC/#reply125532951664"
+    },
+    {
+      "id": "125530387376",
+      "userId": "496432429",
+      "username": "室有咲香澄",
+      "publishedAt": "2022-08-13T22:49:50+08:00",
+      "text": "这四个指不定是一家子[脱单doge]",
+      "likes": 59,
+      "replyTo": "125488081264",
+      "sourceURL": "https://www.bilibili.com/video/BV1WG4y1e7wC/#reply125530387376"
+    }
+  ],
+  "title": "【崩坏百科】白衣渡江是什么梗？",
+  "bvid": "BV1WG4y1e7wC",
+  "aid": 814424825,
+  "author": "月光中心_official",
+  "authorId": "25289147",
+  "url": "https://www.bilibili.com/video/BV1WG4y1e7wC/",
+  "publishedAt": "2022-08-13T18:12:02+08:00",
+  "metadataURL": "https://api.bilibili.com/x/web-interface/view?bvid=BV1WG4y1e7wC",
+  "commentAPI": "https://api.bilibili.com/x/v2/reply?type=1&oid=814424825&sort=2&pn=1",
+  "page": {
+    "num": 1,
+    "size": 20,
+    "count": 491,
+    "acount": 491
+  },
+  "status": "ok"
+}

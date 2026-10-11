@@ -1,0 +1,2244 @@
+[
+  {
+    "seedId": "scyrax-kiana",
+    "fetchedAt": "2026-10-11T08:31:19.8057862+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?aid=7244731",
+    "bvid": "BV1Fs411s7PZ",
+    "aid": 7244731,
+    "url": "https://www.bilibili.com/video/BV1Fs411s7PZ/",
+    "title": "琪亚娜·极乐净土 【次世代卡通渲染】【自制模型/Unity】",
+    "publishedAt": "2016-11-25T13:59:17+08:00",
+    "date": "2016-11-25",
+    "owner": {
+      "mid": 3301199,
+      "name": "scyrax"
+    },
+    "durationSeconds": 529,
+    "stats": {
+      "view": 7415044,
+      "like": 178764,
+      "coin": 326993,
+      "favorite": 323342,
+      "share": 72809,
+      "danmaku": 31106,
+      "reply": 19382,
+      "his_rank": 1
+    },
+    "honors": [
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第1名"
+      }
+    ],
+    "description": "极乐净土连续几个月屠版，咱就想着用Unity5实时渲染做MMD能做成啥样，今天终于完成鸟，感谢小伙伴们的共同努力。\n720p下载：https://pan.baidu.com/s/1slu7ZcD\n1080p下载：https://pan.baidu.com/s/1pLro6IR\n3D版下载：https://pan.baidu.com/s/1miloO2k\n\n转载需注明出处，请勿用于商业用途。",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "scyrax-mei",
+    "fetchedAt": "2026-10-11T08:31:20.3680993+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?aid=14260225",
+    "bvid": "BV1Mx41147EK",
+    "aid": 14260225,
+    "url": "https://www.bilibili.com/video/BV1Mx41147EK/",
+    "title": "芽衣·染上你的颜色 【次世代卡通渲染第二弹】",
+    "publishedAt": "2017-09-08T00:02:47+08:00",
+    "date": "2017-09-08",
+    "owner": {
+      "mid": 3301199,
+      "name": "scyrax"
+    },
+    "durationSeconds": 490,
+    "stats": {
+      "view": 3482985,
+      "like": 131560,
+      "coin": 148219,
+      "favorite": 123736,
+      "share": 34306,
+      "danmaku": 12974,
+      "reply": 22854,
+      "his_rank": 8
+    },
+    "honors": [
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第8名"
+      }
+    ],
+    "description": "这么可爱的芽衣姐姐是不是想抱一个回家(=・ω・=)\n\nStaff名单在片尾，下载几天后出现在评论中，这次会有4K终极画质版,  在线版压缩后画质细节实在损失太多 XD\n\n动态桌面 steam创意工坊已发布：\nhttp://steamcommunity.com/sharedfiles/filedetails/?id=1131101814",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "scyrax-sakura",
+    "fetchedAt": "2026-10-11T08:31:20.8487403+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?aid=42250009",
+    "bvid": "BV1Lb411k7eP",
+    "aid": 42250009,
+    "url": "https://www.bilibili.com/video/BV1Lb411k7eP/",
+    "title": "八重樱 · 桃源恋歌【次世代卡通渲染第三弹】",
+    "publishedAt": "2019-02-01T11:50:38+08:00",
+    "date": "2019-02-01",
+    "owner": {
+      "mid": 3301199,
+      "name": "scyrax"
+    },
+    "durationSeconds": 584,
+    "stats": {
+      "view": 9142868,
+      "like": 558793,
+      "coin": 674578,
+      "favorite": 447675,
+      "share": 135982,
+      "danmaku": 66151,
+      "reply": 54726,
+      "his_rank": 1
+    },
+    "honors": [
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第1名"
+      }
+    ],
+    "description": "嘤嘤嘤来也，说好的年番绝不咕~\n\n\n4K版下载 https://pan.baidu.com/s/13vQjYfvH3_yC4CbtdVcbpg \n提取码：smhy\n1080p版下载 https://pan.baidu.com/s/1LU9fgmyja5GC-AAYI_lL9Q \n提取码：cy4j\n\nWallpaperEngine壁纸\n4K https://steamcommunity.com/sharedfiles/filedetails/?id=1654360718\n1080p https://steamcommunity.com/sharedfiles/filedetails/?id=1654376441",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "scyrax-fuhua",
+    "fetchedAt": "2026-10-11T08:31:21.3159159+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?aid=82761114",
+    "bvid": "BV1fJ411G7N3",
+    "aid": 82761114,
+    "url": "https://www.bilibili.com/video/BV1fJ411G7N3/",
+    "title": "符华 · [A]ddiction【次世代卡通渲染】",
+    "publishedAt": "2020-01-10T12:00:28+08:00",
+    "date": "2020-01-10",
+    "owner": {
+      "mid": 3301199,
+      "name": "scyrax"
+    },
+    "durationSeconds": 500,
+    "stats": {
+      "view": 6038596,
+      "like": 300482,
+      "coin": 316516,
+      "favorite": 203975,
+      "share": 55935,
+      "danmaku": 20101,
+      "reply": 19623,
+      "his_rank": 4
+    },
+    "honors": [
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第4名"
+      },
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "帅气又可爱的阿符来啦~\n\n友情提示：\n1.只有大会员版(60fps)才能保证最佳体验~\n2.后续将会同时放出4K视频和RTX实时运行版，且都支持HDR。",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "befall",
+    "fetchedAt": "2026-10-11T08:31:21.8000355+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1aW411P7UJ",
+    "bvid": "BV1aW411P7UJ",
+    "aid": 24149246,
+    "url": "https://www.bilibili.com/video/BV1aW411P7UJ/",
+    "title": "《崩坏3》动画短片「女王降临」",
+    "publishedAt": "2018-05-31T12:00:01+08:00",
+    "date": "2018-05-31",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 384,
+    "stats": {
+      "view": 13777770,
+      "like": 404152,
+      "coin": 329198,
+      "favorite": 290335,
+      "share": 248266,
+      "danmaku": 93170,
+      "reply": 39834,
+      "his_rank": 1
+    },
+    "honors": [
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第1名"
+      }
+    ],
+    "description": "简介: 《崩坏3》动画短片「女王降临」正式发布！\n掌控空间、统御崩坏兽的女王终于降临了，在她经过的地方，只留下破坏和死亡……\n\n本片由miHoYo Anime出品，片中印象曲《Befall》由HOYO-MiX制作，电子唱作人尚雯婕演唱。\n视频类型: 原创动画\n相关题材: 崩坏3",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "last-lesson",
+    "fetchedAt": "2026-10-11T08:31:22.2782844+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ut411v74a",
+    "bvid": "BV1Ut411v74a",
+    "aid": 38096452,
+    "url": "https://www.bilibili.com/video/BV1Ut411v74a/",
+    "title": "《崩坏3》全新动画短片「最后一课」",
+    "publishedAt": "2018-12-14T12:00:23+08:00",
+    "date": "2018-12-14",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 427,
+    "stats": {
+      "view": 19875063,
+      "like": 758624,
+      "coin": 714308,
+      "favorite": 458544,
+      "share": 506121,
+      "danmaku": 125575,
+      "reply": 75309,
+      "his_rank": 0
+    },
+    "honors": [],
+    "description": "简介：《崩坏3》动画短片「最后一课」正式发布！\n纵使黑云蔽日，我也要燃烧天空，带你找到回家的路——\n\n本片由miHoYo Anime出品，片中印象曲《Nightglow》由HOYO-MiX制作，知名唱作歌手蔡健雅演唱。\n视频类型：原创动画\n相关题材：崩坏3",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "cyberangel",
+    "fetchedAt": "2026-10-11T08:31:22.7445312+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1v4411A7kc",
+    "bvid": "BV1v4411A7kc",
+    "aid": 57880560,
+    "url": "https://www.bilibili.com/video/BV1v4411A7kc/",
+    "title": "《崩坏3》动画短片「天使重构」",
+    "publishedAt": "2019-07-05T12:00:21+08:00",
+    "date": "2019-07-05",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 396,
+    "stats": {
+      "view": 13118308,
+      "like": 483194,
+      "coin": 427014,
+      "favorite": 295640,
+      "share": 180550,
+      "danmaku": 153909,
+      "reply": 35135,
+      "his_rank": 1
+    },
+    "honors": [
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第1名"
+      }
+    ],
+    "description": "《崩坏3》动画短片「天使重构」正式发布！\n追寻着你的身影，从迷失的世界起航，直到深海的尽头……\n“希儿……布洛妮娅来找你了。”\n\n本片由miHoYo Anime出品，片中印象曲《Cyberangel》由HOYO-MiX制作，布洛妮娅CV——Hanser演唱。",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "starfall",
+    "fetchedAt": "2026-10-11T08:31:23.2097224+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1U7411N7vr",
+    "bvid": "BV1U7411N7vr",
+    "aid": 92252043,
+    "url": "https://www.bilibili.com/video/BV1U7411N7vr/",
+    "title": "《崩坏3》动画短片「天穹流星」",
+    "publishedAt": "2020-02-28T11:11:57+08:00",
+    "date": "2020-02-28",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 378,
+    "stats": {
+      "view": 11401222,
+      "like": 681118,
+      "coin": 753198,
+      "favorite": 360665,
+      "share": 186028,
+      "danmaku": 152759,
+      "reply": 44243,
+      "his_rank": 1
+    },
+    "honors": [
+      {
+        "type": 2,
+        "desc": "第50期每周必看"
+      },
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第1名"
+      },
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "纵使长夜漫漫永劫无期，\n我也要化身星辰点燃希望，\n你的誓言由我来实现。\n\n本片由miHoYo Anime出品，片中印象曲《Starfall》由米哈游旗下纯原创音乐团队HOYO-MiX制作，知名唱作歌手袁娅维演唱。",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "lament",
+    "fetchedAt": "2026-10-11T08:31:23.6752193+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1UT4y1J7xN",
+    "bvid": "BV1UT4y1J7xN",
+    "aid": 926143432,
+    "url": "https://www.bilibili.com/video/BV1UT4y1J7xN/",
+    "title": "《崩坏3》动画短片「罪人挽歌」",
+    "publishedAt": "2020-07-03T12:00:30+08:00",
+    "date": "2020-07-03",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 371,
+    "stats": {
+      "view": 14919855,
+      "like": 624468,
+      "coin": 555375,
+      "favorite": 326074,
+      "share": 233658,
+      "danmaku": 105651,
+      "reply": 49619,
+      "his_rank": 1
+    },
+    "honors": [
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第1名"
+      },
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "雷光斩断过去，你我踏上歧路。\n当雷鸣散尽，暴雨停歇……\n我将坠入黑暗，换你回到光明。\n\n本片由miHoYo Anime出品，片中印象曲《崩坏世界的歌姬 (Movie Ver.)》由米哈游旗下纯原创音乐团队HOYO-MiX制作，知名歌手小林未郁演唱。",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "rubia",
+    "fetchedAt": "2026-10-11T08:31:24.1408130+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jN411o7zS",
+    "bvid": "BV1jN411o7zS",
+    "aid": 501440303,
+    "url": "https://www.bilibili.com/video/BV1jN411o7zS/",
+    "title": "《崩坏3》动画短片「渡尘」",
+    "publishedAt": "2021-01-29T12:00:00+08:00",
+    "date": "2021-01-29",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 371,
+    "stats": {
+      "view": 13856014,
+      "like": 676600,
+      "coin": 711398,
+      "favorite": 344195,
+      "share": 234257,
+      "danmaku": 105339,
+      "reply": 60805,
+      "his_rank": 1
+    },
+    "honors": [
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第1名"
+      },
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "世界之纷扰，早已麻木；\n珍重之羁绊，尽皆离散；\n千年之坚守，只为拯救苍生。\n\n本片由miHoYo Anime出品，片中印象曲《Rubia》由米哈游旗下纯原创音乐团队HOYO-MiX制作，知名歌手周深演唱。",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "moon-halo",
+    "fetchedAt": "2026-10-11T08:31:24.5913516+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1b44y1q7Cb",
+    "bvid": "BV1b44y1q7Cb",
+    "aid": 974017259,
+    "url": "https://www.bilibili.com/video/BV1b44y1q7Cb/",
+    "title": "《崩坏3》动画短片「薪炎永燃」",
+    "publishedAt": "2021-07-09T12:00:13+08:00",
+    "date": "2021-07-09",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 476,
+    "stats": {
+      "view": 26119635,
+      "like": 1094073,
+      "coin": 1185474,
+      "favorite": 601758,
+      "share": 445666,
+      "danmaku": 299686,
+      "reply": 138782,
+      "his_rank": 1
+    },
+    "honors": [
+      {
+        "type": 2,
+        "desc": "第121期每周必看"
+      },
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第1名"
+      },
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "当执拗的黑暗填满长夜的时候，\n它或许是在等待一颗划破自己的流星。\n\n她是琪亚娜·卡斯兰娜、是K423、是西琳、是空之律者、也是——薪炎之律者。\n\n她同曾经的自己做出了断，同往日的迷惘划下诀别。\n她决心迈出那坚定的步伐，迈向那明日的希望。\n她紧握手中的巨剑，将美好守护、将这不完美的故事改写。\n\n本片由miHoYo Anime出品，片中印象曲《Moon Halo》由米哈游旗下纯原创音乐团队HOYO-MiX制作，@茶理理理子   @TetraCalyx   @hanser   演唱。",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "regression",
+    "fetchedAt": "2026-10-11T08:31:25.0704672+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bY411b7k9",
+    "bvid": "BV1bY411b7k9",
+    "aid": 253352981,
+    "url": "https://www.bilibili.com/video/BV1bY411b7k9/",
+    "title": "《崩坏3》动画短片「阿波卡利斯如是说」",
+    "publishedAt": "2022-01-21T12:00:14+08:00",
+    "date": "2022-01-21",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 531,
+    "stats": {
+      "view": 20119412,
+      "like": 913016,
+      "coin": 959731,
+      "favorite": 460030,
+      "share": 393003,
+      "danmaku": 232738,
+      "reply": 107142,
+      "his_rank": 1
+    },
+    "honors": [
+      {
+        "type": 2,
+        "desc": "第149期每周必看"
+      },
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第1名"
+      },
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "一个人，要犯下多少恶行\n 才能在地狱的尽头，将她带回黎明\n 一个人，要走多远的距离\n 才能在时光的尽头，追回最初的自己\n \n 本片由miHoYo Anime出品，片中印象曲《Regression》由米哈游旗下纯原创音乐团队@HOYO-MiX  制作，知名歌手阿云嘎演唱。\n \n ★配音演员\n 奥托·阿波卡利斯——赵路\n 卡莲·卡斯兰娜——陈奕雯",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "true",
+    "fetchedAt": "2026-10-11T08:31:25.5333190+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fY4y1F7GL",
+    "bvid": "BV1fY4y1F7GL",
+    "aid": 644364784,
+    "url": "https://www.bilibili.com/video/BV1fY4y1F7GL/",
+    "title": "《崩坏3》动画短片「因你而在的故事」",
+    "publishedAt": "2022-08-12T12:00:00+08:00",
+    "date": "2022-08-12",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 506,
+    "stats": {
+      "view": 25034969,
+      "like": 1228800,
+      "coin": 1487496,
+      "favorite": 701345,
+      "share": 516883,
+      "danmaku": 534216,
+      "reply": 434410,
+      "his_rank": 1
+    },
+    "honors": [
+      {
+        "type": 2,
+        "desc": "第178期每周必看"
+      },
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第1名"
+      },
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "她深知，在告别世界时，一个人理应带走属于自己的所有，以免余众哀伤。\n她也同样知晓，那是自己绝对无法做到的事。\n她在这世间所留下的，实在太多……遍及一切，远至永恒。\n于是，她决定……要最后再任性一次。\n任性地把她曾见证的所有，把她所爱的所有，把她留下的所有……\n把这世间所有的一切，都汇集在一起，编纂成册——\n是啊，她最终所留下的，不过就是一段故事而已。\n关于曾经那美好的时代，关于那未能成为英雄的十三个人……\n就只是一个这样简单的故事，仅此而已。\n \n本片由miHoYo Anime出品，片中印象曲《TruE》由米哈游旗下纯原创音乐团队@HOYO-MiX   制作，@黄龄   演唱。\n \n★配音演员：\n爱莉希雅——宴宁\n侵蚀之律者——宴宁\n伊甸——张安琪\n梅比乌斯——林簌\n千劫——kinsen\n维尔薇——阮从青\n阿波尼亚——杨梦露\n樱——杜冥鸦\n苏——杨超然\n凯文——秦且歌",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "da-capo",
+    "fetchedAt": "2026-10-11T08:31:26.0004647+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Kj411g7Lu",
+    "bvid": "BV1Kj411g7Lu",
+    "aid": 437800204,
+    "url": "https://www.bilibili.com/video/BV1Kj411g7Lu/",
+    "title": "《崩坏3》动画短片「毕业旅行」",
+    "publishedAt": "2023-03-03T12:00:00+08:00",
+    "date": "2023-03-03",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 438,
+    "stats": {
+      "view": 13097018,
+      "like": 930452,
+      "coin": 1122636,
+      "favorite": 553591,
+      "share": 309825,
+      "danmaku": 187985,
+      "reply": 78912,
+      "his_rank": 1
+    },
+    "honors": [
+      {
+        "type": 2,
+        "desc": "第207期每周必看"
+      },
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第1名"
+      },
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "命运曾向世界提问\n于是，英雄给出了回答\n跨越漫长的轮回\n创造属于每一个人的故事\n\n本片由miHoYo Anime出品，片中印象曲《Da Capo》由米哈游旗下纯原创音乐团队@HOYO-MiX  制作。\n\n★配音演员\n琪亚娜·卡斯兰娜——陶典\n奥托·阿波卡利斯——赵路\n支配之律者——沐霏\n空之律者——洪海天\n雷电芽衣——菊花花\n无量塔姬子——林簌",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "chuchusha-hualing",
+    "fetchedAt": "2026-10-11T08:31:26.4794057+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bE411c7kQ",
+    "bvid": "BV1bE411c7kQ",
+    "aid": 98564975,
+    "url": "https://www.bilibili.com/video/BV1bE411c7kQ/",
+    "title": "【花玲】处处傻",
+    "publishedAt": "2020-03-28T10:00:37+08:00",
+    "date": "2020-03-28",
+    "owner": {
+      "mid": 7966,
+      "name": "花园花玲"
+    },
+    "durationSeconds": 198,
+    "stats": {
+      "view": 15493597,
+      "like": 724602,
+      "coin": 473143,
+      "favorite": 353420,
+      "share": 92726,
+      "danmaku": 44845,
+      "reply": 19125,
+      "his_rank": 12
+    },
+    "honors": [
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第12名"
+      },
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "原曲：处处吻 - 杨千嬅\n翻唱的是@邻家索尔 的版本 av87241880\n后期：三星堆\n索尔的处处傻还有犹大disco真的太好玩了hhh 笑死 所以这次德丽莎的生贺就想着要唱一唱~十分感谢索尔的授权~\n配德丽莎这个角色也有好多年啦 有着深厚的感情~!\n虽然老说大家不要把角色和声优混为一谈啊之类的，但绝对不是说我自己不喜欢德丽莎啦~\n今天是德丽莎的生日！又长了一岁呢！祝她生日快乐！！！",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "chuchusha-suoor",
+    "fetchedAt": "2026-10-11T08:31:26.9456184+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?aid=87241880",
+    "bvid": "BV137411a7xB",
+    "aid": 87241880,
+    "url": "https://www.bilibili.com/video/BV137411a7xB/",
+    "title": "【德丽莎】处处傻",
+    "publishedAt": "2020-02-07T14:00:58+08:00",
+    "date": "2020-02-07",
+    "owner": {
+      "mid": 4320540,
+      "name": "猫山王豆浆"
+    },
+    "durationSeconds": 198,
+    "stats": {
+      "view": 1804788,
+      "like": 109840,
+      "coin": 59039,
+      "favorite": 41475,
+      "share": 8845,
+      "danmaku": 4949,
+      "reply": 2281,
+      "his_rank": 0
+    },
+    "honors": [
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "我的咸鱼群：411310758\n我的舰团群：439570936（ios）\n-------------------- \nBGM：处处吻 - 杨千嬅\n音源@洛卡Rohcard-33\n动画@敲可爱的天猫\n填词/调音/混音/制作@邻家索尔",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "reburn",
+    "fetchedAt": "2026-10-11T08:33:57.8915934+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Tx411V7be",
+    "bvid": "BV1Tx411V7be",
+    "aid": 14899926,
+    "url": "https://www.bilibili.com/video/BV1Tx411V7be/",
+    "title": "《崩坏3 Reburn 》动画短片独家放送！",
+    "publishedAt": "2017-09-30T11:55:37+08:00",
+    "date": "2017-09-30",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 279,
+    "stats": {
+      "view": 4200474,
+      "like": 114417,
+      "coin": 119223,
+      "favorite": 137017,
+      "share": 81352,
+      "danmaku": 40011,
+      "reply": 19805,
+      "his_rank": 12
+    },
+    "honors": [
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第12名"
+      }
+    ],
+    "description": "《崩坏3》动画短片《崩坏3 Reburn》正式发布！对抗崩坏的战斗永不止息，为了能守护这个美丽的世界，琪亚娜出击！",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "seele",
+    "fetchedAt": "2026-10-11T08:33:58.4056384+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1cE411Z74g",
+    "bvid": "BV1cE411Z74g",
+    "aid": 70927145,
+    "url": "https://www.bilibili.com/video/BV1cE411Z74g/",
+    "title": "《崩坏3》动画短片「希儿」",
+    "publishedAt": "2019-10-12T12:00:53+08:00",
+    "date": "2019-10-12",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 347,
+    "stats": {
+      "view": 9119736,
+      "like": 373658,
+      "coin": 292393,
+      "favorite": 208200,
+      "share": 125166,
+      "danmaku": 67092,
+      "reply": 16965,
+      "his_rank": 1
+    },
+    "honors": [
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第1名"
+      }
+    ],
+    "description": "《崩坏3》动画短片「希儿」正式发布！\n曾经的约定历历在目，懦弱的我却总是拖累你的脚步，这一次姐姐由我来守护。\n\n本片由miHoYo Anime出品，片中印象曲《Dual-Ego》由HOYO-MiX制作，著名国际音乐人萨顶顶演唱。",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "bronya-short",
+    "fetchedAt": "2026-10-11T08:33:58.8407043+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1NE411y738",
+    "bvid": "BV1NE411y738",
+    "aid": 71549436,
+    "url": "https://www.bilibili.com/video/BV1NE411y738/",
+    "title": "《崩坏3》动画短片「布洛妮娅」",
+    "publishedAt": "2019-10-18T12:00:06+08:00",
+    "date": "2019-10-18",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 152,
+    "stats": {
+      "view": 3109862,
+      "like": 146177,
+      "coin": 90463,
+      "favorite": 79849,
+      "share": 29100,
+      "danmaku": 12806,
+      "reply": 9698,
+      "his_rank": 3
+    },
+    "honors": [
+      {
+        "type": 2,
+        "desc": "第31期每周必看"
+      },
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第3名"
+      }
+    ],
+    "description": "全新动画短片「布洛妮娅」正式发布！\n银狼的利爪撕开彻骨寒流，追寻着湛蓝色的蝶翼，那是来自另一个「希儿」的呼唤。\n本片由miHoYo Anime出品。",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "return",
+    "fetchedAt": "2026-10-11T08:33:59.2886635+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sy4y1k7cV",
+    "bvid": "BV1sy4y1k7cV",
+    "aid": 797183428,
+    "url": "https://www.bilibili.com/video/BV1sy4y1k7cV/",
+    "title": "《崩坏3》新篇章预告动画「归来」",
+    "publishedAt": "2020-09-25T12:00:35+08:00",
+    "date": "2020-09-25",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 136,
+    "stats": {
+      "view": 7732823,
+      "like": 272255,
+      "coin": 163183,
+      "favorite": 100185,
+      "share": 96597,
+      "danmaku": 14311,
+      "reply": 31209,
+      "his_rank": 2
+    },
+    "honors": [
+      {
+        "type": 2,
+        "desc": "第80期每周必看"
+      },
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第2名"
+      },
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "“在这无边无际的梦境深处，凝望着面目全非的自己。”\n本片由miHoYo Anime出品。",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "pre-revelation",
+    "fetchedAt": "2026-10-11T08:33:59.7678625+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Mq4y1K79g",
+    "bvid": "BV1Mq4y1K79g",
+    "aid": 548063065,
+    "url": "https://www.bilibili.com/video/BV1Mq4y1K79g/",
+    "title": "《崩坏3》新篇章预告动画「前启示录」",
+    "publishedAt": "2021-09-17T12:00:04+08:00",
+    "date": "2021-09-17",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 129,
+    "stats": {
+      "view": 2667181,
+      "like": 153073,
+      "coin": 70560,
+      "favorite": 37588,
+      "share": 33879,
+      "danmaku": 5600,
+      "reply": 18320,
+      "his_rank": 8
+    },
+    "honors": [
+      {
+        "type": 2,
+        "desc": "第131期每周必看"
+      },
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第8名"
+      },
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "“我来了……卡莲。”\n本片由miHoYo Anime出品。",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "winter-memory",
+    "fetchedAt": "2026-10-11T08:34:00.2013174+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QP4y1c7K5",
+    "bvid": "BV1QP4y1c7K5",
+    "aid": 893937889,
+    "url": "https://www.bilibili.com/video/BV1QP4y1c7K5/",
+    "title": "《崩坏3》概念动画短片「冬之记忆」",
+    "publishedAt": "2022-02-15T18:00:14+08:00",
+    "date": "2022-02-15",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 95,
+    "stats": {
+      "view": 4396450,
+      "like": 407786,
+      "coin": 361537,
+      "favorite": 192200,
+      "share": 88602,
+      "danmaku": 12769,
+      "reply": 21956,
+      "his_rank": 1
+    },
+    "honors": [
+      {
+        "type": 2,
+        "desc": "第152期每周必看"
+      },
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第1名"
+      },
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "冰雪是北风的孩子，月光的精灵。\n在这冬天即将远去的日子，将假日的回忆在心中珍藏吧。",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "reunion",
+    "fetchedAt": "2026-10-11T08:34:00.6351093+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1u8411p7UQ",
+    "bvid": "BV1u8411p7UQ",
+    "aid": 221313159,
+    "url": "https://www.bilibili.com/video/BV1u8411p7UQ/",
+    "title": "《崩坏3》过场动画——「重逢」",
+    "publishedAt": "2022-12-15T12:00:00+08:00",
+    "date": "2022-12-15",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 178,
+    "stats": {
+      "view": 1547947,
+      "like": 113266,
+      "coin": 41913,
+      "favorite": 28784,
+      "share": 15919,
+      "danmaku": 2170,
+      "reply": 5779,
+      "his_rank": 28
+    },
+    "honors": [
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第28名"
+      },
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "——「老爸，欢迎回家！」\n\n配音演员：\n琪亚娜·卡斯兰娜——陶典\n比安卡·幽兰黛尔·阿塔吉娜——喵☆酱\n齐格飞·卡斯兰娜——彭博",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "crossing",
+    "fetchedAt": "2026-10-11T08:34:01.0831948+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1784y1p7vM",
+    "bvid": "BV1784y1p7vM",
+    "aid": 609331227,
+    "url": "https://www.bilibili.com/video/BV1784y1p7vM/",
+    "title": "《崩坏3》过场动画——「跨越」",
+    "publishedAt": "2023-02-16T18:00:00+08:00",
+    "date": "2023-02-16",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 171,
+    "stats": {
+      "view": 3508618,
+      "like": 204318,
+      "coin": 134724,
+      "favorite": 82232,
+      "share": 31181,
+      "danmaku": 9222,
+      "reply": 11135,
+      "his_rank": 6
+    },
+    "honors": [
+      {
+        "type": 2,
+        "desc": "第204期每周必看"
+      },
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第6名"
+      },
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "「准备好了吗？接下来，就的确是终点了。」\n\n配音演员：\n雷电芽衣——菊花花\n布洛妮娅·扎伊切克——hanser",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "cyberangel-song",
+    "fetchedAt": "2026-10-11T08:34:01.5207507+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1v4411A7oj",
+    "bvid": "BV1v4411A7oj",
+    "aid": 57879229,
+    "url": "https://www.bilibili.com/video/BV1v4411A7oj/",
+    "title": "「Cyberangel」——《崩坏3》印象曲（演唱者：Hanser）",
+    "publishedAt": "2019-07-05T11:55:10+08:00",
+    "date": "2019-07-05",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 185,
+    "stats": {
+      "view": 12857797,
+      "like": 355762,
+      "coin": 231156,
+      "favorite": 284625,
+      "share": 35473,
+      "danmaku": 40854,
+      "reply": 13251,
+      "his_rank": 0
+    },
+    "honors": [],
+    "description": "Cyberangel（崩坏3印象曲）\nMusic by HOYO-MiX\n演唱：Hanser\n作曲：蔡近翰Zoe\n作词：尹纯青Eyn，Applebeetle\n编曲：宫奇Gon\n录音：李昀昇Max\n混音&母带处理：宫奇Gon\n制作人：宫奇Gon",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "ddd",
+    "fetchedAt": "2026-10-11T08:34:01.9568139+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XR4y1K7SF",
+    "bvid": "BV1XR4y1K7SF",
+    "aid": 338456951,
+    "url": "https://www.bilibili.com/video/BV1XR4y1K7SF/",
+    "title": "【崩坏3新春会】《德⭐德⭐德》德丽莎同人原创曲",
+    "publishedAt": "2022-01-27T20:45:09+08:00",
+    "date": "2022-01-27",
+    "owner": {
+      "mid": 7966,
+      "name": "花园花玲"
+    },
+    "durationSeconds": 144,
+    "stats": {
+      "view": 2139470,
+      "like": 133558,
+      "coin": 79381,
+      "favorite": 75306,
+      "share": 9787,
+      "danmaku": 10338,
+      "reply": 3707,
+      "his_rank": 0
+    },
+    "honors": [
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "感谢果子哥和梦鼠制作的这首属于德丽莎的原创曲！是不同世界的德丽莎和舰长的故事～来和德丽莎一起过年吧！\n网易云：https://music.163.com/song?id=1915730110&userid=85963512\n\n《德德德》\n策划 - 果蝇轰\n作词 - 果蝇轰\n演唱 - 花园花玲\n音乐制作 - 梦鼠音乐 Project Mons\n作曲 / 编曲 - Takna\nPV绘制：AIRikka、海带塔、昕星语、星之羽翼、樱花的蛋蛋\n视频制作：NZ映画",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "elysia-song",
+    "fetchedAt": "2026-10-11T08:34:02.3914487+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dq4y1N7ry",
+    "bvid": "BV1dq4y1N7ry",
+    "aid": 547989472,
+    "url": "https://www.bilibili.com/video/BV1dq4y1N7ry/",
+    "title": "【宴宁】Elysia【声优原创曲】",
+    "publishedAt": "2021-09-16T18:00:16+08:00",
+    "date": "2021-09-16",
+    "owner": {
+      "mid": 14897804,
+      "name": "宴宁ccccc"
+    },
+    "durationSeconds": 220,
+    "stats": {
+      "view": 7637892,
+      "like": 353813,
+      "coin": 235822,
+      "favorite": 212867,
+      "share": 31469,
+      "danmaku": 13059,
+      "reply": 13949,
+      "his_rank": 50
+    },
+    "honors": [
+      {
+        "type": 2,
+        "desc": "第130期每周必看"
+      },
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第50名"
+      },
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "有机会给爱莉宝贝唱歌了！！！开心~~\n辛苦各位staff\n宝贝上舰后要多去陪陪她呀！\n希望大家听得开心~",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "beloved-song",
+    "fetchedAt": "2026-10-11T08:34:02.8423307+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bB4y1L7qh",
+    "bvid": "BV1bB4y1L7qh",
+    "aid": 602098661,
+    "url": "https://www.bilibili.com/video/BV1bB4y1L7qh/",
+    "title": "「爱莉希雅」致 爱-A song for beloved【声优原创曲】",
+    "publishedAt": "2022-08-16T18:30:00+08:00",
+    "date": "2022-08-16",
+    "owner": {
+      "mid": 14897804,
+      "name": "宴宁ccccc"
+    },
+    "durationSeconds": 270,
+    "stats": {
+      "view": 5004209,
+      "like": 366856,
+      "coin": 341138,
+      "favorite": 243674,
+      "share": 59835,
+      "danmaku": 35415,
+      "reply": 12272,
+      "his_rank": 5
+    },
+    "honors": [
+      {
+        "type": 2,
+        "desc": "第178期每周必看"
+      },
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第5名"
+      },
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "总策划：@超想吃番茄  \n演唱：@宴宁ccccc  \n歌曲制作：@徐鲤-鲸升  @映日鲸升  \n作词：@阿嗲很夸张  \n小提琴实录：@拿弓子的波塞东  \n钢琴实录：@MrLi小哥  \n辛苦大家~\n\n这首歌送给最美的爱莉希雅。",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "summer-memory",
+    "fetchedAt": "2026-10-11T08:34:03.2772717+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bT421k7kA",
+    "bvid": "BV1bT421k7kA",
+    "aid": 1706221422,
+    "url": "https://www.bilibili.com/video/BV1bT421k7kA/",
+    "title": "《崩坏3》概念动画短片「夏令回想」",
+    "publishedAt": "2024-07-21T18:00:00+08:00",
+    "date": "2024-07-21",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 123,
+    "stats": {
+      "view": 706957,
+      "like": 91692,
+      "coin": 46663,
+      "favorite": 27983,
+      "share": 8906,
+      "danmaku": 1875,
+      "reply": 3860,
+      "his_rank": 96
+    },
+    "honors": [
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第96名"
+      },
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "沙滩，海浪，棕榈树，在柔和的晚星下挥舞仙女棒，点燃回忆中永不结束的夏天。",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "elf-magic",
+    "fetchedAt": "2026-10-11T08:34:03.7286159+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SDpRzjEDu",
+    "bvid": "BV1SDpRzjEDu",
+    "aid": 115236556309960,
+    "url": "https://www.bilibili.com/video/BV1SDpRzjEDu/",
+    "title": "《崩坏3》妖精小姐的魔法邀约",
+    "publishedAt": "2025-09-20T20:16:29+08:00",
+    "date": "2025-09-20",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 112,
+    "stats": {
+      "view": 2179488,
+      "like": 194972,
+      "coin": 124445,
+      "favorite": 106840,
+      "share": 20478,
+      "danmaku": 37342,
+      "reply": 11031,
+      "his_rank": 55
+    },
+    "honors": [
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第55名"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "心愿与繁星闪耀，照亮流光溢彩的理想之乡；\n祝福随百花绽放，连缀成永不落幕的梦幻乐园。\n踏上充盈着爱意的冒险吧，无论何时，这座奇迹乐园都会等待着你哦——当然，可爱的妖精小姐也是~\n\n演唱——宴宁",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "anniversary-10-program",
+    "fetchedAt": "2026-10-11T08:34:04.1794326+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1aLeb6sEC5",
+    "bvid": "BV1aLeb6sEC5",
+    "aid": 117297318527749,
+    "url": "https://www.bilibili.com/video/BV1aLeb6sEC5/",
+    "title": "《崩坏3》十周年庆典特别节目录像",
+    "publishedAt": "2026-09-19T21:10:00+08:00",
+    "date": "2026-09-19",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 4749,
+    "stats": {
+      "view": 461877,
+      "like": 55177,
+      "coin": 26574,
+      "favorite": 19507,
+      "share": 2967,
+      "danmaku": 13259,
+      "reply": 7067,
+      "his_rank": 86
+    },
+    "honors": [
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第86名"
+      }
+    ],
+    "description": "本次节目中，配音演员赵爽、张若瑜、孙艳琦、闫夜桥、可可味、溯浔、宴宁、Mace、阮从青、陶典、菊花花、hanser、花玲、唐雅菁一同揭秘了9.1版本的全新内容，带来了全新S级角色「时序之律者」、主线第二部后日谈「海正用火的声音歌唱」、主题活动「相遇♪回忆玩具小屋」、新服装与丰富周年活动的情报以及嘉宾配音挑战与配音幕后环节~",
+    "state": 0,
+    "copyright": 3
+  },
+  {
+    "seedId": "pv-9.1",
+    "fetchedAt": "2026-10-11T08:34:04.6130325+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pKe26sEPf",
+    "bvid": "BV1pKe26sEPf",
+    "aid": 117290624419810,
+    "url": "https://www.bilibili.com/video/BV1pKe26sEPf/",
+    "title": "《崩坏3》9.1版本「时序照新」宣传PV",
+    "publishedAt": "2026-09-19T20:30:00+08:00",
+    "date": "2026-09-19",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 116,
+    "stats": {
+      "view": 225365,
+      "like": 21168,
+      "coin": 7111,
+      "favorite": 4218,
+      "share": 753,
+      "danmaku": 1311,
+      "reply": 2064,
+      "his_rank": 0
+    },
+    "honors": [],
+    "description": "《崩坏3》9.1版本「时序照新」即将开启！全新S级角色寻梦者「时序之律者」登场！\n还有主线第二部后日谈「海正用火的声音歌唱」、主题活动「相遇♪回忆玩具小屋」、十周年福利与全新服装重磅来袭，敬请期待！\n \n配音演员：\n希娜狄雅——孙艳琦\n寻梦者——张若瑜",
+    "state": 0,
+    "copyright": 3
+  },
+  {
+    "seedId": "pv-8.5",
+    "fetchedAt": "2026-10-11T08:34:05.0481331+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bEWgzWEbt",
+    "bvid": "BV1bEWgzWEbt",
+    "aid": 115228872280256,
+    "url": "https://www.bilibili.com/video/BV1bEWgzWEbt/",
+    "title": "《崩坏3》8.5版本「爱愿偕光」宣传PV",
+    "publishedAt": "2025-09-20T20:00:00+08:00",
+    "date": "2025-09-20",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 120,
+    "stats": {
+      "view": 846484,
+      "like": 47784,
+      "coin": 17433,
+      "favorite": 12983,
+      "share": 3838,
+      "danmaku": 7000,
+      "reply": 1855,
+      "his_rank": 0
+    },
+    "honors": [
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "《崩坏3》8.5版本「爱愿偕光」即将开启！全新S级角色爱莉希雅「嗨♪爱愿妖精♥」登场！\n还有主线第二部第十章「于信仰之光下重逢」、周年主题活动「偕行！青春畅想」、原画集活动、九周年福利等重磅内容来袭，敬请期待！\n \n配音演员：\n希娜狄雅——孙艳琦\n寻梦者——张若瑜\n蕾耶拉——张若瑜\n爱莉希雅——宴宁\n琪亚娜·卡斯兰娜——陶典",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "pv-7.0",
+    "fetchedAt": "2026-10-11T08:34:05.4844799+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xu4y1z7Zw",
+    "bvid": "BV1xu4y1z7Zw",
+    "aid": 916208845,
+    "url": "https://www.bilibili.com/video/BV1xu4y1z7Zw/",
+    "title": "《崩坏3》7.0版本「月下相续」宣传PV",
+    "publishedAt": "2023-09-23T18:00:00+08:00",
+    "date": "2023-09-23",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 135,
+    "stats": {
+      "view": 1693760,
+      "like": 66226,
+      "coin": 18548,
+      "favorite": 15737,
+      "share": 5862,
+      "danmaku": 3210,
+      "reply": 2609,
+      "his_rank": 0
+    },
+    "honors": [],
+    "description": "《崩坏3》7.0版本「月下相续」即将开启！全新S级角色「月下誓约·予爱以心」登场！\n还有主线41章、周年主题活动「舰舰的牧场奇谭」、七周年福利等重磅内容来袭，敬请期待！\n\n配音演员：\n月下——花玲\n格蕾修——紫苏九月\n符华——Mace\n义心的薇塔——闫夜桥\n丹朱——紫苏九月",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "pv-7.2",
+    "fetchedAt": "2026-10-11T08:34:05.9344664+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vb4y157TW",
+    "bvid": "BV1vb4y157TW",
+    "aid": 622228254,
+    "url": "https://www.bilibili.com/video/BV1vb4y157TW/",
+    "title": "《崩坏3》7.2版本「渡尘寻星」宣传PV",
+    "publishedAt": "2023-12-15T20:00:00+08:00",
+    "date": "2023-12-15",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 118,
+    "stats": {
+      "view": 1285130,
+      "like": 59208,
+      "coin": 21118,
+      "favorite": 14822,
+      "share": 8657,
+      "danmaku": 1687,
+      "reply": 2206,
+      "his_rank": 0
+    },
+    "honors": [
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "《崩坏3》7.2版本「渡尘寻星」即将开启！全新S级角色「浮生·渡尘之羽」登场！\n还有主题活动「寻鸢漫录」、全新活动「月所凝望之星」等活动内容来袭，敬请期待！\n\n配音演员：\n符华——Mace",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "hamelin-origin",
+    "fetchedAt": "2026-10-11T08:34:06.3828088+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nV4y1g7ti",
+    "bvid": "BV1nV4y1g7ti",
+    "aid": 857944842,
+    "url": "https://www.bilibili.com/video/BV1nV4y1g7ti/",
+    "title": "【崩坏3】爱莉希雅「The Herrscher of Origin」",
+    "publishedAt": "2022-09-10T11:00:00+08:00",
+    "date": "2022-09-10",
+    "owner": {
+      "mid": 11742550,
+      "name": "哈米伦的弄笛者"
+    },
+    "durationSeconds": 247,
+    "stats": {
+      "view": 3508869,
+      "like": 274423,
+      "coin": 219608,
+      "favorite": 176953,
+      "share": 28386,
+      "danmaku": 13580,
+      "reply": 2721,
+      "his_rank": 34
+    },
+    "honors": [
+      {
+        "type": 2,
+        "desc": "第182期每周必看"
+      },
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第34名"
+      },
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "标题的名字是和one last kiss—最终一吻 相对应的 最初一人，这次视频，从策划开始，就开始纠结到底以芽衣和爱莉为主还是以爱莉的视角去引领全员为主，当时光制作文案就做了好几天，尝试了两版不同的分镜，最终选择了以爱莉为中心的故事，毕竟要讲清楚爱莉希雅，就是要向大家展示整个旧时代与乐土的故事，很感谢四木老师能够陪我一直反复修改分镜，光废弃的分镜估计都能有一个手书的量了233，整个视频的故事，围绕的便是【不想遗忘之事/人】为点，在前一分钟的时候，不想遗忘之事是大家曾经快乐美好的时光，在视频后半段芽衣和乐土大家合影的时候，不想遗忘之事便是芽衣与乐土众人的羁绊，最后，当爱莉侧过脸望向“芽衣”说出：只要芽衣还记得我们，我们就不会真正消失的时候，其实这个也是对我们所说的话，视频最后的不想遗忘之人，便是我们对乐土大家的不舍，只要我们还记得乐土的大家，那么大家就是存在我们心中，就算时光流逝，这份美好和感动都会存在，这次视频总共将近140多张的镜头，是目前制作视频中除了延千古外图量最多的视频，希望这个视频能为乐土的大家做一个完美的句号，如同结尾所言：\n这是属于那个如黄金般辉煌时代的故事\n这是十三位未能成为英雄之人的故事\n这是由你和我共同见证的故事\n——————再见了，所有的逐火英桀\n总策划：哈米伦的弄笛者\n主笔/监制：vikki  哈米伦的弄笛者\n分镜：四木攰\n后期：睡不醒的问号\n画师：vikki，咔叽，千羽菜芽衣，陈藏器，浅川未白，祓筱，Ferry空想，夏至君X2one，合悟昂，一枔，纪木棉，潜蓝blue，寰宇诺亚，有雪无霜，SRF讽，uiko，咕噜咕噜，依依，Kuma-ra，魔法少女蟒蛇绞，沐梔つ，澄澄，沉默，Hook，羽虫，幽幽\n平面：vioko",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "newyear-2022",
+    "fetchedAt": "2026-10-11T08:34:06.8340200+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1cF411W75Q",
+    "bvid": "BV1cF411W75Q",
+    "aid": 295956417,
+    "url": "https://www.bilibili.com/video/BV1cF411W75Q/",
+    "title": "2022崩坏3新春会 ·「\"年\"接一切」",
+    "publishedAt": "2022-01-27T20:30:18+08:00",
+    "date": "2022-01-27",
+    "owner": {
+      "mid": 8469526,
+      "name": "果蝇轰"
+    },
+    "durationSeconds": 8124,
+    "stats": {
+      "view": 2301435,
+      "like": 202816,
+      "coin": 157856,
+      "favorite": 104722,
+      "share": 9969,
+      "danmaku": 57063,
+      "reply": 5012,
+      "his_rank": 18
+    },
+    "honors": [
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第18名"
+      },
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "耶！2022崩坏3新春会终于和各位舰长们见面啦！！\n这次晚会的主题是连接灵感的关键词创作挑战！当然隐藏的关键词就是快快乐乐，开开心心啦！！\n总之希望大家能享受一场有趣的崩坏3新春会，祝大家新春快乐~！\n同时也感谢受邀参与进来的全体UP和配音老师们，大家都辛苦了！！\n*所有描改、NETA、致敬的作品，我们都已在单品中，标注好本家和来源，感谢大家的支持和理解！也很欢迎大家去发掘有趣的要素和彩蛋，peace！\n-----节目单-----\n「“年”接一切·新春过场故事——琪亚娜，捉紧光！」\n果蝇轰\n帷幕VMovie\n \n「战斗吧！女武神少女Q！（描改/《机器人少女Z/Z+》OP）」\n姬海棠羽笠果\n \n「蛇蛇妙妙屋」\n空耳狂魔\n一万根韭菜\nhola哈呐\nCME6大神犬\n \n「强大的DNA」\n拉环儿_\n \n「[打牌王]我召唤我的拳头呈攻击表示」\n艾尔十六\n \n「太甜了！是糖（/创意参考：糖豆人」\n杰洛飞\nKid丶Lis\nhola哈呐\n微冷の世界\nPC洋柿子\n改-放\n \n「我们创造未来」\n暗猫の祝福\n \n「收手吧，外面全是独■兽！」\n果蝇轰\n \n「Ultimate Blade，完全解放！「后崩坏书MMD」」\nAHKちゃん\n \n「好怪哦」\n果蝇轰\n雪菲岚岚\n \n「海怪红色预警」\n鹿乃\nChiliChill\n观海子\n \n「新春舰长赛-双子篇」\n游戏彩笔\n \n「偶像之海」\n粥粥的奇妙冒险\n \n「女武神们的学级裁判！快乐的处刑时间~（neta自弹丸论破）」\n姬海棠羽笠果\n果蝇轰\nSennyuki风早千雪\n \n「「Blazing Legacy」炎光遗志」\n梦鼠音乐 Project Mons\n \n「月球冒险」\nAnsa\n \n「【崩坏沙雕新闻】编剧的魔爪伸向我了！！！」\n魏晋南北\n \n「【千里邀月】与你一同共赴新春」\n观海子\n-鬼瞳-\n \n「【崩坏3手书】再见了，孤独」\n哈米伦的弄笛者\n \n「《德☆德☆德》德丽莎同人原创曲」\n花园花玲\n果蝇轰\n梦鼠音乐 Project Mons\n \n「Fly Me to the Star「描改/少女歌剧ED」」\n果蝇轰",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "anniversary-10-fan",
+    "fetchedAt": "2026-10-11T08:34:07.2704504+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV15dhv66EHZ",
+    "bvid": "BV15dhv66EHZ",
+    "aid": 117308424981617,
+    "url": "https://www.bilibili.com/video/BV15dhv66EHZ/",
+    "title": "【崩坏3十周年生日会】崩坏3躲猫猫？史上最强律者vs现代最强律者！",
+    "publishedAt": "2026-09-24T20:00:00+08:00",
+    "date": "2026-09-24",
+    "owner": {
+      "mid": 3066511,
+      "name": "特效小哥studio"
+    },
+    "durationSeconds": 321,
+    "stats": {
+      "view": 693614,
+      "like": 87990,
+      "coin": 12204,
+      "favorite": 24160,
+      "share": 2277,
+      "danmaku": 918,
+      "reply": 881,
+      "his_rank": 61
+    },
+    "honors": [
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第61名"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "没想到一转眼咱崩崩崩已经十周年了，想起第一次做三崩子的动画仿佛还在昨天哇。从一路看见琪宝成长到这次寻梦者也成功跨越终焉，作为一个登舰这么多年的老舰长，真是感慨万分啊。期待后续也能看见更多幸福美好的故事鸭，那么在崩坏3十周年这个特殊的日子里，祝各位舰长天天开心，事业有成，深渊不用凹，十连全出金，祝崩坏3十周年快乐！今天的崩坏3是无敌的！！！！！！喜欢本期视频的友友们可以点赞投币关注支持一下呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀呀（这次动画时长和发布时间有隐藏小彩蛋哦~）",
+    "state": 0,
+    "copyright": 3
+  },
+  {
+    "seedId": "concert-2021",
+    "fetchedAt": "2026-10-11T08:34:07.7050456+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV18r4y1C7xo",
+    "bvid": "BV18r4y1C7xo",
+    "aid": 763967422,
+    "url": "https://www.bilibili.com/video/BV18r4y1C7xo/",
+    "title": "崩坏3「星火流音」纪念演出正片",
+    "publishedAt": "2021-11-05T20:00:01+08:00",
+    "date": "2021-11-05",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 3871,
+    "stats": {
+      "view": 7150741,
+      "like": 315643,
+      "coin": 275260,
+      "favorite": 141615,
+      "share": 26681,
+      "danmaku": 85849,
+      "reply": 13194,
+      "his_rank": 50
+    },
+    "honors": [
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第50名"
+      }
+    ],
+    "description": "星火辉烁，织梦成歌。崩坏3「星火流音」纪念演出正片现已正式上线！",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "hsr-crossover-program",
+    "fetchedAt": "2026-10-11T08:34:08.1418641+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zU1HYUENZ",
+    "bvid": "BV1zU1HYUENZ",
+    "aid": 113371835797441,
+    "url": "https://www.bilibili.com/video/BV1zU1HYUENZ/",
+    "title": "《崩坏3》×《崩坏：星穹铁道》V7.9「星间诡戏」特别节目录像",
+    "publishedAt": "2024-10-26T20:30:00+08:00",
+    "date": "2024-10-26",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 2076,
+    "stats": {
+      "view": 912102,
+      "like": 48411,
+      "coin": 4764,
+      "favorite": 7771,
+      "share": 1692,
+      "danmaku": 2854,
+      "reply": 2278,
+      "his_rank": 0
+    },
+    "honors": [
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "本次节目我们请到了主持人夕芷、lala，研发嘉宾 IP coma，配音演员赵爽，一同揭秘7.9版本的全新内容，带来全新S级角色花火·诡戏千役「友情出演！」、主线第二部第六章「悲鸣止于缄默之影」，以及联动PV预告、联动活动「崩坏：愚者牌揭秘」、活动服装等重磅更新情报！",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "mei-pv-2016",
+    "fetchedAt": "2026-10-11T08:40:24.5591060+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zs411t7ma",
+    "bvid": "BV1zs411t7ma",
+    "aid": 6422080,
+    "url": "https://www.bilibili.com/video/BV1zs411t7ma/",
+    "title": "【崩坏3】雷电女王降临！芽衣角色PV解禁",
+    "publishedAt": "2016-09-26T10:07:36+08:00",
+    "date": "2016-09-26",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 68,
+    "stats": {
+      "view": 847707,
+      "like": 21267,
+      "coin": 1393,
+      "favorite": 4291,
+      "share": 2407,
+      "danmaku": 1215,
+      "reply": 2322,
+      "his_rank": 0
+    },
+    "honors": [],
+    "description": "爱酱の最新情报，雷电·芽衣角色PV解禁！\n------\n雷电·芽衣CV：工口小菊花\n她以连环斩杀的巨刃，陈情樱花散落的密语；\n她以飘渺无踪的忍法，化攻击于无形；\n她以雷神霸斩的狂气，招来雷霆万钧！\n“I'm Mei！”\n所以说好漂亮的小短裙（哦不划掉），好漂亮的小姐姐呀///w///！\n------\n《崩坏3》预登录作战请戳传送门http://event.bh3.com/bh3_pre_login/",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "mei-quit-cv",
+    "fetchedAt": "2026-10-11T08:40:25.0706455+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TE41137zQ",
+    "bvid": "BV1TE41137zQ",
+    "aid": 96216185,
+    "url": "https://www.bilibili.com/video/BV1TE41137zQ/",
+    "title": "【崩坏3】声优翻唱 芽衣什么的不干啦！",
+    "publishedAt": "2020-03-15T01:43:16+08:00",
+    "date": "2020-03-15",
+    "owner": {
+      "mid": 920713,
+      "name": "爆裂菊是也"
+    },
+    "durationSeconds": 94,
+    "stats": {
+      "view": 7204161,
+      "like": 329535,
+      "coin": 168806,
+      "favorite": 139434,
+      "share": 43537,
+      "danmaku": 6393,
+      "reply": 10391,
+      "his_rank": 22
+    },
+    "honors": [
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第22名"
+      },
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "你们圈我的都看到了！我觉得，你们说的有道理！芽衣怎么这么惨QAQ哭唧唧！\n感谢视频作者的授权~~~\n本家：sm9989131/av342534/av645896/av93095741\nvocal：可爱菊花老阿姨\n后期：三星堆工作室",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "mei-quit-original",
+    "fetchedAt": "2026-10-11T08:40:25.5523442+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qE411j7R9",
+    "bvid": "BV1qE411j7R9",
+    "aid": 93095741,
+    "url": "https://www.bilibili.com/video/BV1qE411j7R9/",
+    "title": "【崩坏3/洛天依】芽衣什么的不干了啦！",
+    "publishedAt": "2020-03-02T22:45:41+08:00",
+    "date": "2020-03-02",
+    "owner": {
+      "mid": 2629611,
+      "name": "慕尘Muchan"
+    },
+    "durationSeconds": 92,
+    "stats": {
+      "view": 232705,
+      "like": 12928,
+      "coin": 4030,
+      "favorite": 3137,
+      "share": 1204,
+      "danmaku": 196,
+      "reply": 689,
+      "his_rank": 0
+    },
+    "honors": [],
+    "description": "你们不要再迫害芽衣啦！！！！！\n好吧我承认这个视频也是在迫害芽衣（心虚）\n但是等雷律出了就没办法做这个视频了（理不直气也壮）\n\n本家：sm9989131/av342534/av645896\n填/调/混/pv：我\n图片素材：崩坏3rd及官方素材、米游社、NGA崩坏3版",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "pv-7.3",
+    "fetchedAt": "2026-10-11T08:40:25.9874871+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Xe411n7m5",
+    "bvid": "BV1Xe411n7m5",
+    "aid": 241686285,
+    "url": "https://www.bilibili.com/video/BV1Xe411n7m5/",
+    "title": "《崩坏3》7.3版本「寻梦启航」宣传PV",
+    "publishedAt": "2024-01-27T20:30:00+08:00",
+    "date": "2024-01-27",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 153,
+    "stats": {
+      "view": 1525280,
+      "like": 58156,
+      "coin": 15416,
+      "favorite": 10906,
+      "share": 5446,
+      "danmaku": 1281,
+      "reply": 3270,
+      "his_rank": 0
+    },
+    "honors": [
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "《崩坏3》第二部全新启航！7.3版本「寻梦启航」即将开启！全新S级角色「深空定锚·曙光」，以及A级角色「女武神·巡矢」、「女武神·重机」登场！\n还有主线第二部第一章「百年孤影」、主题活动「数海寻馔」、第二部特别福利等丰富活动内容来袭，敬请期待！\n\n配音演员：\n希娜狄雅——孙艳琦\n埃尔德什·赫丽娅——溯浔\n科拉莉·6626·普朗克——可可味",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "pv-4.6",
+    "fetchedAt": "2026-10-11T08:40:26.4226601+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV14N411o7Ut",
+    "bvid": "BV14N411o7Ut",
+    "aid": 501470602,
+    "url": "https://www.bilibili.com/video/BV14N411o7Ut/",
+    "title": "《崩坏3》4.6版本「唯我独尊」宣传PV",
+    "publishedAt": "2021-01-30T20:00:13+08:00",
+    "date": "2021-01-30",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 98,
+    "stats": {
+      "view": 13738740,
+      "like": 391924,
+      "coin": 157522,
+      "favorite": 162017,
+      "share": 130306,
+      "danmaku": 22583,
+      "reply": 16579,
+      "his_rank": 39
+    },
+    "honors": [
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第39名"
+      },
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "《崩坏3》4.6版本「唯我独尊」即将开启！全新S级角色「识之律者」降临！\n还有全新装备「无存之钥」「神州折剑」圣痕套装，春节活动「神州漂流记」「宴满除夕」，敬请期待！",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "pv-6.0",
+    "fetchedAt": "2026-10-11T08:40:26.8544527+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Mg411k7U5",
+    "bvid": "BV1Mg411k7U5",
+    "aid": 514331399,
+    "url": "https://www.bilibili.com/video/BV1Mg411k7U5/",
+    "title": "《崩坏3》6.0版本「光辉矢愿」宣传PV",
+    "publishedAt": "2022-08-13T20:00:00+08:00",
+    "date": "2022-08-13",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 144,
+    "stats": {
+      "view": 3097542,
+      "like": 143820,
+      "coin": 71169,
+      "favorite": 42886,
+      "share": 23062,
+      "danmaku": 12908,
+      "reply": 5420,
+      "his_rank": 0
+    },
+    "honors": [
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "《崩坏3》6.0版本「光辉矢愿」即将开启！全新S级角色爱莉希雅「真我·人之律者」登场！\n还有主线间章、夏日系列活动等重磅更新来袭，敬请期待！\n\n配音演员：\n爱莉希雅——宴宁\n帕朵菲莉丝——金娜",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "documentary",
+    "fetchedAt": "2026-10-11T08:40:27.2871515+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1554y1u7J8",
+    "bvid": "BV1554y1u7J8",
+    "aid": 865382096,
+    "url": "https://www.bilibili.com/video/BV1554y1u7J8/",
+    "title": "《崩坏3》游戏纪录片——「最后留下了故事」",
+    "publishedAt": "2023-03-05T12:00:00+08:00",
+    "date": "2023-03-05",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 2661,
+    "stats": {
+      "view": 3503901,
+      "like": 351481,
+      "coin": 342125,
+      "favorite": 178620,
+      "share": 48360,
+      "danmaku": 63088,
+      "reply": 15128,
+      "his_rank": 1
+    },
+    "honors": [
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第1名"
+      },
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "“且行且看，尽力而为，不要害怕，不要后悔。”\n\n谨以此片献给所有舰长、《崩坏3》制作组全体成员，这条游戏叙事之路，我们共同出发、共同经历、共同见证。",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "concert-2022",
+    "fetchedAt": "2026-10-11T08:40:27.7193305+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ad4y1d7Kk",
+    "bvid": "BV1ad4y1d7Kk",
+    "aid": 387354314,
+    "url": "https://www.bilibili.com/video/BV1ad4y1d7Kk/",
+    "title": "崩坏3「纯真梦歌」线上音乐会",
+    "publishedAt": "2022-08-27T21:20:01+08:00",
+    "date": "2022-08-27",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 3858,
+    "stats": {
+      "view": 7839654,
+      "like": 427787,
+      "coin": 446903,
+      "favorite": 198909,
+      "share": 6124,
+      "danmaku": 156908,
+      "reply": 17885,
+      "his_rank": 3
+    },
+    "honors": [
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第3名"
+      }
+    ],
+    "description": "崩坏3「纯真梦歌」线上音乐会正片已正式上线！\n\n万象的音符，汇聚成绚丽的萤火，点亮我们共同铭记的瞬间。黄龄、黄霄雲、Hanser、小林未郁、MARiA (GARNiDELiA)等嘉宾倾情出演，丰富的音乐元素结合xR、AR虚拟技术，带来一场视听结合的琳琅幻梦。",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "concert-2023",
+    "fetchedAt": "2026-10-11T08:40:28.1410145+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1w94y1i7f1",
+    "bvid": "BV1w94y1i7f1",
+    "aid": 361441709,
+    "url": "https://www.bilibili.com/video/BV1w94y1i7f1/",
+    "title": "《崩坏3》「林海绮律」线上音乐会",
+    "publishedAt": "2023-07-29T21:10:00+08:00",
+    "date": "2023-07-29",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 3723,
+    "stats": {
+      "view": 5729699,
+      "like": 260227,
+      "coin": 235489,
+      "favorite": 116926,
+      "share": 28873,
+      "danmaku": 100856,
+      "reply": 11458,
+      "his_rank": 14
+    },
+    "honors": [
+      {
+        "type": 2,
+        "desc": "第228期每周必看"
+      },
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第14名"
+      }
+    ],
+    "description": "记载于纸张上的幻想，会在童话世界中绽放。让我们共赴奇境，欣赏回荡在林间的旋律。\nHanser、黄龄、萨顶顶、小林未郁、车子玉(HOYO-MiX) 等嘉宾倾情出演，丰富的音乐元素结合xR、AR虚拟技术，带来一场视听结合的琳琅幻梦。本音乐演出由米哈游miHoYo & HOYO-MiX出品。",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "elf-fantasy-song",
+    "fetchedAt": "2026-10-11T08:41:51.9848043+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ev411n7Ks",
+    "bvid": "BV1ev411n7Ks",
+    "aid": 249241475,
+    "url": "https://www.bilibili.com/video/BV1ev411n7Ks/",
+    "title": "「Elf Fantasy」——《崩坏3》人偶学园片尾曲",
+    "publishedAt": "2021-07-15T12:00:01+08:00",
+    "date": "2021-07-15",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 40,
+    "stats": {
+      "view": 1688705,
+      "like": 135678,
+      "coin": 15904,
+      "favorite": 20623,
+      "share": 2966,
+      "danmaku": 788,
+      "reply": 1740,
+      "his_rank": 0
+    },
+    "honors": [],
+    "description": "\"在某个世界泡中，武装人偶与死士的冲突从未间断过。伴随着二者之间的冲突不断升级，世界泡的稳定性正逐渐降低。为了拯救这个即将崩坏的世界，人类成立了专门用来管理与控制人偶的组织。为了掩盖黑暗的真相，人类特地给组织取了一个非常可爱的名字——「人偶学园」……——啊哈哈，开玩笑的，怎么可能是那样呢？\"",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "travel-animation",
+    "fetchedAt": "2026-10-11T08:40:29.0128702+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV15y421Y7dk",
+    "bvid": "BV15y421Y7dk",
+    "aid": 1550263670,
+    "url": "https://www.bilibili.com/video/BV15y421Y7dk/",
+    "title": "《崩坏3》全新特别动画「旅途危机！圣芙蕾雅号特别事件」",
+    "publishedAt": "2024-02-09T19:00:01+08:00",
+    "date": "2024-02-09",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 2161,
+    "stats": {
+      "view": 8134701,
+      "like": 282622,
+      "coin": 226251,
+      "favorite": 120250,
+      "share": 29681,
+      "danmaku": 97915,
+      "reply": 9543,
+      "his_rank": 0
+    },
+    "honors": [],
+    "description": "这是众人期盼已久的完美假期。在飞往月球的豪华飞船圣芙蕾雅号上，尽情享受这难得的放松旅途——本该如此。\n神秘的黑影，突然的失重，消失的物品，全是漏洞的不在场证明……犯人，难道就在我们之中？",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "before-departure-song",
+    "fetchedAt": "2026-10-11T08:40:29.4458597+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1H7421N7M3",
+    "bvid": "BV1H7421N7M3",
+    "aid": 1650297244,
+    "url": "https://www.bilibili.com/video/BV1H7421N7M3/",
+    "title": "「在出发之前」——崩坏3《旅途危机！圣芙蕾雅号特别事件》主题曲（演唱者：陶典/菊花花/Hanser）",
+    "publishedAt": "2024-02-09T20:00:00+08:00",
+    "date": "2024-02-09",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 276,
+    "stats": {
+      "view": 1078825,
+      "like": 68060,
+      "coin": 41744,
+      "favorite": 26759,
+      "share": 4366,
+      "danmaku": 6692,
+      "reply": 2413,
+      "his_rank": 0
+    },
+    "honors": [],
+    "description": "“我们，就在这里。”\n\n「在出发之前」\n演唱：陶典/菊花花/Hanser\n\nMusic by HOYO-MiX",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "blue-sky-promise",
+    "fetchedAt": "2026-10-11T08:40:29.8820774+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yQ4y1q74w",
+    "bvid": "BV1yQ4y1q74w",
+    "aid": 721376713,
+    "url": "https://www.bilibili.com/video/BV1yQ4y1q74w/",
+    "title": "【崩坏3】青空的约定（声优原创曲）",
+    "publishedAt": "2021-11-05T12:00:19+08:00",
+    "date": "2021-11-05",
+    "owner": {
+      "mid": 249118,
+      "name": "shourei小N"
+    },
+    "durationSeconds": 221,
+    "stats": {
+      "view": 1770613,
+      "like": 151422,
+      "coin": 112106,
+      "favorite": 82207,
+      "share": 8492,
+      "danmaku": 987,
+      "reply": 3166,
+      "his_rank": 28
+    },
+    "honors": [
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第28名"
+      },
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "我们一起唱歌了！豪华演出阵容哦！\n演唱：\n丽塔——小N\n符华——Mace\n萝莎莉娅——多多poi\n莉莉娅——宴宁\n幽兰黛尔——喵酱\n德丽莎——花玲\n\n策划：哈米伦的弄笛者\n作/编曲：提糯Tino\n后期：NZ映画\n画师：CHIKUBI_official\n视频制作：神痕（NZ映画）",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "reburn-ii",
+    "fetchedAt": "2026-10-11T08:41:52.4851685+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yR4y1n7KL",
+    "bvid": "BV1yR4y1n7KL",
+    "aid": 335885724,
+    "url": "https://www.bilibili.com/video/BV1yR4y1n7KL/",
+    "title": "《崩坏3 Reburn: II》概念动画短片",
+    "publishedAt": "2021-10-06T19:51:59+08:00",
+    "date": "2021-10-06",
+    "owner": {
+      "mid": 27534330,
+      "name": "崩坏3第一偶像爱酱"
+    },
+    "durationSeconds": 193,
+    "stats": {
+      "view": 2822691,
+      "like": 170846,
+      "coin": 51868,
+      "favorite": 48423,
+      "share": 45227,
+      "danmaku": 6520,
+      "reply": 11108,
+      "his_rank": 24
+    },
+    "honors": [
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第24名"
+      },
+      {
+        "type": 4,
+        "desc": "热门"
+      },
+      {
+        "type": 7,
+        "desc": "热门收录"
+      }
+    ],
+    "description": "「崩坏」从地球消失之后的世界。\n朝着「天上」的旅途——\n第一次试航，即将开始。",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "judah-disco",
+    "fetchedAt": "2026-10-11T08:41:52.9216137+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?aid=68962828",
+    "bvid": "BV1yJ411K7j3",
+    "aid": 68962828,
+    "url": "https://www.bilibili.com/video/BV1yJ411K7j3/",
+    "title": "【德丽莎】犹大disco",
+    "publishedAt": "2019-09-30T18:00:21+08:00",
+    "date": "2019-09-30",
+    "owner": {
+      "mid": 4320540,
+      "name": "猫山王豆浆"
+    },
+    "durationSeconds": 156,
+    "stats": {
+      "view": 2766152,
+      "like": 151681,
+      "coin": 102799,
+      "favorite": 85179,
+      "share": 16835,
+      "danmaku": 10370,
+      "reply": 2284,
+      "his_rank": 78
+    },
+    "honors": [
+      {
+        "type": 3,
+        "desc": "全站排行榜最高第78名"
+      }
+    ],
+    "description": "我的咸鱼群：411310758\n辣条厂房群：580485688\n--------------------\nBGM：Ihaksi - more sun\n原曲：宝石gem - 野狼disco\n音源@洛卡Rohcard-33\n动画@绝世安妮\n填词/调音/混音/制作@邻家索尔\n封面原图:AV35392261",
+    "state": 0,
+    "copyright": 1
+  },
+  {
+    "seedId": "annals",
+    "fetchedAt": "2026-10-11T08:41:53.3532826+00:00",
+    "status": "ok",
+    "apiUrl": "https://api.bilibili.com/x/web-interface/view?aid=66938671",
+    "bvid": "BV1U4411k7W4",
+    "aid": 66938671,
+    "url": "https://www.bilibili.com/video/BV1U4411k7W4/",
+    "title": "【史诗/震撼/崩坏3RD】ANNALS|崩坏编年史",
+    "publishedAt": "2019-09-07T18:38:04+08:00",
+    "date": "2019-09-07",
+    "owner": {
+      "mid": 25467124,
+      "name": "T--K"
+    },
+    "durationSeconds": 252,
+    "stats": {
+      "view": 615818,
+      "like": 70571,
+      "coin": 76216,
+      "favorite": 53675,
+      "share": 7943,
+      "danmaku": 4143,
+      "reply": 1391,
+      "his_rank": 0
+    },
+    "honors": [],
+    "description": "相关游戏: 崩坏3\n自制，从6月份计划开始的工程，由于各种原因断断续续肝到了9月，期间学了\n一些新的东西，电脑君也是一次又一次在崩溃的边缘试探。。由于开始步入社会\n变成社畜，肝崩崩崩的时间越来越少，现在已经成了咸鱼玩家，但崩坏3依然\n还是坚持每天上线的，希望崩坏这个IP可以继续发展下去（怒草大伟出奇迹）。\n这次3周年也是在百忙之中抽时间肝出来的，有许多地方还需要改进\n但是我也算尽心尽力了，如果这个片子真的燃不起来，咱也没办法了QWQ。\n希望喜欢的朋友可以在活动界面为此作投上宝贵的一票，后面有时间还会更新续作。",
+    "state": 0,
+    "copyright": 1
+  }
+]

@@ -1,0 +1,1569 @@
+{
+  "schemaVersion": 1,
+  "meta": {
+    "title": "崩坏3社区话题时间轴",
+    "region": "CN-centered",
+    "timezone": "Asia/Shanghai",
+    "displayStart": "2016-09",
+    "asOf": "2026-10-11",
+    "scope": "国服玩家社区为主；涉及海外运营时注明地区。精选代表用语与讨论，不是贴吧全站热榜或争议全史。",
+    "datePolicy": "date为事件、回应、用例或内容背景锚点，必须结合dateBasis、dateLabel、dateNote解释；月份或时期不补成精确事件日。firstAppearance为空表示未核验梗的首创。",
+    "selectionPolicy": "以历史辨识度、叙事关联和可核对资料选题；featured仅为网页编辑建议，不表示客观热度排名。",
+    "knownGaps": [
+      "2016预登录期缺可定位的社区原帖，主时间轴从2017开始。",
+      "部分贴吧、巴哈、微博原页不可读，保留搜索索引证据或未读原帖入口并标明。",
+      "2025至2026资料是代表性讨论样本，不能据此推定社区总体态度。"
+    ]
+  },
+  "sources": [
+    {
+      "id": "zero98-report",
+      "title": "运营事故换来的教训 公布抽卡概率或许是双赢选择",
+      "url": "https://www.sohu.com/a/125570778_530713",
+      "kind": "contemporary-report",
+      "author": "游戏龙虎报",
+      "publicationDate": "2017-02-06",
+      "access": "full-text",
+      "checkedAt": "2026-10-11",
+      "note": "记录1月12日血色玫瑰UP、贴吧讨论与随后披露的抽取数据。"
+    },
+    {
+      "id": "wuxueyou-guide",
+      "title": "1.5版本深渊改版 雪地用法攻略 勿雪游",
+      "url": "https://gl.ali213.net/html/2017-7/179611_14.html",
+      "kind": "contemporary-guide",
+      "author": null,
+      "publicationDate": "2017-07-12",
+      "access": "full-text",
+      "checkedAt": "2026-10-11",
+      "note": "页面发布时间已经处于1.6，标题和内容讨论1.5改版打法；不能把发布日期当阵容首创日。"
+    },
+    {
+      "id": "interaction-history",
+      "title": "崩坏3 互动系统下线与圣痕改名",
+      "url": "https://moegirl.uk/崩坏3",
+      "kind": "community-encyclopedia",
+      "author": null,
+      "publicationDate": null,
+      "access": "search-index-only",
+      "checkedAt": "2026-10-11",
+      "note": "搜索索引记载1月18日互动关闭，并列出同日官方公告参考；公告原文未读到。"
+    },
+    {
+      "id": "stigma-rename",
+      "title": "圣痕人物大改名 维护补偿300水晶",
+      "url": "https://www.9game.cn/bhxy3/2149222.html",
+      "kind": "contemporary-report",
+      "author": null,
+      "publicationDate": "2018-01-26",
+      "access": "full-text",
+      "checkedAt": "2026-10-11",
+      "note": "正文称前一天维护，列出改名和1月26日至28日补偿。"
+    },
+    {
+      "id": "stop-s-history",
+      "title": "停氪弃坑新S滚 重温那些年的崩坏3",
+      "url": "https://www.sohu.com/a/357470382_120099892",
+      "kind": "retrospective",
+      "author": "把风筝握手里",
+      "publicationDate": "2019-11-30",
+      "access": "full-text",
+      "checkedAt": "2026-10-11",
+      "note": "回顾2.3测试期改名抗议；文内2.3上线日有一天误差，版本日采用项目官方时间轴。"
+    },
+    {
+      "id": "zoro-letter",
+      "title": "崩坏3制作组全员给舰长的一封信",
+      "url": "https://www.taptap.cn/moment/15230156691996962",
+      "kind": "official-response",
+      "author": "乌酱",
+      "publicationDate": "2018-09-30",
+      "access": "full-text",
+      "checkedAt": "2026-10-11",
+      "note": "页面标注修改于9月30日，正文明确当晚补偿与相关问题。"
+    },
+    {
+      "id": "cheat-response",
+      "title": "关于近期外挂问题的处理说明 更新至11月27日",
+      "url": "https://www.taptap.cn/moment/15214892420169954",
+      "kind": "official-response",
+      "author": "乌酱",
+      "publicationDate": "2018-11-29",
+      "access": "full-text",
+      "checkedAt": "2026-10-11",
+      "note": "页面修改日为11月29日；正文保留11月5、6、12日等公告，11月5日记载11月4日晚接报。"
+    },
+    {
+      "id": "big-month-thread",
+      "title": "來說說陸服的大月卡 開掛事件吧",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=31066&snA=10231",
+      "kind": "community-discussion",
+      "author": null,
+      "publicationDate": "2018-11-07",
+      "access": "search-index-only",
+      "checkedAt": "2026-10-11",
+      "note": "搜索索引可见11月6日回复与11月7日编辑时间；全文访问403。"
+    },
+    {
+      "id": "slang-2019",
+      "title": "各种崩崩崩俚语合集",
+      "url": "https://www.taptap.cn/moment/15201143235805921",
+      "kind": "community-glossary",
+      "author": "泡泡《崩坏3》攻略作者",
+      "publicationDate": "2019-02-19",
+      "access": "full-text",
+      "checkedAt": "2026-10-11",
+      "note": "作者注明大部分内容引自崩坏3通讯中心，主帖可能持续更新；日期证明这份合集的发布，不证明每个词的首次出现。"
+    },
+    {
+      "id": "priarm-official",
+      "title": "V3.4更新前瞻 超限武器计划 材料合并与降价",
+      "url": "https://www.taptap.cn/moment/15205923576349573",
+      "kind": "official-announcement",
+      "author": "乌酱",
+      "publicationDate": "2019-08-09",
+      "access": "full-text",
+      "checkedAt": "2026-10-11",
+      "note": "明确81级门槛、超限材料及后续开放计划。"
+    },
+    {
+      "id": "priarm-discussion",
+      "title": "Re 崩壞3 V3.4更新前瞻 超限武器計畫",
+      "url": "https://www.ptt.cc/bbs/miHoYo/M.1565282863.A.4B1.html",
+      "kind": "community-discussion",
+      "author": null,
+      "publicationDate": "2019-08-09",
+      "access": "search-index-only",
+      "checkedAt": "2026-10-11",
+      "note": "可检索到同期对突破等级、材料与武器的讨论；全文未读取。"
+    },
+    {
+      "id": "meme-encyclopedia",
+      "title": "崩坏3 梗",
+      "url": "https://moegirl.icu/崩坏3/梗",
+      "kind": "community-encyclopedia",
+      "author": null,
+      "publicationDate": null,
+      "access": "full-text",
+      "checkedAt": "2026-10-11",
+      "note": "用于短释义与关联剧情，持续编辑的百科不能确定首发或当年热度。"
+    },
+    {
+      "id": "white-original",
+      "title": "真 寸劲开天",
+      "url": "https://tieba.baidu.com/p/6364165743",
+      "kind": "original-thread",
+      "author": null,
+      "publicationDate": null,
+      "access": "reference-unread",
+      "checkedAt": "2026-10-11",
+      "note": "萌娘百科指向的贴吧截图原帖；403，未核验楼层与时间。"
+    },
+    {
+      "id": "white-challenge",
+      "title": "初夏预热 挑战白衣渡江",
+      "url": "https://tieba.baidu.com/p/6681374917",
+      "kind": "original-thread",
+      "author": null,
+      "publicationDate": null,
+      "access": "reference-unread",
+      "checkedAt": "2026-10-11",
+      "note": "萌娘百科指向的贴吧挑战帖；403，未核验发布时间。"
+    },
+    {
+      "id": "guoji-announcement",
+      "title": "崩坏国记 见证煌帝国的崛起",
+      "url": "https://www.9game.cn/bhxy3/4347576.html",
+      "kind": "announcement-reprint",
+      "author": null,
+      "publicationDate": null,
+      "access": "search-index-only",
+      "checkedAt": "2026-10-11",
+      "note": "用于活动背景，社区称号与疑似阴兵说法另见梗百科。"
+    },
+    {
+      "id": "chapter16-announcement",
+      "title": "主线第十六章 暴雨将至 正式开放",
+      "url": "https://news.17173.com/z/bh3/content/05112020/150439747.shtml",
+      "kind": "announcement-reprint",
+      "author": null,
+      "publicationDate": "2020-05-11",
+      "access": "full-text",
+      "checkedAt": "2026-10-11",
+      "note": "正文来源米游社；列出5月11、14、21日分批开放，日期仅支持剧情内容锚点。"
+    },
+    {
+      "id": "welfare-opinion",
+      "title": "4.2失落迷迭 燃烧的韭菜与不知挥向何处的镰刀",
+      "url": "https://www.bilibili.com/opus/423409592716394379",
+      "kind": "contemporary-opinion",
+      "author": "艾狷thyme",
+      "publicationDate": "2020-08-15",
+      "access": "search-index-only",
+      "checkedAt": "2026-10-11",
+      "note": "搜索索引保留较长正文与时间；内容含作者解释，不能全部视为官方确认。"
+    },
+    {
+      "id": "welfare-stream",
+      "title": "有奖话题 4.2版本直播回顾",
+      "url": "https://www.taptap.cn/moment/43422422782709419",
+      "kind": "official-announcement",
+      "author": null,
+      "publicationDate": "2020-09-04",
+      "access": "full-text",
+      "checkedAt": "2026-10-11",
+      "note": "页面修改日较晚；正文明确8月14日19:30直播。"
+    },
+    {
+      "id": "aileen-announcement",
+      "title": "阿波卡利斯丑闻活动奖励一览",
+      "url": "https://www.9game.cn/bhxy3/4630758.html",
+      "kind": "announcement-reprint",
+      "author": null,
+      "publicationDate": "2020-08-23",
+      "access": "search-index-only",
+      "checkedAt": "2026-10-11",
+      "note": "预告写8月17日11:00，活动时间栏写10:00；同日开放可核对，小时存在差异，不用于时间轴。"
+    },
+    {
+      "id": "senti-wiki",
+      "title": "识之律者角色资料",
+      "url": "https://wiki.biligame.com/bh3/识之律者",
+      "kind": "community-wiki",
+      "author": null,
+      "publicationDate": null,
+      "access": "search-index-only",
+      "checkedAt": "2026-10-11",
+      "note": "角色简称列有识律、识宝、小识。"
+    },
+    {
+      "id": "senti-dorm",
+      "title": "家园 识之律者",
+      "url": "https://wiki.biligame.com/bh3/家园：识之律者",
+      "kind": "game-text-transcription",
+      "author": null,
+      "publicationDate": null,
+      "access": "search-index-only",
+      "checkedAt": "2026-10-11",
+      "note": "收录家园文本；只据可检索内容支持识之律者女士的称呼，全文未读取。"
+    },
+    {
+      "id": "senti-official",
+      "title": "识之律者作战指南",
+      "url": "https://bh3.mihoyo.com/gl/article/14032?fullscreen=1&game_biz=bh3_cn&mode=fullscreen",
+      "kind": "official-announcement",
+      "author": "爱酱",
+      "publicationDate": "2021-02-07",
+      "access": "search-index-only",
+      "checkedAt": "2026-10-11",
+      "note": "明确4.6角色定位与装备；只支持角色上线背景。"
+    },
+    {
+      "id": "bunny-weibo",
+      "title": "关于海外服周年内容的官方说明",
+      "url": "https://weibo.com/5812573321/Kc6kNbz6o",
+      "kind": "official-response",
+      "author": null,
+      "publicationDate": "2021-04-22",
+      "access": "reference-unread",
+      "checkedAt": "2026-10-11",
+      "note": "由同期报道链接定位，微博原页未读取。"
+    },
+    {
+      "id": "bunny-tweet",
+      "title": "Official Statement",
+      "url": "https://twitter.com/HonkaiImpact3rd/status/1385171523623809024",
+      "kind": "official-response",
+      "author": "Honkai Impact 3rd",
+      "publicationDate": "2021-04-22",
+      "access": "reference-unread",
+      "checkedAt": "2026-10-11",
+      "note": "由同期报道嵌入的官方推文定位，原页403。"
+    },
+    {
+      "id": "bunny-report",
+      "title": "海外服兔女郎活动争议报道",
+      "url": "https://www.4gamers.com.tw/news/detail/47656/mihoyo-founder-assassinate",
+      "kind": "contemporary-report",
+      "author": "Lucie",
+      "publicationDate": "2021-04-26",
+      "access": "full-text",
+      "checkedAt": "2026-10-11",
+      "note": "本文仅使用4月22日致歉、下架与玩家争论的报道；不采纳文中未经独立核验的暴力事件叙述。"
+    },
+    {
+      "id": "artbook-guide",
+      "title": "原画集活动攻略及建议",
+      "url": "https://www.gamersky.com/handbooksy/202206/1494276.shtml",
+      "kind": "community-guide-reprint",
+      "author": "禅定ForMishpat",
+      "publicationDate": "2022-06-26",
+      "access": "full-text",
+      "checkedAt": "2026-10-11",
+      "note": "米游社玩家文章转载，内容为正式上线前的推测和建议；仅支持提前规划兑换、担心抢兑与黄牛的讨论。"
+    },
+    {
+      "id": "artbook-official",
+      "title": "螺旋长宴 5.9版本更新公告",
+      "url": "https://bh3.mihoyo.com/news/695/120147",
+      "kind": "official-announcement",
+      "author": null,
+      "publicationDate": "2022-07-14",
+      "access": "search-index-only",
+      "checkedAt": "2026-10-11",
+      "note": "记载首批40万册原画集及兑换活动。"
+    },
+    {
+      "id": "artbook-increase",
+      "title": "原画集限购总量上调的说明",
+      "url": "https://www.taptap.cn/moment/301306665829925500",
+      "kind": "official-response",
+      "author": "乌酱",
+      "publicationDate": "2022-07-27",
+      "access": "search-index-only",
+      "checkedAt": "2026-10-11",
+      "note": "记载40万增至50万，追加10万册。"
+    },
+    {
+      "id": "aimen-comment",
+      "title": "TruE 吐槽箱",
+      "url": "https://bangumi.tv/subject/395783",
+      "kind": "community-discussion",
+      "author": null,
+      "publicationDate": null,
+      "access": "search-index-only",
+      "checkedAt": "2026-10-11",
+      "note": "可检索到2022年8月25日等带爱门的听众留言；只能证明该词当时已被使用。"
+    },
+    {
+      "id": "aimen-explainer",
+      "title": "崩坏 爱门是什么梗",
+      "url": "https://www.bilibili.com/video/BV1oB4y177Dz/",
+      "kind": "community-explainer",
+      "author": "是惜颜不是辛焱啦",
+      "publicationDate": "2022-10-01",
+      "access": "search-index-only",
+      "checkedAt": "2026-10-11",
+      "note": "可见原稿时间2022-10-01 18:05:34；不是梗的首发时间。"
+    },
+    {
+      "id": "stigma-analysis",
+      "title": "圣痕计划主线剧情解析 救世的英雄与灭世的终焉",
+      "url": "https://www.taptap.cn/moment/316354104458741306",
+      "kind": "community-analysis",
+      "author": "原罪佛系摸鱼",
+      "publicationDate": "2022-09-06",
+      "access": "full-text",
+      "checkedAt": "2026-10-11",
+      "note": "玩家对圣痕计划间章的理解和预测；解析不等于官方设定结论。"
+    },
+    {
+      "id": "stigma-complexity",
+      "title": "圣痕计划真相公开 难以理解其本质",
+      "url": "https://news.17173.com/z/bh3/content/09062022/164013471.shtml",
+      "kind": "community-commentary",
+      "author": null,
+      "publicationDate": "2022-09-06",
+      "access": "search-index-only",
+      "checkedAt": "2026-10-11",
+      "note": "标题和正文摘要呈现设定理解门槛，未据此判断全体玩家态度。"
+    },
+    {
+      "id": "finality-design",
+      "title": "玩家對終焉不滿 官方回覆了",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=31066&snA=20288",
+      "kind": "community-discussion",
+      "author": null,
+      "publicationDate": null,
+      "access": "search-index-only",
+      "checkedAt": "2026-10-11",
+      "note": "可检索到终焉设计讨论；未读全文，不将标题中官方回复视为已确认。"
+    },
+    {
+      "id": "captain-ending",
+      "title": "舰长线完结 摆渡人与观星全都输麻了",
+      "url": "https://www.taptap.cn/moment/445998079456313463",
+      "kind": "community-commentary",
+      "author": "休伯利安观察室",
+      "publicationDate": "2023-08-30",
+      "access": "page-metadata",
+      "checkedAt": "2026-10-11",
+      "note": "可读标题、作者、时间，内容为视频，未读取视频完整台词；只支持当日已有舰长线完结讨论。"
+    },
+    {
+      "id": "captain-feelings",
+      "title": "舰长线完结 心理五味成杂",
+      "url": "https://m.hupu.com/bbs/62352838.html",
+      "kind": "community-discussion",
+      "author": null,
+      "publicationDate": null,
+      "access": "search-index-only",
+      "checkedAt": "2026-10-11",
+      "note": "可见玩家对结局和五年等待的感想；不据此确定剧情开放首日。"
+    },
+    {
+      "id": "part2-review",
+      "title": "崩坏3 再一次站到了十字路口",
+      "url": "https://blog.byteloid.one/2024/04/03/《崩坏3》再一次站到了十字路口/",
+      "kind": "contemporary-opinion",
+      "author": "bingxin666",
+      "publicationDate": "2024-04-03",
+      "access": "full-text",
+      "checkedAt": "2026-10-11",
+      "note": "支持对新UI、剧情理解及原角色感情的批评；其抽卡怀疑、作者归属猜测不作为事实收录。"
+    },
+    {
+      "id": "part2-forum",
+      "title": "總評第二部",
+      "url": "https://forum.gamer.com.tw/C.php?bsn=31066&snA=21616",
+      "kind": "community-discussion",
+      "author": null,
+      "publicationDate": null,
+      "access": "search-index-only",
+      "checkedAt": "2026-10-11",
+      "note": "可见UI、箱庭体验等不同意见，全文403。"
+    },
+    {
+      "id": "vita-explainer",
+      "title": "崩坏3梗解说 薇塔大人",
+      "url": "https://www.bilibili.com/video/BV1JJtjeGEUQ/",
+      "kind": "community-explainer",
+      "author": "月光中心_official",
+      "publicationDate": "2024-09-19",
+      "access": "search-index-only",
+      "checkedAt": "2026-10-11",
+      "note": "搜索索引可见原稿发布时间13:00；原页未读取。"
+    },
+    {
+      "id": "vita-reprint",
+      "title": "崩坏3梗解说 薇塔大人",
+      "url": "https://news.17173.com/content/09212024/230024356.shtml",
+      "kind": "community-explainer-reprint",
+      "author": null,
+      "publicationDate": "2024-09-21",
+      "access": "full-text",
+      "checkedAt": "2026-10-11",
+      "note": "原文来源崩坏3通讯中心，解释官号评论区复读及爱酱宣传整活。"
+    },
+    {
+      "id": "ely-return",
+      "title": "崩三 厲聲譴責 又在賣愛莉希雅",
+      "url": "https://www.pttweb.cc/bbs/C_Chat/M.1757146843.A.409",
+      "kind": "community-discussion",
+      "author": "up45678",
+      "publicationDate": "2025-09-06",
+      "access": "full-text",
+      "checkedAt": "2026-10-11",
+      "note": "PTT网页镜像保留原文、时间与回复；正文最后说为爱莉重装游戏，标题是反讽，不等于抵制。"
+    },
+    {
+      "id": "final2-positive",
+      "title": "第二部终章boss战算是弥补了我对第一部的遗憾了",
+      "url": "https://bbs.hupu.com/641690660.html",
+      "kind": "community-discussion",
+      "author": "鸟为什么会飞",
+      "publicationDate": "2026-08-07",
+      "access": "full-text",
+      "checkedAt": "2026-10-11",
+      "note": "通过公开HTML读取正文与日期，讨论QTE助力、场景轮转与演出。"
+    },
+    {
+      "id": "final2-regret",
+      "title": "果然还是会有遗憾啊",
+      "url": "https://bbs.hupu.com/641739997.html",
+      "kind": "community-discussion",
+      "author": "磁爆步兵54",
+      "publicationDate": "2026-08-09",
+      "access": "full-text",
+      "checkedAt": "2026-10-11",
+      "note": "通过公开HTML读取正文与日期，作者肯定整体成品，同时遗憾回访扇区和角色回收不足。"
+    },
+    {
+      "id": "final2-complete",
+      "title": "过完了主线 总的来说是一个完整的故事",
+      "url": "https://bbs.hupu.com/641750867.html",
+      "kind": "community-discussion",
+      "author": "左徙徒",
+      "publicationDate": "2026-08-10",
+      "access": "full-text",
+      "checkedAt": "2026-10-11",
+      "note": "通过公开HTML读取正文与日期；同时称收尾仓促、故事值得肯定，未来展望属玩家猜测。"
+    },
+    {
+      "id": "anniversary-memory",
+      "title": "bbb十周年快乐 顺便回顾一下游戏历程",
+      "url": "https://bbs.hupu.com/642509328.html",
+      "kind": "community-discussion",
+      "author": "天籁音",
+      "publicationDate": "2026-09-20",
+      "access": "full-text",
+      "checkedAt": "2026-10-11",
+      "note": "通过公开HTML读取正文与日期；作者自己注明回忆日期可能不准确，仅据此记录回忆帖话题。"
+    },
+    {
+      "id": "fan-exam",
+      "title": "2024崩坏3新春会",
+      "url": "https://www.bilibili.com/video/BV13c411v7DR/",
+      "kind": "community-program",
+      "author": null,
+      "publicationDate": "2024-01-26",
+      "access": "search-index-only",
+      "checkedAt": "2026-10-11",
+      "note": "投稿简介使用舰伥、期末考试及薪炎永燃，支持梗的传播用法，不能确定起源。"
+    },
+    {
+      "id": "early-blue-thread",
+      "title": "跟班告诉你 更新动向 10.28",
+      "url": "https://tieba.baidu.com/p/4840515512?fr=good",
+      "kind": "official-community-q-and-a",
+      "author": "爱酱小跟班",
+      "publicationDate": null,
+      "access": "search-index-only",
+      "checkedAt": "2026-10-11",
+      "note": "索引保留碎片掉率、深渊难度与外挂问答；标题月日、正文万圣节说明并不一致，年份和首发时间仍需核对。"
+    },
+    {
+      "id": "aileen-official-video",
+      "title": "阿波卡利斯丑闻 那个女人的笑容叫做诡计",
+      "url": "https://www.bilibili.com/video/BV1vK4y1Y7jx/",
+      "kind": "official-video",
+      "author": "崩坏3第一偶像爱酱",
+      "publicationDate": "2020-08-18",
+      "access": "search-index-only",
+      "checkedAt": "2026-10-11",
+      "note": "官号原稿简介记载8月17日10:00至24日4:00活动，支持开放日期；未读取视频完整内容。"
+    }
+  ],
+  "topics": [
+    {
+      "id": "zero-point-98",
+      "date": "2017-01-12",
+      "dateLabel": "2017-01-12",
+      "datePrecision": "day",
+      "dateBasis": "reported-event",
+      "dateNote": "日期为同期报道明确记载的UP开放日；报道发表于2月6日。",
+      "title": "0.98与零点酒吧",
+      "category": "controversy",
+      "summary": "血色玫瑰UP引发抽取概率与披露口径争议，留下0.98这一早期社区记忆。",
+      "detail": "同期报道记载1月12日补给开放后，贴吧围绕出货率展开争论；随后披露的抽取统计把角色卡与碎片合计为0.98%，玩家对统计口径和实际体验产生分歧。",
+      "caveat": "这是对当时讨论与披露口径的记录；玩家样本和回忆不能证明某一隐藏真实概率或中途调率。",
+      "sourceIds": [
+        "zero98-report"
+      ],
+      "relatedVersions": [
+        "1.2"
+      ],
+      "evidenceGrade": "documented",
+      "featured": true,
+      "tags": [
+        "零点酒吧",
+        "血色玫瑰",
+        "补给概率",
+        "贴吧"
+      ],
+      "relatedVideoIds": [],
+      "firstAppearance": null
+    },
+    {
+      "id": "wuxueyou",
+      "date": "2017-07",
+      "dateLabel": "2017年中",
+      "datePrecision": "month",
+      "dateBasis": "discussion-published",
+      "dateNote": "按同期攻略所在月份放置，讨论内容关联1.5改版。",
+      "title": "勿雪游与高温深渊黑话",
+      "category": "gameplay",
+      "summary": "阵容简称、扩冰与高温红莲，构成早期攻略交流的共同语言。",
+      "detail": "同期攻略使用勿雪游指勿忘、雪地、游侠，并解释聚怪、冻结与输出衔接。它可与后来的红莲升降机、凹分等词放在同一玩法文化线。",
+      "caveat": "7月12日是所引攻略的发布时间；作者称更早已构想该阵容，因此不能写成梗或打法诞生日。",
+      "sourceIds": [
+        "wuxueyou-guide",
+        "slang-2019"
+      ],
+      "relatedVersions": [
+        "1.5",
+        "1.6"
+      ],
+      "evidenceGrade": "attested",
+      "featured": false,
+      "tags": [
+        "勿雪游",
+        "扩冰",
+        "高温深渊"
+      ],
+      "relatedVideoIds": [],
+      "firstAppearance": null
+    },
+    {
+      "id": "bridge-interaction",
+      "date": "2018-01",
+      "dateLabel": "2018-01",
+      "datePrecision": "month",
+      "dateBasis": "approximate-period",
+      "dateNote": "索引记载1月18日，但原始公告待核，只按月份展示。",
+      "title": "舰桥互动下线与玩家留档",
+      "category": "controversy",
+      "summary": "旧舰桥互动关闭，成为玩家回忆早期版本变化的节点。",
+      "detail": "社区历史条目记载2018年1月18日互动关闭，并指向同日官方说明；后来的气泡对话与旧互动经常被玩家对照讨论。",
+      "caveat": "当前依据为百科搜索索引，尚未读到原公告；保留到月份，不写具体监管原因或永久关闭承诺。",
+      "sourceIds": [
+        "interaction-history"
+      ],
+      "relatedVersions": [
+        "2.0"
+      ],
+      "evidenceGrade": "contextual",
+      "featured": false,
+      "tags": [
+        "舰桥互动",
+        "触摸",
+        "内容调整"
+      ],
+      "relatedVideoIds": [],
+      "firstAppearance": null
+    },
+    {
+      "id": "stigma-renaming",
+      "date": "2018-01-25",
+      "dateLabel": "2018-01-25",
+      "datePrecision": "day",
+      "dateBasis": "reported-event",
+      "dateNote": "1月26日报道称昨天维护，推定事件日为1月25日。",
+      "title": "历史人物圣痕改名",
+      "category": "controversy",
+      "summary": "李耳、伏羲等圣痕改名，老玩家沿用旧称形成新的理解门槛。",
+      "detail": "同期报道列出李耳改为萧云、伏羲改为苍玄、女娲改为丹朱等调整，并记录三日合计300水晶补偿。旧攻略与玩家黑话仍会出现原名。",
+      "caveat": "改名和补偿可以核对；报道对外部原因的解释没有对应原始决定，网页宜只写内容调整。",
+      "sourceIds": [
+        "stigma-rename"
+      ],
+      "relatedVersions": [
+        "2.0"
+      ],
+      "evidenceGrade": "documented",
+      "featured": false,
+      "tags": [
+        "圣痕改名",
+        "萧云",
+        "苍玄",
+        "丹朱"
+      ],
+      "relatedVideoIds": [],
+      "firstAppearance": null
+    },
+    {
+      "id": "stop-spending-new-s",
+      "date": "2018-04",
+      "dateLabel": "2018年春（2.3测试期）",
+      "datePrecision": "period",
+      "dateBasis": "approximate-period",
+      "dateNote": "4月仅作2.3测试期排序锚点；展示采用2018年春，非已核验首发月份。",
+      "title": "停氪弃坑新S滚",
+      "category": "controversy",
+      "summary": "连续新S的获取与养成压力，演变为战场排行榜改名抗议。",
+      "detail": "回顾文章将事件关联月轮、炽翎与第六夜想曲连续登场；部分高排名玩家把昵称改成抗议口号。这一节点适合承接版本线，呈现玩家对更新节奏的反应。",
+      "caveat": "来源为2019年回顾，无法确定首次集体改名日；不复述未经核验的参与人数，也不声称改名直接改变官方决策。",
+      "sourceIds": [
+        "stop-s-history"
+      ],
+      "relatedVersions": [
+        "2.1",
+        "2.2",
+        "2.3"
+      ],
+      "evidenceGrade": "contextual",
+      "featured": true,
+      "tags": [
+        "停氪弃坑",
+        "新S滚",
+        "改名抗议",
+        "记忆战场"
+      ],
+      "relatedVideoIds": [],
+      "firstAppearance": null
+    },
+    {
+      "id": "zoro-anniversary",
+      "date": "2018-09-30",
+      "dateLabel": "2018-09-30",
+      "datePrecision": "day",
+      "dateBasis": "official-response",
+      "dateNote": "以9月30日制作组来信及补偿为锚点，不代表全部争论从当日开始。",
+      "title": "佐罗修复与二周年沟通争议",
+      "category": "controversy",
+      "summary": "装备修复说明、未公告调整和周年活动问题，促使制作组公开致歉。",
+      "detail": "制作组来信明确提到佐罗两件套修复解释不清、血裔之证与白练及绯红QTE调整未公告，以及周年挑战和奖励沟通失误。官方表示补偿并改进沟通。",
+      "caveat": "官方承认的是修复和沟通处理失当；不能据此概括为所有装备被秘密削弱。",
+      "sourceIds": [
+        "zoro-letter"
+      ],
+      "relatedVersions": [
+        "2.6"
+      ],
+      "evidenceGrade": "documented",
+      "featured": true,
+      "tags": [
+        "佐罗",
+        "暗改争议",
+        "二周年",
+        "制作组来信"
+      ],
+      "relatedVideoIds": [],
+      "firstAppearance": null
+    },
+    {
+      "id": "big-month-card",
+      "date": "2018-11-04",
+      "dateLabel": "2018-11（11月4日晚接报）",
+      "datePrecision": "day",
+      "dateBasis": "reported-event",
+      "dateNote": "接报日为官方正文记载；页面顶端11月29日是编辑时间。",
+      "title": "大月卡与68元外挂",
+      "category": "controversy",
+      "summary": "社区用大月卡称呼收费外挂，讨论焦点是排行公平与封禁。",
+      "detail": "官方11月5日声明记载前一晚接报，11月6日明确提到社区讨论较多的68元外挂，并公布永久封禁与清空排名处理；同期论坛帖使用大月卡这个称呼。",
+      "caveat": "大月卡在这里是外挂外号；它与后来官方作战凭证不同，不能混称，也没有可靠依据将其写成提高抽卡概率的工具。",
+      "sourceIds": [
+        "cheat-response",
+        "big-month-thread"
+      ],
+      "relatedVersions": [
+        "2.7"
+      ],
+      "evidenceGrade": "documented",
+      "featured": true,
+      "tags": [
+        "大月卡",
+        "68元外挂",
+        "排行榜",
+        "公平性"
+      ],
+      "relatedVideoIds": [],
+      "firstAppearance": null
+    },
+    {
+      "id": "level-break-priarm",
+      "date": "2019-08-09",
+      "dateLabel": "2019-08起",
+      "datePrecision": "day",
+      "dateBasis": "announcement",
+      "dateNote": "日期为官方前瞻发布日；3.4正式更新为8月29日，等级突破本身早于超限。",
+      "title": "要不要突破与超限材料",
+      "category": "gameplay",
+      "summary": "81级超限门槛让卡80、突破和材料规划成为持续的玩家问题。",
+      "detail": "3.4前瞻公布81级及以上可锻造超限武器，玩家讨论随之涉及突破后的难度、装备收益和养成资源；它可作为后来终极区攻略讨论的前史。",
+      "caveat": "官方公告支持门槛和规则；同期帖子只证明有人讨论，不代表玩家整体反对突破。",
+      "sourceIds": [
+        "priarm-official",
+        "priarm-discussion"
+      ],
+      "relatedVersions": [
+        "3.4"
+      ],
+      "evidenceGrade": "documented",
+      "featured": false,
+      "tags": [
+        "卡80",
+        "等级突破",
+        "超限武器"
+      ],
+      "relatedVideoIds": [],
+      "firstAppearance": null
+    },
+    {
+      "id": "white-river",
+      "date": "2019-11",
+      "dateLabel": "2019年底（3.6期间）",
+      "datePrecision": "period",
+      "dateBasis": "version-context",
+      "dateNote": "按3.6版本期定位；原图首发与挑战时间均待核。",
+      "title": "白衣渡江与寸劲开天截图",
+      "category": "meme",
+      "summary": "符华关卡结算截图在贴吧被传播、挑战和再创作。",
+      "detail": "百科将白衣渡江图关联3.6活动，另列出贴吧原图帖和后续截图挑战帖。可用文字梗与原帖入口呈现。",
+      "caveat": "两个贴吧原帖当前403，首发日期未核验；3.6版本期只是内容来源锚点，不能标成2019年11月28日梗诞生。",
+      "sourceIds": [
+        "meme-encyclopedia",
+        "white-original",
+        "white-challenge"
+      ],
+      "relatedVersions": [
+        "3.6"
+      ],
+      "evidenceGrade": "contextual",
+      "featured": true,
+      "tags": [
+        "白衣渡江",
+        "寸劲开天",
+        "符华",
+        "贴吧"
+      ],
+      "relatedVideoIds": [],
+      "firstAppearance": null
+    },
+    {
+      "id": "guoji-zero",
+      "date": "2020-04",
+      "dateLabel": "2020年春（3.9期间）",
+      "datePrecision": "period",
+      "dateBasis": "version-context",
+      "dateNote": "以3.9春日活动定位，不声称称号首次出现于4月。",
+      "title": "白壁仙尊与天荡老祖",
+      "category": "meme",
+      "summary": "崩坏国记·零的阵营攻城讨论衍生出修仙式玩家称号。",
+      "detail": "白壁仙尊等外号关联活动中的越界攻城争议，玩家还用阴兵等说法调侃异常战局。",
+      "caveat": "阴兵是社区怀疑或戏称，不是官方操纵战局的已证实结论；梗与活动规则仍需同期原帖补证。",
+      "sourceIds": [
+        "meme-encyclopedia",
+        "guoji-announcement"
+      ],
+      "relatedVersions": [
+        "3.9"
+      ],
+      "evidenceGrade": "contextual",
+      "featured": false,
+      "tags": [
+        "崩坏国记零",
+        "白壁仙尊",
+        "天荡老祖",
+        "阵营战"
+      ],
+      "relatedVideoIds": [],
+      "firstAppearance": null
+    },
+    {
+      "id": "raven-island",
+      "date": "2020-05",
+      "dateLabel": "2020-05（第16章期间）",
+      "datePrecision": "month",
+      "dateBasis": "version-context",
+      "dateNote": "第16章在3.9内于5月11、14、21日分批开放；不是4.0首发。",
+      "title": "别墅小岛与渡鸦打滚",
+      "category": "meme",
+      "summary": "渡鸦小岛受损的剧情，被玩家用于角色反差与财产损失的调侃。",
+      "detail": "梗释义关联渡鸦买岛、岛被毁及悲伤反应；第16章在5月分批开放，为这段剧情提供时间背景。",
+      "caveat": "5月是剧情开放时期，梗的第一张图、第一次复读没有核验；不把后续跨游戏用法算作崩坏3新事件。",
+      "sourceIds": [
+        "meme-encyclopedia",
+        "chapter16-announcement"
+      ],
+      "relatedVersions": [
+        "3.9"
+      ],
+      "evidenceGrade": "contextual",
+      "featured": false,
+      "tags": [
+        "别墅小岛",
+        "渡鸦",
+        "撒泼打滚"
+      ],
+      "relatedVideoIds": [],
+      "firstAppearance": null
+    },
+    {
+      "id": "welfare-version-42",
+      "date": "2020-08-14",
+      "dateLabel": "2020-08（8月14日直播）",
+      "datePrecision": "day",
+      "dateBasis": "official-response",
+      "dateNote": "锚点为前瞻直播日，争论此前已发生；4.2正式更新为8月20日。",
+      "title": "福利版本与失落迷迭争议",
+      "category": "controversy",
+      "summary": "可肝承诺、装备更迭和新深渊投入之间的落差，引发4.2前瞻期争论。",
+      "detail": "同期玩家长文讨论失落迷迭、圣痕获取与养成成本，描述8月14日直播中的批评和禁言；官方回顾帖确认该日举行直播。不同玩家对测试服调整的接受程度并不相同。",
+      "caveat": "禁言过程和成本解读来自玩家文章；不把道歉8次、9次、16次等不同统计口号写成准确次数。测试服方案也不能直接当正式服规则。",
+      "sourceIds": [
+        "welfare-opinion",
+        "welfare-stream"
+      ],
+      "relatedVersions": [
+        "4.1",
+        "4.2"
+      ],
+      "evidenceGrade": "attested",
+      "featured": true,
+      "tags": [
+        "福利版本",
+        "失落迷迭",
+        "超弦空间",
+        "装备更迭"
+      ],
+      "relatedVideoIds": [],
+      "firstAppearance": null
+    },
+    {
+      "id": "aileen-fan",
+      "date": "2020-08-17",
+      "dateLabel": "2020-08起",
+      "datePrecision": "day",
+      "dateBasis": "announcement",
+      "dateNote": "日期为活动介绍与官号原稿记载的8月17日；不同预告的小时写法有差异，仅保留日。",
+      "title": "艾琳酱 我是你的粉丝啊",
+      "category": "meme",
+      "summary": "网页活动中的飞扑桥段，衍生出粉丝句式和防飞扑墙。",
+      "detail": "这句台词来自阿波卡利斯丑闻；后来在声优和角色相关评论区出现换名复读。",
+      "caveat": "8月17日为网页活动开放日，并非已确认的首次二创日；活动是4.1末期的失落迷迭预热，不应按4.1更新日放到7月。",
+      "sourceIds": [
+        "meme-encyclopedia",
+        "aileen-announcement",
+        "aileen-official-video"
+      ],
+      "relatedVersions": [
+        "4.1",
+        "4.2"
+      ],
+      "evidenceGrade": "contextual",
+      "featured": true,
+      "tags": [
+        "艾琳酱",
+        "我是你的粉丝啊",
+        "防飞扑墙",
+        "符华"
+      ],
+      "relatedVideoIds": [],
+      "firstAppearance": null
+    },
+    {
+      "id": "senti-memes",
+      "date": "2021-02",
+      "dateLabel": "2021年初（4.6期间）",
+      "datePrecision": "month",
+      "dateBasis": "version-context",
+      "dateNote": "按4.6上线月份放置，不等于昵称首次出现。",
+      "title": "识宝与识之律者女士",
+      "category": "meme",
+      "summary": "识宝、小识等昵称与角色自信的口吻，成为识律相关二创常用表达。",
+      "detail": "角色Wiki列出识宝、小识等简称，家园文本转录收录识之律者女士的称呼；上线背景由4.6资料支持。",
+      "caveat": "这里只确定角色和用语关系；昵称及复读句的最早社区发布时间未核验，喝南瓜的首发另列待补。",
+      "sourceIds": [
+        "senti-wiki",
+        "senti-dorm",
+        "senti-official"
+      ],
+      "relatedVersions": [
+        "4.6"
+      ],
+      "evidenceGrade": "contextual",
+      "featured": false,
+      "tags": [
+        "识宝",
+        "小识",
+        "识之律者女士"
+      ],
+      "relatedVideoIds": [
+        "rubia"
+      ],
+      "firstAppearance": null
+    },
+    {
+      "id": "bunny-controversy",
+      "date": "2021-04-22",
+      "dateLabel": "2021-03至04（4月22日回应）",
+      "datePrecision": "day",
+      "dateBasis": "official-response",
+      "dateNote": "4月22日是官方回应锚点，活动及争论在此前已经展开。",
+      "title": "海外周年兔女郎内容争议",
+      "category": "controversy",
+      "summary": "角色表现、不同地区待遇及下架后的补偿，引发跨社区分歧。",
+      "detail": "同期报道记录国服玩家对角色表现和区域内容差别的不满，以及4月22日官方致歉、宣布下架相关内容后海外玩家的反应。",
+      "caveat": "原始微博与推文已定位但当前未读到正文，处理事实据同期报道；不复述未经独立核验的暴力传闻，也不将国服或海外玩家概括为单一立场。",
+      "sourceIds": [
+        "bunny-report",
+        "bunny-weibo",
+        "bunny-tweet"
+      ],
+      "relatedVersions": [
+        "4.7"
+      ],
+      "evidenceGrade": "documented",
+      "featured": true,
+      "tags": [
+        "兔女郎",
+        "海外周年",
+        "角色设定",
+        "区域运营"
+      ],
+      "relatedVideoIds": [],
+      "firstAppearance": null
+    },
+    {
+      "id": "krishna-runover",
+      "date": "2022-01",
+      "dateLabel": "2022年初（第28章期间）",
+      "datePrecision": "month",
+      "dateBasis": "version-context",
+      "dateNote": "按第28章与5.5角色登场背景放置，不采用图片路径日期推定首发。",
+      "title": "创死他 克利希娜",
+      "category": "meme",
+      "summary": "幽兰黛尔骑马冲锋的形象，衍生出克利希娜相关表情与复读。",
+      "detail": "梗百科将其关联第28章与天元骑英，解释它被用于夸张调侃冲锋或整活内容。",
+      "caveat": "百科对原句来源也使用疑似表述；不把谐音改写认定为官方原台词，首发时间待核。",
+      "sourceIds": [
+        "meme-encyclopedia"
+      ],
+      "relatedVersions": [
+        "5.4",
+        "5.5"
+      ],
+      "evidenceGrade": "contextual",
+      "featured": false,
+      "tags": [
+        "创死他",
+        "克利希娜",
+        "天元骑英"
+      ],
+      "relatedVideoIds": [
+        "regression"
+      ],
+      "firstAppearance": null
+    },
+    {
+      "id": "artbook-race",
+      "date": "2022-07-14",
+      "dateLabel": "2022夏（7月14日开启）",
+      "datePrecision": "day",
+      "dateBasis": "announcement",
+      "dateNote": "7月14日为活动开启锚点，六月已有前期讨论，7月27日追加名额。",
+      "title": "原画集抢兑与代币规划",
+      "category": "gameplay",
+      "summary": "有限实物兑换名额，让任务代币、兑换时间和练度成为玩家关注点。",
+      "detail": "上线前玩家攻略已讨论提前算代币、卡时间抢兑和黄牛；5.9公告给出40万册名额，7月27日官方追加至50万册。",
+      "caveat": "六月攻略包含测试期推测，只证明玩家当时的担心与规划，实际规则以正式公告为准；原画集PVP等戏称的同期原帖仍待补。",
+      "sourceIds": [
+        "artbook-guide",
+        "artbook-official",
+        "artbook-increase"
+      ],
+      "relatedVersions": [
+        "5.9"
+      ],
+      "evidenceGrade": "documented",
+      "featured": true,
+      "tags": [
+        "原画集",
+        "抢书",
+        "夏日纪念册",
+        "实物奖励"
+      ],
+      "relatedVideoIds": [],
+      "firstAppearance": null
+    },
+    {
+      "id": "aimen",
+      "date": "2022-08",
+      "dateLabel": "2022年夏秋",
+      "datePrecision": "month",
+      "dateBasis": "discussion-published",
+      "dateNote": "月份来自8月25日评论用例；实际起源未确定。",
+      "title": "爱门与爱莉希雅祈祷式复读",
+      "category": "meme",
+      "summary": "玩家用爱门及合十符号表达对爱莉希雅的喜爱。",
+      "detail": "音乐讨论页可检索到8月25日带爱门的留言，10月1日已有专门讲解该梗的视频；可与往世乐土结局和人之律者版本联动展示。",
+      "caveat": "8月留言只是当前找到的一处用例，不能证明它是最早用例，更不能把人之律者上线日当爱门诞生日。",
+      "sourceIds": [
+        "aimen-comment",
+        "aimen-explainer"
+      ],
+      "relatedVersions": [
+        "5.9",
+        "6.0"
+      ],
+      "evidenceGrade": "attested",
+      "featured": true,
+      "tags": [
+        "爱门",
+        "爱莉希雅",
+        "往世乐土"
+      ],
+      "relatedVideoIds": [],
+      "firstAppearance": null
+    },
+    {
+      "id": "stigma-plan-talk",
+      "date": "2022-09-06",
+      "dateLabel": "2022-09起",
+      "datePrecision": "day",
+      "dateBasis": "discussion-published",
+      "dateNote": "9月6日为两篇讨论发表日，不是整个剧情争议首次发生日。",
+      "title": "圣痕计划解析与看不懂讨论",
+      "category": "story-discussion",
+      "summary": "玩家一面整理设定、预测剧情，一面讨论术语密度与理解门槛。",
+      "detail": "9月6日玩家解析帖围绕圣痕计划间章梳理动机与方案，并给出后续预测；同期评论文章直接以难以理解其本质为讨论切口。这条线后来与第一部终章评价相连。",
+      "caveat": "玩家解析中的推断并非官方结论；不能把间章讨论、后续终章争论和所有剧情评价混成一个事件。",
+      "sourceIds": [
+        "stigma-analysis",
+        "stigma-complexity"
+      ],
+      "relatedVersions": [
+        "6.0"
+      ],
+      "evidenceGrade": "attested",
+      "featured": false,
+      "tags": [
+        "圣痕计划",
+        "剧情术语",
+        "设定解析"
+      ],
+      "relatedVideoIds": [],
+      "firstAppearance": null
+    },
+    {
+      "id": "100-greater-than-175",
+      "date": "2022-09",
+      "dateLabel": "2022年秋（6.1前后）",
+      "datePrecision": "month",
+      "dateBasis": "version-context",
+      "dateNote": "按李素裳6.1登场背景定位，早于上线的测试期是否已有梗未核验。",
+      "title": "100大于175与渡鸦攒SP",
+      "category": "meme",
+      "summary": "100>175用夸张数字比较渡鸦与李素裳的回能体验。",
+      "detail": "句式比较渡鸦100SP与李素裳175SP大招需求，调侃实际攒能量速度与面板数字不成正比。",
+      "caveat": "这是玩法体验梗，并非数学等式或精确性能测试；当前版本已经变化，不能当作今天的配队结论。",
+      "sourceIds": [
+        "meme-encyclopedia"
+      ],
+      "relatedVersions": [
+        "6.1"
+      ],
+      "evidenceGrade": "contextual",
+      "featured": false,
+      "tags": [
+        "100>175",
+        "渡鸦",
+        "李素裳",
+        "SP"
+      ],
+      "relatedVideoIds": [],
+      "firstAppearance": null
+    },
+    {
+      "id": "finality-design-debate",
+      "date": "2023-01",
+      "dateLabel": "2023年初（6.4前后）",
+      "datePrecision": "period",
+      "dateBasis": "version-context",
+      "dateNote": "按6.4版本期放置，具体发帖日和争论起点未核验。",
+      "title": "终焉装甲设计与动作争论",
+      "category": "controversy",
+      "summary": "第一部收束期，玩家对琪亚娜终焉形态的风格和动作有不同期待。",
+      "detail": "巴哈讨论帖可检索到对终焉表现是否符合角色与终局氛围的争论。可将设计评价与剧情评价分开呈现。",
+      "caveat": "原帖全文403、发布时间待核；标题声称官方回复，但未核验回复原文，不写抄袭指控或制作组表态。",
+      "sourceIds": [
+        "finality-design"
+      ],
+      "relatedVersions": [
+        "6.4"
+      ],
+      "evidenceGrade": "contextual",
+      "featured": false,
+      "tags": [
+        "终焉之律者",
+        "装甲设计",
+        "动作",
+        "第一部"
+      ],
+      "relatedVideoIds": [],
+      "firstAppearance": null
+    },
+    {
+      "id": "captainverse-ending",
+      "date": "2023-08-30",
+      "dateLabel": "2023-08起",
+      "datePrecision": "day",
+      "dateBasis": "discussion-published",
+      "dateNote": "以8月30日代表性讨论定位；7.0月下登场是相关后续节点。",
+      "title": "舰长线收束与五年等待",
+      "category": "story-discussion",
+      "summary": "舰长、月下、观星与摆渡人等线索收束，引出感动与意难平。",
+      "detail": "8月30日社区视频帖已讨论舰长线完结；另有玩家感想谈长期等待以及对结局安排的复杂感受。可作为活动叙事线独立展示。",
+      "caveat": "日期为讨论帖发布时间；视频完整内容未核验，不照搬标题对角色输赢的判断，也不把主线和舰长线当同一连续剧情。",
+      "sourceIds": [
+        "captain-ending",
+        "captain-feelings"
+      ],
+      "relatedVersions": [
+        "6.9",
+        "7.0"
+      ],
+      "evidenceGrade": "attested",
+      "featured": true,
+      "tags": [
+        "舰长线",
+        "月下",
+        "观星",
+        "摆渡人"
+      ],
+      "relatedVideoIds": [],
+      "firstAppearance": null
+    },
+    {
+      "id": "part2-launch-debate",
+      "date": "2024-02",
+      "dateLabel": "2024-02至04",
+      "datePrecision": "period",
+      "dateBasis": "approximate-period",
+      "dateNote": "2月为国服7.3上线月份；所引完整评论发表于4月3日。",
+      "title": "第二部开局 新UI与新主角接受度",
+      "category": "controversy",
+      "summary": "火星新故事上线后，UI使用、剧情理解及对原主角团的感情成为讨论焦点。",
+      "detail": "4月3日玩家长文批评界面体验，讨论如何接续对第一部角色的投入；同期论坛也有对箱庭与战斗体验的不同评价。",
+      "caveat": "代表性批评不能当玩家总体满意度；抽卡个案不足以证明概率异常，编剧身份猜测也不作为事实。",
+      "sourceIds": [
+        "part2-review",
+        "part2-forum"
+      ],
+      "relatedVersions": [
+        "7.3",
+        "7.4"
+      ],
+      "evidenceGrade": "attested",
+      "featured": true,
+      "tags": [
+        "第二部",
+        "新UI",
+        "寻梦者",
+        "火星"
+      ],
+      "relatedVideoIds": [],
+      "firstAppearance": null
+    },
+    {
+      "id": "vita-sama",
+      "date": "2024-09-19",
+      "dateLabel": "2024-09",
+      "datePrecision": "day",
+      "dateBasis": "discussion-published",
+      "dateNote": "日期为梗解说视频发布日；第一条复读评论未核验。",
+      "title": "薇塔大人ᐠ(ᑒ)ᐟ",
+      "category": "meme",
+      "summary": "官号宣传整活与评论区复读结合，形成薇塔大人句式和颜文字。",
+      "detail": "通讯中心梗解说记录爱酱、飞鱼丸相关宣传和评论区喊薇塔大人的过程；9月19日已有对应讲解原稿。",
+      "caveat": "夺舍、营救是宣传和玩家整活的叙述；不应写成账号真正被盗或官方发生运营事故。",
+      "sourceIds": [
+        "vita-explainer",
+        "vita-reprint"
+      ],
+      "relatedVersions": [
+        "7.8",
+        "7.9"
+      ],
+      "evidenceGrade": "attested",
+      "featured": true,
+      "tags": [
+        "薇塔大人",
+        "飞鱼丸",
+        "爱酱",
+        "复读"
+      ],
+      "relatedVideoIds": [],
+      "firstAppearance": null
+    },
+    {
+      "id": "elysia-return-banter",
+      "date": "2025-09-06",
+      "dateLabel": "2025-09",
+      "datePrecision": "day",
+      "dateBasis": "discussion-published",
+      "dateNote": "日期为PTT原帖9月6日；9月20日节目和9月25日更新是相关后续。",
+      "title": "又在卖爱莉与为她回坑",
+      "category": "story-discussion",
+      "summary": "九周年新爱莉宣传，让老角色感情、回坑和新角色投入再次相遇。",
+      "detail": "一篇PTT帖以厉声谴责的标题调侃又推出爱莉装甲，正文最后却说要为她重新装游戏，回复也沿用爱门；体现角色厨的反讽式表达。",
+      "caveat": "这是一处具体用例，规模不大；不能当全社区抵制、全民回坑或对商业策略的共识。",
+      "sourceIds": [
+        "ely-return"
+      ],
+      "relatedVersions": [
+        "8.4",
+        "8.5"
+      ],
+      "evidenceGrade": "attested",
+      "featured": false,
+      "tags": [
+        "新爱莉",
+        "爱门",
+        "回坑",
+        "九周年"
+      ],
+      "relatedVideoIds": [
+        "elf-magic"
+      ],
+      "firstAppearance": null
+    },
+    {
+      "id": "part2-finale-discussion",
+      "date": "2026-08",
+      "dateLabel": "2026-08",
+      "datePrecision": "month",
+      "dateBasis": "discussion-published",
+      "dateNote": "月份由8月7、9、10日同期讨论确定；9.0更新日为7月23日，勿混用。",
+      "title": "第二部终章 演出称赞与收束遗憾",
+      "category": "story-discussion",
+      "summary": "玩家肯定Boss演出，也讨论扇区回访、支线回收与结尾节奏。",
+      "detail": "8月7日帖子称赞QTE协力和场景轮转；8月9日帖子遗憾可回访扇区与回收点不足，同时表示整体满意；8月10日长文同时肯定完整故事并批评收尾仓促。",
+      "caveat": "记录的是多种玩家感受，不代表投票结果；对删减内容、产能、第三部或停服的猜测不能当作已确认事实。",
+      "sourceIds": [
+        "final2-positive",
+        "final2-regret",
+        "final2-complete"
+      ],
+      "relatedVersions": [
+        "9.0"
+      ],
+      "evidenceGrade": "attested",
+      "featured": true,
+      "tags": [
+        "第二部终章",
+        "Boss演出",
+        "支线回收",
+        "剧情评价"
+      ],
+      "relatedVideoIds": [],
+      "firstAppearance": null
+    },
+    {
+      "id": "ten-years-memory",
+      "date": "2026-09-20",
+      "dateLabel": "2026-09至10周年期",
+      "datePrecision": "day",
+      "dateBasis": "discussion-published",
+      "dateNote": "9月20日为代表性回忆帖发布日；十周年庆典活动期与全平台公测周年日分开。",
+      "title": "十周年 回忆帖与老舰长经历",
+      "category": "community-culture",
+      "summary": "以入坑、退坑、回坑和角色陪伴回望十年，适合时间轴的收束部分。",
+      "detail": "9月20日玩家长帖串联个人入坑、配队、红莲升降与角色感情；它可作为玩家视角的周年节点，与官方庆典和同人生日会互相链接。",
+      "caveat": "回忆帖作者已提醒日期可能记错；只把它作为个人经历与周年表达，不据其回忆修订官方版本日或代表全部老玩家。",
+      "sourceIds": [
+        "anniversary-memory"
+      ],
+      "relatedVersions": [
+        "9.0",
+        "9.1"
+      ],
+      "evidenceGrade": "attested",
+      "featured": true,
+      "tags": [
+        "十周年",
+        "回忆帖",
+        "老舰长",
+        "陪伴"
+      ],
+      "relatedVideoIds": [
+        "anniversary-10-program",
+        "anniversary-10-fan"
+      ],
+      "firstAppearance": null
+    }
+  ],
+  "glossary": [
+    {
+      "id": "nickname-game",
+      "title": "崩崩崩／三崩子",
+      "meaning": "崩坏3的玩家俗称。",
+      "firstAppearance": null,
+      "attestedBy": "2019-02-19",
+      "attestationNote": "所引资料的日期，仅说明当时已有记录；合集可能持续编辑，不是首创日期。",
+      "sourceIds": [
+        "slang-2019"
+      ],
+      "relatedTopicIds": []
+    },
+    {
+      "id": "kiana-slippers",
+      "title": "草履虫／稽亚娜",
+      "meaning": "琪亚娜的调侃昵称，通常对应早期性格与表情包语境。",
+      "firstAppearance": null,
+      "attestedBy": "2019-02-19",
+      "attestationNote": "所引资料的日期，仅说明当时已有记录；合集可能持续编辑，不是首创日期。",
+      "sourceIds": [
+        "slang-2019"
+      ],
+      "relatedTopicIds": []
+    },
+    {
+      "id": "bronya-duck",
+      "title": "板鸭／鸭鸭",
+      "meaning": "布洛妮娅的玩家称呼，板鸭来自名字谐音。",
+      "firstAppearance": null,
+      "attestedBy": "2019-02-19",
+      "attestationNote": "所引资料的日期，仅说明当时已有记录；合集可能持续编辑，不是首创日期。",
+      "sourceIds": [
+        "slang-2019"
+      ],
+      "relatedTopicIds": []
+    },
+    {
+      "id": "herrscher-salt",
+      "title": "氯化钠／律化娜",
+      "meaning": "律化娜的谐音，用于律者化的琪亚娜。",
+      "firstAppearance": null,
+      "attestedBy": "2019-02-19",
+      "attestationNote": "所引资料的日期，仅说明当时已有记录；合集可能持续编辑，不是首创日期。",
+      "sourceIds": [
+        "slang-2019"
+      ],
+      "relatedTopicIds": []
+    },
+    {
+      "id": "judah-launcher",
+      "title": "犹大发射器／女武神犹大",
+      "meaning": "玩家用武器强势的反差，调侃誓约与犹大的输出关系。",
+      "firstAppearance": null,
+      "attestedBy": "2019-02-19",
+      "attestationNote": "所引资料的日期，仅说明当时已有记录；合集可能持续编辑，不是首创日期。",
+      "sourceIds": [
+        "slang-2019"
+      ],
+      "relatedTopicIds": []
+    },
+    {
+      "id": "cabbage-ai",
+      "title": "包菜／包菜头",
+      "meaning": "爱酱的外号，常见于评论区与官方交流语境。",
+      "firstAppearance": null,
+      "attestedBy": "2019-02-19",
+      "attestationNote": "所引资料的日期，仅说明当时已有记录；合集可能持续编辑，不是首创日期。",
+      "sourceIds": [
+        "slang-2019"
+      ],
+      "relatedTopicIds": []
+    },
+    {
+      "id": "red-lotus-elevator",
+      "title": "苦痛红莲升降机",
+      "meaning": "晋级红莲后又掉回苦痛，反复升降的自嘲。",
+      "firstAppearance": null,
+      "attestedBy": "2019-02-19",
+      "attestationNote": "所引资料的日期，仅说明当时已有记录；合集可能持续编辑，不是首创日期。",
+      "sourceIds": [
+        "slang-2019"
+      ],
+      "relatedTopicIds": [
+        "wuxueyou",
+        "level-break-priarm"
+      ]
+    },
+    {
+      "id": "score-retries",
+      "title": "凹分／SL",
+      "meaning": "通过反复重打优化流程、伤害或计时，追求更高排行分数。",
+      "firstAppearance": null,
+      "attestedBy": "2019-02-19",
+      "attestationNote": "所引资料的日期，仅说明当时已有记录；合集可能持续编辑，不是首创日期。",
+      "sourceIds": [
+        "slang-2019"
+      ],
+      "relatedTopicIds": [
+        "big-month-card"
+      ]
+    },
+    {
+      "id": "sixty-crystals",
+      "title": "60水无事发生",
+      "meaning": "用补偿水晶调侃运营问题后的情绪缓和，并非每次公告的固定补偿规则。",
+      "firstAppearance": null,
+      "attestedBy": "2019-02-19",
+      "attestationNote": "所引资料的日期，仅说明当时已有记录；合集可能持续编辑，不是首创日期。",
+      "sourceIds": [
+        "slang-2019"
+      ],
+      "relatedTopicIds": [
+        "zoro-anniversary"
+      ]
+    },
+    {
+      "id": "captain-ghost",
+      "title": "舰伥／期末考试",
+      "meaning": "对爱看或传播虐心剧情、反复重温情节的玩家与观看行为的戏称。",
+      "firstAppearance": null,
+      "attestedBy": "2024-01-26",
+      "attestationNote": "所引资料的日期，仅说明当时已有记录；合集可能持续编辑，不是首创日期。",
+      "sourceIds": [
+        "fan-exam"
+      ],
+      "relatedTopicIds": []
+    },
+    {
+      "id": "bronya-license",
+      "title": "吊销驾照",
+      "meaning": "对第12章布洛妮娅失去核心的调侃。",
+      "firstAppearance": null,
+      "attestedBy": null,
+      "attestationNote": "尚未核验首发日期，不挂到某个开服或角色上线日。",
+      "sourceIds": [
+        "meme-encyclopedia"
+      ],
+      "relatedTopicIds": []
+    },
+    {
+      "id": "bronya-face",
+      "title": "大鸭鸭颜文字 (ᗜ ˰ ᗜ)",
+      "meaning": "由布洛妮娅的互动表情传播成玩家表情符号。",
+      "firstAppearance": null,
+      "attestedBy": null,
+      "attestationNote": "尚未核验首发日期，不挂到某个开服或角色上线日。",
+      "sourceIds": [
+        "meme-encyclopedia"
+      ],
+      "relatedTopicIds": []
+    }
+  ],
+  "candidates": [
+    {
+      "id": "prelogin-community",
+      "title": "2016年9月预登录社区话题",
+      "reason": "尚缺能定位当期传播的具体原帖；长期外号不自动回填到2016年。",
+      "sourceIds": []
+    },
+    {
+      "id": "early-blue-date",
+      "title": "开服期碎片掉率、深渊难度与外挂问答",
+      "reason": "已找到贴吧跟班问答的索引正文，但标题月日与万圣节说明不一致，首发年份及日期待核；可补为早期社区互动节点。",
+      "sourceIds": [
+        "early-blue-thread"
+      ]
+    },
+    {
+      "id": "bridge-voice-17",
+      "title": "1.7角色语音与立绘调整",
+      "reason": "百科列出2017年8月公告与玩家语音留档；原公告和同期反应尚需补核，暂不单列争议规模。",
+      "sourceIds": [
+        "interaction-history"
+      ]
+    },
+    {
+      "id": "red-haired-captain",
+      "title": "火星四格与红毛舰长形象",
+      "reason": "能找到后来的回顾说明，但第一期、首次定型日期和原稿链未核验。",
+      "sourceIds": []
+    },
+    {
+      "id": "pumpkin-senti",
+      "title": "喝南瓜与黑虎阿符",
+      "reason": "识律相关释义易找到，原始预告、剪辑首发及声优用例仍需逐条定位；不直接把渡尘发布日期当首发。",
+      "sourceIds": [
+        "meme-encyclopedia"
+      ]
+    },
+    {
+      "id": "healthy-story",
+      "title": "健康阳光积极向上",
+      "reason": "常见说法关联五周年节目，但节目准确段落和最早反讽用例未核验。",
+      "sourceIds": [
+        "meme-encyclopedia"
+      ]
+    },
+    {
+      "id": "finale-ai-bullets",
+      "title": "第一部终章爱酱救场与弹幕破盾",
+      "reason": "需要同期正反评价原帖支撑争议陈述；剧情录像只能证明桥段存在。",
+      "sourceIds": []
+    },
+    {
+      "id": "2025-national-benefits",
+      "title": "九周年国福与电话宣传争议",
+      "reason": "搜索报告提供了线索，但缺可读原帖；自动生成舆情报告的百分比和概括不作为热度证据。",
+      "sourceIds": []
+    }
+  ]
+}

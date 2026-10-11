@@ -1,0 +1,75 @@
+{
+  "platform": "Bilibili",
+  "checkedAt": "2026-10-11T19:28:49+08:00",
+  "sourceHint": {
+    "bvid": "BV1UW411v7o3"
+  },
+  "comments": [
+    {
+      "id": "590435417",
+      "userId": "8849766",
+      "username": "御坂2033",
+      "publishedAt": "2018-01-19T19:40:58+08:00",
+      "text": "还记得她们植物人之前的音容笑貌",
+      "likes": 5,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV1UW411v7o3/#reply590435417"
+    },
+    {
+      "id": "590802522",
+      "userId": "8430832",
+      "username": "又菜又爱玩的梦游家",
+      "publishedAt": "2018-01-19T23:25:03+08:00",
+      "text": "(´；ω；`)扎心了",
+      "likes": 0,
+      "replyTo": "590435417",
+      "sourceURL": "https://www.bilibili.com/video/BV1UW411v7o3/#reply590802522"
+    },
+    {
+      "id": "591018463",
+      "userId": "195490920",
+      "username": "季_曦",
+      "publishedAt": "2018-01-20T02:33:28+08:00",
+      "text": "还会改的，语音会回来的\n让更多人看到这个吧，赞我上热评，不要被那些用意不好的人带了节奏\n\n\n蹦蹦蹦的新版互动没那么快出，毕竟星期四晚上突然的决定，而且贴吧出了活动让玩家提建议，至于会怎样看ch喂不喂x，\n如果ch是懒的改那种估计也就是多了几颗按钮作为介质那种（有的游戏会这样）\n语音？1.7已经改过次，但1.7.1回来了大部分，但当时互动语音除去下面和女乃子外其他没变，问题不在语音身上\n对了，跟各位提个醒，互动以后还是要改的，除去焚某的因素，还有蹦蹦蹦自身的发展，到了时机成熟时依然要改，就像其他游戏的大厅，你一年或者很长时间下来改都不改一次，会让玩家感觉有些厌烦，一直不改造成的后果不可估量……(-_-#)\n还有一个希望各位别乱带节奏和被某些小人带了节奏，你在这带来带去做键盘侠还不如去做些实在的，研究黑科技也好转服之类的也好，总之千万别乱带节奏，带节奏只会害了各位。另一个告诫各位P图的，别再P那种假的名单图了，被一些小人利用了也只会害了大家，有来源的真图可以带上来源稍微告知下，无论贴吧老哥还是谁也好请谨记着，为了大家(´･_･`)\n最后，今晚的星空格外地美，但多年后的今天，我还能再看到如此美的星空吗？\n（转载自妹汁衣）",
+      "likes": 2,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV1UW411v7o3/#reply591018463"
+    },
+    {
+      "id": "592361918",
+      "userId": "8430832",
+      "username": "又菜又爱玩的梦游家",
+      "publishedAt": "2018-01-20T23:11:52+08:00",
+      "text": "希望总是要有的(=・ω・=)",
+      "likes": 0,
+      "replyTo": "591018463",
+      "sourceURL": "https://www.bilibili.com/video/BV1UW411v7o3/#reply592361918"
+    },
+    {
+      "id": "678881624",
+      "userId": "8147617",
+      "username": "龍宇儿",
+      "publishedAt": "2018-03-11T09:09:46+08:00",
+      "text": "(=・ω・=)",
+      "likes": 0,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV1UW411v7o3/#reply678881624"
+    }
+  ],
+  "title": "【崩坏3】纪念逝去的看板娘互动",
+  "bvid": "BV1UW411v7o3",
+  "aid": 18487302,
+  "author": "又菜又爱玩的梦游家",
+  "authorId": "8430832",
+  "url": "https://www.bilibili.com/video/BV1UW411v7o3/",
+  "publishedAt": "2018-01-19T19:34:23+08:00",
+  "metadataURL": "https://api.bilibili.com/x/web-interface/view?bvid=BV1UW411v7o3",
+  "commentAPI": "https://api.bilibili.com/x/v2/reply?type=1&oid=18487302&sort=2&pn=1",
+  "page": {
+    "num": 1,
+    "size": 20,
+    "count": 11,
+    "acount": 11
+  },
+  "status": "ok"
+}

@@ -1,0 +1,4569 @@
+{
+  "schemaVersion": 1,
+  "meta": {
+    "title": "崩坏3 B站视频与话题时间轴（精选）",
+    "region": "CN",
+    "timezone": "Asia/Shanghai",
+    "displayStart": "2016-09",
+    "asOf": "2026-10-11",
+    "status": "first-research-pass",
+    "videoCount": 56,
+    "topicCount": 13,
+    "categoryCounts": {
+      "community-program": 1,
+      "cv-song": 6,
+      "fan-creation": 6,
+      "official-animation": 21,
+      "official-program": 6,
+      "official-pv": 8,
+      "official-song": 4,
+      "render-mmd": 4
+    },
+    "categories": {
+      "official-animation": "官方动画／过场",
+      "official-pv": "官方角色／版本PV",
+      "official-song": "官方歌曲／演唱视频",
+      "official-program": "官方节目／音乐会／纪录片",
+      "render-mmd": "创作者MMD／渲染演示",
+      "cv-song": "声优翻唱／原创曲",
+      "fan-creation": "同人／鬼畜／MAD／手书",
+      "community-program": "社区晚会"
+    },
+    "versionTimelineFile": "timeline.zh-CN.json",
+    "snapshotRange": {
+      "earliest": "2026-10-11T08:31:19.8057862+00:00",
+      "latest": "2026-10-11T08:41:53.3532826+00:00"
+    },
+    "scope": "2016年9月至截止日的官方动画、代表性PV／歌曲／节目、Scyrax渲染演示、声优歌曲及社区二创；精选而非全量排行。",
+    "selectionNotes": [
+      "优先原作者／官号原稿。兼顾累计播放、可取得的全站历史最高排名、官方获奖记录与话题代表性。",
+      "context条目用于解释二创原作到声优翻唱的关系，不以当前播放量断言其独立成为热门。",
+      "date／publishedAt来自原稿pubdate，按北京时间显示；eventDate仅在另有演出日期证据时填写。",
+      "累计播放量是抓取时快照，不能当作发布当年的播放量、当年热度排行或唯一观众数。",
+      "历史最高排名仅采用接口his_rank正值；0转换为null，表示本次未取得，不能断言从未上榜。",
+      "versionAtPublication按既有国服更新日期推算；relatedVersions为人工内容关联，可能指向后来更新的版本。",
+      "话题anchorDate是本资料所选代表视频中的最早发布时间，不是梗／话题首次出现日期。",
+      "creator.kind区分发布账号；官号音乐可以由声优演唱，外邀歌手不自动归为角色CV。",
+      "优先级、摘要、角色标签及话题编排属于编辑选择，不是B站官方分类或排行。"
+    ],
+    "knownGaps": [
+      "尚未建立逐年同口径热门榜；2024—2026社区二创及更早的新春会／生日会仍可继续补选。",
+      "Scyrax原稿与系列已核验；贺甲及任职归属仅采用媒体报道，尚未补入一手身份来源。",
+      "未保存评论文本／逐日热榜，不据此断言梗的首创者、出圈首日或传播因果。"
+    ],
+    "refresh": "powershell -File research/collect-bilibili.ps1 -Refresh",
+    "build": "python research/build-bilibili.py"
+  },
+  "videos": [
+    {
+      "id": "mei-pv-2016",
+      "date": "2016-09-26",
+      "datePrecision": "day",
+      "publishedAt": "2016-09-26T10:07:36+08:00",
+      "title": "【崩坏3】雷电女王降临！芽衣角色PV解禁",
+      "displayTitle": "雷电女王降临！芽衣角色PV",
+      "category": "official-pv",
+      "bvid": "BV1zs411t7ma",
+      "aid": 6422080,
+      "url": "https://www.bilibili.com/video/BV1zs411t7ma/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 68,
+      "summary": "开服前的芽衣角色宣传，可接在2016年9月预登录节点之后。",
+      "characters": [
+        "雷电芽衣"
+      ],
+      "tags": [
+        "预登录",
+        "角色PV"
+      ],
+      "priority": "featured",
+      "versionAtPublication": null,
+      "relatedVersions": [
+        {
+          "id": "cn-1.0",
+          "version": "1.0",
+          "date": "2016-10-14",
+          "relation": "editorial-content-link",
+          "reason": "开服前角色宣传；视频早于国服全平台公测。"
+        }
+      ],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:40:24.5591060+00:00",
+        "views": 847707,
+        "likes": 21267,
+        "coins": 1393,
+        "favorites": 4291,
+        "shares": 2407,
+        "danmaku": 1215,
+        "comments": 2322,
+        "historicalHighestSitewideRank": null
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 847707,
+          "asOf": "2026-10-11T08:40:24.5591060+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1zs411t7ma/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zs411t7ma",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:40:24.5591060+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    },
+    {
+      "id": "scyrax-kiana",
+      "date": "2016-11-25",
+      "datePrecision": "day",
+      "publishedAt": "2016-11-25T13:59:17+08:00",
+      "title": "琪亚娜·极乐净土 【次世代卡通渲染】【自制模型/Unity】",
+      "displayTitle": "琪亚娜·极乐净土",
+      "category": "render-mmd",
+      "bvid": "BV1Fs411s7PZ",
+      "aid": 7244731,
+      "url": "https://www.bilibili.com/video/BV1Fs411s7PZ/",
+      "creator": {
+        "mid": 3301199,
+        "name": "scyrax",
+        "url": "https://space.bilibili.com/3301199",
+        "kind": "render-creator",
+        "identityNote": "原稿确认Scyrax账号与渲染创作；媒体报道将该系列与时任技术总监贺甲关联，任职归属采用二手报道，不标为官号稿件。",
+        "reportedIdentity": {
+          "name": "贺甲",
+          "role": "媒体报道的时任米哈游技术总监",
+          "verification": "secondary-report",
+          "sourceUrl": "https://game.xiaomi.com/viewpoint/1393220466_1678951710297_100",
+          "note": "报道通过琪亚娜极乐净土及团队渲染系列联系作者身份；不作为现任职务断言。"
+        }
+      },
+      "durationSeconds": 529,
+      "summary": "Scyrax的Unity5实时渲染MMD；简介说明由作者与伙伴共同完成。",
+      "characters": [
+        "琪亚娜"
+      ],
+      "tags": [
+        "Scyrax",
+        "Unity",
+        "MMD",
+        "极乐净土"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-1.1",
+        "version": "1.1",
+        "date": "2016-11-15"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:31:19.8057862+00:00",
+        "views": 7415044,
+        "likes": 178764,
+        "coins": 326993,
+        "favorites": 323342,
+        "shares": 72809,
+        "danmaku": 31106,
+        "comments": 19382,
+        "historicalHighestSitewideRank": 1
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 7415044,
+          "asOf": "2026-10-11T08:31:19.8057862+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 1
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1Fs411s7PZ/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?aid=7244731",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:31:19.8057862+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        },
+        {
+          "url": "https://game.xiaomi.com/viewpoint/1393220466_1678951710297_100",
+          "kind": "secondary-media-report",
+          "supports": "游戏葡萄报道、小米游戏中心转载；该渲染系列与贺甲及历史任职归属的联系"
+        }
+      ]
+    },
+    {
+      "id": "scyrax-mei",
+      "date": "2017-09-08",
+      "datePrecision": "day",
+      "publishedAt": "2017-09-08T00:02:47+08:00",
+      "title": "芽衣·染上你的颜色 【次世代卡通渲染第二弹】",
+      "displayTitle": "芽衣·染上你的颜色",
+      "category": "render-mmd",
+      "bvid": "BV1Mx41147EK",
+      "aid": 14260225,
+      "url": "https://www.bilibili.com/video/BV1Mx41147EK/",
+      "creator": {
+        "mid": 3301199,
+        "name": "scyrax",
+        "url": "https://space.bilibili.com/3301199",
+        "kind": "render-creator",
+        "identityNote": "原稿确认Scyrax账号与渲染创作；媒体报道将该系列与时任技术总监贺甲关联，任职归属采用二手报道，不标为官号稿件。",
+        "reportedIdentity": {
+          "name": "贺甲",
+          "role": "媒体报道的时任米哈游技术总监",
+          "verification": "secondary-report",
+          "sourceUrl": "https://game.xiaomi.com/viewpoint/1393220466_1678951710297_100",
+          "note": "报道通过琪亚娜极乐净土及团队渲染系列联系作者身份；不作为现任职务断言。"
+        }
+      },
+      "durationSeconds": 490,
+      "summary": "Scyrax次世代卡通渲染系列第二弹，延续角色舞蹈与渲染展示。",
+      "characters": [
+        "雷电芽衣"
+      ],
+      "tags": [
+        "Scyrax",
+        "Unity",
+        "MMD"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-1.7",
+        "version": "1.7",
+        "date": "2017-08-24"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:31:20.3680993+00:00",
+        "views": 3482985,
+        "likes": 131560,
+        "coins": 148219,
+        "favorites": 123736,
+        "shares": 34306,
+        "danmaku": 12974,
+        "comments": 22854,
+        "historicalHighestSitewideRank": 8
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 3482985,
+          "asOf": "2026-10-11T08:31:20.3680993+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 8
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1Mx41147EK/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?aid=14260225",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:31:20.3680993+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        },
+        {
+          "url": "https://game.xiaomi.com/viewpoint/1393220466_1678951710297_100",
+          "kind": "secondary-media-report",
+          "supports": "游戏葡萄报道、小米游戏中心转载；该渲染系列与贺甲及历史任职归属的联系"
+        }
+      ]
+    },
+    {
+      "id": "reburn",
+      "date": "2017-09-30",
+      "datePrecision": "day",
+      "publishedAt": "2017-09-30T11:55:37+08:00",
+      "title": "《崩坏3 Reburn 》动画短片独家放送！",
+      "displayTitle": "Reburn",
+      "category": "official-animation",
+      "bvid": "BV1Tx411V7be",
+      "aid": 14899926,
+      "url": "https://www.bilibili.com/video/BV1Tx411V7be/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 279,
+      "summary": "琪亚娜主题动作短片，适合作为早期官方动画的代表节点。",
+      "characters": [
+        "琪亚娜"
+      ],
+      "tags": [
+        "官方动画",
+        "一周年"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-1.7",
+        "version": "1.7",
+        "date": "2017-08-24"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:33:57.8915934+00:00",
+        "views": 4200474,
+        "likes": 114417,
+        "coins": 119223,
+        "favorites": 137017,
+        "shares": 81352,
+        "danmaku": 40011,
+        "comments": 19805,
+        "historicalHighestSitewideRank": 12
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 4200474,
+          "asOf": "2026-10-11T08:33:57.8915934+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 12
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1Tx411V7be/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Tx411V7be",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:33:57.8915934+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    },
+    {
+      "id": "befall",
+      "date": "2018-05-31",
+      "datePrecision": "day",
+      "publishedAt": "2018-05-31T12:00:01+08:00",
+      "title": "《崩坏3》动画短片「女王降临」",
+      "displayTitle": "女王降临",
+      "category": "official-animation",
+      "bvid": "BV1aW411P7UJ",
+      "aid": 24149246,
+      "url": "https://www.bilibili.com/video/BV1aW411P7UJ/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 384,
+      "summary": "空之律者主题动画，配乐Befall由尚雯婕演唱。",
+      "characters": [
+        "空之律者"
+      ],
+      "tags": [
+        "官方动画",
+        "Befall",
+        "空之律者"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-2.3",
+        "version": "2.3",
+        "date": "2018-05-10"
+      },
+      "relatedVersions": [
+        {
+          "id": "cn-2.5",
+          "version": "2.5",
+          "date": "2018-08-02",
+          "relation": "editorial-content-link",
+          "reason": "人物线可关联空之律者装甲上线；短片早于该版本，不能改写发布时间。"
+        }
+      ],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:31:21.8000355+00:00",
+        "views": 13777770,
+        "likes": 404152,
+        "coins": 329198,
+        "favorites": 290335,
+        "shares": 248266,
+        "danmaku": 93170,
+        "comments": 39834,
+        "historicalHighestSitewideRank": 1
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 13777770,
+          "asOf": "2026-10-11T08:31:21.8000355+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 1
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1aW411P7UJ/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1aW411P7UJ",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:31:21.8000355+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ],
+      "music": {
+        "title": "Befall",
+        "performers": [
+          "尚雯婕"
+        ],
+        "context": "官方印象曲"
+      }
+    },
+    {
+      "id": "last-lesson",
+      "date": "2018-12-14",
+      "datePrecision": "day",
+      "publishedAt": "2018-12-14T12:00:23+08:00",
+      "title": "《崩坏3》全新动画短片「最后一课」",
+      "displayTitle": "最后一课",
+      "category": "official-animation",
+      "bvid": "BV1Ut411v74a",
+      "aid": 38096452,
+      "url": "https://www.bilibili.com/video/BV1Ut411v74a/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 427,
+      "summary": "姬子与琪亚娜剧情的重要动画节点，印象曲为蔡健雅演唱的Nightglow。",
+      "characters": [
+        "无量塔姬子",
+        "琪亚娜"
+      ],
+      "tags": [
+        "官方动画",
+        "姬子",
+        "Nightglow"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-2.8",
+        "version": "2.8",
+        "date": "2018-12-13"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:31:22.2782844+00:00",
+        "views": 19875063,
+        "likes": 758624,
+        "coins": 714308,
+        "favorites": 458544,
+        "shares": 506121,
+        "danmaku": 125575,
+        "comments": 75309,
+        "historicalHighestSitewideRank": null
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 19875063,
+          "asOf": "2026-10-11T08:31:22.2782844+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1Ut411v74a/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ut411v74a",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:31:22.2782844+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ],
+      "music": {
+        "title": "Nightglow",
+        "performers": [
+          "蔡健雅"
+        ],
+        "context": "官方印象曲"
+      }
+    },
+    {
+      "id": "scyrax-sakura",
+      "date": "2019-02-01",
+      "datePrecision": "day",
+      "publishedAt": "2019-02-01T11:50:38+08:00",
+      "title": "八重樱 · 桃源恋歌【次世代卡通渲染第三弹】",
+      "displayTitle": "八重樱·桃源恋歌",
+      "category": "render-mmd",
+      "bvid": "BV1Lb411k7eP",
+      "aid": 42250009,
+      "url": "https://www.bilibili.com/video/BV1Lb411k7eP/",
+      "creator": {
+        "mid": 3301199,
+        "name": "scyrax",
+        "url": "https://space.bilibili.com/3301199",
+        "kind": "render-creator",
+        "identityNote": "原稿确认Scyrax账号与渲染创作；媒体报道将该系列与时任技术总监贺甲关联，任职归属采用二手报道，不标为官号稿件。",
+        "reportedIdentity": {
+          "name": "贺甲",
+          "role": "媒体报道的时任米哈游技术总监",
+          "verification": "secondary-report",
+          "sourceUrl": "https://game.xiaomi.com/viewpoint/1393220466_1678951710297_100",
+          "note": "报道通过琪亚娜极乐净土及团队渲染系列联系作者身份；不作为现任职务断言。"
+        }
+      },
+      "durationSeconds": 584,
+      "summary": "Scyrax次世代卡通渲染系列第三弹，八重樱舞蹈展示。",
+      "characters": [
+        "八重樱"
+      ],
+      "tags": [
+        "Scyrax",
+        "MMD",
+        "桃源恋歌"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-2.9",
+        "version": "2.9",
+        "date": "2019-01-24"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:31:20.8487403+00:00",
+        "views": 9142868,
+        "likes": 558793,
+        "coins": 674578,
+        "favorites": 447675,
+        "shares": 135982,
+        "danmaku": 66151,
+        "comments": 54726,
+        "historicalHighestSitewideRank": 1
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 9142868,
+          "asOf": "2026-10-11T08:31:20.8487403+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 1
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1Lb411k7eP/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?aid=42250009",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:31:20.8487403+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        },
+        {
+          "url": "https://game.xiaomi.com/viewpoint/1393220466_1678951710297_100",
+          "kind": "secondary-media-report",
+          "supports": "游戏葡萄报道、小米游戏中心转载；该渲染系列与贺甲及历史任职归属的联系"
+        }
+      ]
+    },
+    {
+      "id": "cyberangel-song",
+      "date": "2019-07-05",
+      "datePrecision": "day",
+      "publishedAt": "2019-07-05T11:55:10+08:00",
+      "title": "「Cyberangel」——《崩坏3》印象曲（演唱者：Hanser）",
+      "displayTitle": "Cyberangel（Hanser）",
+      "category": "official-song",
+      "bvid": "BV1v4411A7oj",
+      "aid": 57879229,
+      "url": "https://www.bilibili.com/video/BV1v4411A7oj/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 185,
+      "summary": "官号单独发布的印象曲视频，与同日《天使重构》组成动画／音乐两个原稿。",
+      "characters": [
+        "布洛妮娅"
+      ],
+      "tags": [
+        "Hanser",
+        "声优演唱",
+        "Cyberangel"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-3.2",
+        "version": "3.2",
+        "date": "2019-06-05"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [
+        "cyberangel"
+      ],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:34:01.5207507+00:00",
+        "views": 12857797,
+        "likes": 355762,
+        "coins": 231156,
+        "favorites": 284625,
+        "shares": 35473,
+        "danmaku": 40854,
+        "comments": 13251,
+        "historicalHighestSitewideRank": null
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 12857797,
+          "asOf": "2026-10-11T08:34:01.5207507+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1v4411A7oj/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1v4411A7oj",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:34:01.5207507+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ],
+      "music": {
+        "title": "Cyberangel",
+        "performers": [
+          "Hanser"
+        ],
+        "context": "官方印象曲／角色CV演唱"
+      }
+    },
+    {
+      "id": "cyberangel",
+      "date": "2019-07-05",
+      "datePrecision": "day",
+      "publishedAt": "2019-07-05T12:00:21+08:00",
+      "title": "《崩坏3》动画短片「天使重构」",
+      "displayTitle": "天使重构",
+      "category": "official-animation",
+      "bvid": "BV1v4411A7kc",
+      "aid": 57880560,
+      "url": "https://www.bilibili.com/video/BV1v4411A7kc/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 396,
+      "summary": "布洛妮娅寻找希儿的动画节点；布洛妮娅CV Hanser演唱Cyberangel。",
+      "characters": [
+        "布洛妮娅",
+        "希儿"
+      ],
+      "tags": [
+        "官方动画",
+        "理之律者",
+        "Cyberangel"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-3.2",
+        "version": "3.2",
+        "date": "2019-06-05"
+      },
+      "relatedVersions": [
+        {
+          "id": "cn-3.3",
+          "version": "3.3",
+          "date": "2019-07-18",
+          "relation": "editorial-content-link",
+          "reason": "人物线关联理之律者装甲上线；动画提前发布。"
+        }
+      ],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:31:22.7445312+00:00",
+        "views": 13118308,
+        "likes": 483194,
+        "coins": 427014,
+        "favorites": 295640,
+        "shares": 180550,
+        "danmaku": 153909,
+        "comments": 35135,
+        "historicalHighestSitewideRank": 1
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 13118308,
+          "asOf": "2026-10-11T08:31:22.7445312+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 1
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1v4411A7kc/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1v4411A7kc",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:31:22.7445312+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ],
+      "music": {
+        "title": "Cyberangel",
+        "performers": [
+          "Hanser"
+        ],
+        "context": "官方印象曲／角色CV演唱"
+      }
+    },
+    {
+      "id": "annals",
+      "date": "2019-09-07",
+      "datePrecision": "day",
+      "publishedAt": "2019-09-07T18:38:04+08:00",
+      "title": "【史诗/震撼/崩坏3RD】ANNALS|崩坏编年史",
+      "displayTitle": "ANNALS｜崩坏编年史",
+      "category": "fan-creation",
+      "bvid": "BV1U4411k7W4",
+      "aid": 66938671,
+      "url": "https://www.bilibili.com/video/BV1U4411k7W4/",
+      "creator": {
+        "mid": 25467124,
+        "name": "T--K",
+        "url": "https://space.bilibili.com/25467124",
+        "kind": "community-creator"
+      },
+      "durationSeconds": 252,
+      "summary": "三周年回顾MAD，获官方三周年影像大赏特等奖；以获奖证据补充播放量指标。",
+      "characters": [],
+      "tags": [
+        "MAD",
+        "周年回顾",
+        "三周年"
+      ],
+      "priority": "standard",
+      "versionAtPublication": {
+        "id": "cn-3.4",
+        "version": "3.4",
+        "date": "2019-08-29"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:41:53.3532826+00:00",
+        "views": 615818,
+        "likes": 70571,
+        "coins": 76216,
+        "favorites": 53675,
+        "shares": 7943,
+        "danmaku": 4143,
+        "comments": 1391,
+        "historicalHighestSitewideRank": null
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 615818,
+          "asOf": "2026-10-11T08:41:53.3532826+00:00"
+        },
+        {
+          "kind": "official-contest-award",
+          "value": "三周年影像大赏特等奖",
+          "sourceUrl": "https://www.bilibili.com/blackboard/activity-bhszmyxds.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1U4411k7W4/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?aid=66938671",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:41:53.3532826+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        },
+        {
+          "url": "https://www.bilibili.com/blackboard/activity-bhszmyxds.html",
+          "kind": "official-activity-page",
+          "supports": "特等奖与作者署名"
+        }
+      ]
+    },
+    {
+      "id": "judah-disco",
+      "date": "2019-09-30",
+      "datePrecision": "day",
+      "publishedAt": "2019-09-30T18:00:21+08:00",
+      "title": "【德丽莎】犹大disco",
+      "displayTitle": "犹大disco",
+      "category": "fan-creation",
+      "bvid": "BV1yJ411K7j3",
+      "aid": 68962828,
+      "url": "https://www.bilibili.com/video/BV1yJ411K7j3/",
+      "creator": {
+        "mid": 4320540,
+        "name": "猫山王豆浆",
+        "url": "https://space.bilibili.com/4320540",
+        "kind": "community-creator"
+      },
+      "durationSeconds": 156,
+      "summary": "邻家索尔署名的德丽莎填词二创，获官方三周年影像大赏一等奖。",
+      "characters": [
+        "德丽莎"
+      ],
+      "tags": [
+        "鬼畜",
+        "填词",
+        "犹大",
+        "三周年"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-3.4",
+        "version": "3.4",
+        "date": "2019-08-29"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:41:52.9216137+00:00",
+        "views": 2766152,
+        "likes": 151681,
+        "coins": 102799,
+        "favorites": 85179,
+        "shares": 16835,
+        "danmaku": 10370,
+        "comments": 2284,
+        "historicalHighestSitewideRank": 78
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 2766152,
+          "asOf": "2026-10-11T08:41:52.9216137+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 78
+        },
+        {
+          "kind": "official-contest-award",
+          "value": "三周年影像大赏一等奖",
+          "sourceUrl": "https://www.bilibili.com/blackboard/activity-bhszmyxds.html"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1yJ411K7j3/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?aid=68962828",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:41:52.9216137+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        },
+        {
+          "url": "https://www.bilibili.com/blackboard/activity-bhszmyxds.html",
+          "kind": "official-activity-page",
+          "supports": "一等奖、当年作者名及UID"
+        }
+      ],
+      "creditNote": "官方获奖页署名邻家索尔，UID 4320540与现名猫山王豆浆一致。"
+    },
+    {
+      "id": "seele",
+      "date": "2019-10-12",
+      "datePrecision": "day",
+      "publishedAt": "2019-10-12T12:00:53+08:00",
+      "title": "《崩坏3》动画短片「希儿」",
+      "displayTitle": "希儿",
+      "category": "official-animation",
+      "bvid": "BV1cE411Z74g",
+      "aid": 70927145,
+      "url": "https://www.bilibili.com/video/BV1cE411Z74g/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 347,
+      "summary": "希儿与布洛妮娅相关动画；Dual-Ego由萨顶顶演唱。",
+      "characters": [
+        "希儿",
+        "布洛妮娅"
+      ],
+      "tags": [
+        "官方动画",
+        "Dual-Ego"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-3.4",
+        "version": "3.4",
+        "date": "2019-08-29"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:33:58.4056384+00:00",
+        "views": 9119736,
+        "likes": 373658,
+        "coins": 292393,
+        "favorites": 208200,
+        "shares": 125166,
+        "danmaku": 67092,
+        "comments": 16965,
+        "historicalHighestSitewideRank": 1
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 9119736,
+          "asOf": "2026-10-11T08:33:58.4056384+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 1
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1cE411Z74g/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1cE411Z74g",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:33:58.4056384+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ],
+      "music": {
+        "title": "Dual-Ego",
+        "performers": [
+          "萨顶顶"
+        ],
+        "context": "官方印象曲"
+      }
+    },
+    {
+      "id": "bronya-short",
+      "date": "2019-10-18",
+      "datePrecision": "day",
+      "publishedAt": "2019-10-18T12:00:06+08:00",
+      "title": "《崩坏3》动画短片「布洛妮娅」",
+      "displayTitle": "布洛妮娅",
+      "category": "official-animation",
+      "bvid": "BV1NE411y738",
+      "aid": 71549436,
+      "url": "https://www.bilibili.com/video/BV1NE411y738/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 152,
+      "summary": "官号布洛妮娅主题短片，可作为同年角色动画的补充。",
+      "characters": [
+        "布洛妮娅"
+      ],
+      "tags": [
+        "官方动画",
+        "角色短片"
+      ],
+      "priority": "standard",
+      "versionAtPublication": {
+        "id": "cn-3.5",
+        "version": "3.5",
+        "date": "2019-10-17"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:33:58.8407043+00:00",
+        "views": 3109862,
+        "likes": 146177,
+        "coins": 90463,
+        "favorites": 79849,
+        "shares": 29100,
+        "danmaku": 12806,
+        "comments": 9698,
+        "historicalHighestSitewideRank": 3
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 3109862,
+          "asOf": "2026-10-11T08:33:58.8407043+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 3
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1NE411y738/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1NE411y738",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:33:58.8407043+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    },
+    {
+      "id": "scyrax-fuhua",
+      "date": "2020-01-10",
+      "datePrecision": "day",
+      "publishedAt": "2020-01-10T12:00:28+08:00",
+      "title": "符华 · [A]ddiction【次世代卡通渲染】",
+      "displayTitle": "符华·[A]ddiction",
+      "category": "render-mmd",
+      "bvid": "BV1fJ411G7N3",
+      "aid": 82761114,
+      "url": "https://www.bilibili.com/video/BV1fJ411G7N3/",
+      "creator": {
+        "mid": 3301199,
+        "name": "scyrax",
+        "url": "https://space.bilibili.com/3301199",
+        "kind": "render-creator",
+        "identityNote": "原稿确认Scyrax账号与渲染创作；媒体报道将该系列与时任技术总监贺甲关联，任职归属采用二手报道，不标为官号稿件。",
+        "reportedIdentity": {
+          "name": "贺甲",
+          "role": "媒体报道的时任米哈游技术总监",
+          "verification": "secondary-report",
+          "sourceUrl": "https://game.xiaomi.com/viewpoint/1393220466_1678951710297_100",
+          "note": "报道通过琪亚娜极乐净土及团队渲染系列联系作者身份；不作为现任职务断言。"
+        }
+      },
+      "durationSeconds": 500,
+      "summary": "Scyrax符华渲染演示；原稿简介还预告4K及支持HDR的RTX实时运行版。",
+      "characters": [
+        "符华"
+      ],
+      "tags": [
+        "Scyrax",
+        "MMD",
+        "RTX",
+        "HDR"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-3.6",
+        "version": "3.6",
+        "date": "2019-11-28"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:31:21.3159159+00:00",
+        "views": 6038596,
+        "likes": 300482,
+        "coins": 316516,
+        "favorites": 203975,
+        "shares": 55935,
+        "danmaku": 20101,
+        "comments": 19623,
+        "historicalHighestSitewideRank": 4
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 6038596,
+          "asOf": "2026-10-11T08:31:21.3159159+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 4
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1fJ411G7N3/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?aid=82761114",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:31:21.3159159+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        },
+        {
+          "url": "https://game.xiaomi.com/viewpoint/1393220466_1678951710297_100",
+          "kind": "secondary-media-report",
+          "supports": "游戏葡萄报道、小米游戏中心转载；该渲染系列与贺甲及历史任职归属的联系"
+        }
+      ]
+    },
+    {
+      "id": "chuchusha-suoor",
+      "date": "2020-02-07",
+      "datePrecision": "day",
+      "publishedAt": "2020-02-07T14:00:58+08:00",
+      "title": "【德丽莎】处处傻",
+      "displayTitle": "处处傻（二创填词原稿）",
+      "category": "fan-creation",
+      "bvid": "BV137411a7xB",
+      "aid": 87241880,
+      "url": "https://www.bilibili.com/video/BV137411a7xB/",
+      "creator": {
+        "mid": 4320540,
+        "name": "猫山王豆浆",
+        "url": "https://space.bilibili.com/4320540",
+        "kind": "community-creator"
+      },
+      "durationSeconds": 198,
+      "summary": "以《处处吻》为原曲的德丽莎二创；简介署名填词、调音、混音、制作为邻家索尔。",
+      "characters": [
+        "德丽莎"
+      ],
+      "tags": [
+        "鬼畜",
+        "填词",
+        "处处傻"
+      ],
+      "priority": "context",
+      "versionAtPublication": {
+        "id": "cn-3.7",
+        "version": "3.7",
+        "date": "2020-01-16"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [
+        "chuchusha-hualing"
+      ],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:31:26.9456184+00:00",
+        "views": 1804788,
+        "likes": 109840,
+        "coins": 59039,
+        "favorites": 41475,
+        "shares": 8845,
+        "danmaku": 4949,
+        "comments": 2281,
+        "historicalHighestSitewideRank": null
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 1804788,
+          "asOf": "2026-10-11T08:31:26.9456184+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV137411a7xB/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?aid=87241880",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:31:26.9456184+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ],
+      "creditNote": "账号当前名为猫山王豆浆；简介保留邻家索尔署名，花玲翻唱明确指向本稿av87241880。"
+    },
+    {
+      "id": "starfall",
+      "date": "2020-02-28",
+      "datePrecision": "day",
+      "publishedAt": "2020-02-28T11:11:57+08:00",
+      "title": "《崩坏3》动画短片「天穹流星」",
+      "displayTitle": "天穹流星",
+      "category": "official-animation",
+      "bvid": "BV1U7411N7vr",
+      "aid": 92252043,
+      "url": "https://www.bilibili.com/video/BV1U7411N7vr/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 378,
+      "summary": "琪亚娜剧情动画节点，印象曲Starfall由袁娅维演唱。",
+      "characters": [
+        "琪亚娜"
+      ],
+      "tags": [
+        "官方动画",
+        "Starfall"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-3.7",
+        "version": "3.7",
+        "date": "2020-01-16"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:31:23.2097224+00:00",
+        "views": 11401222,
+        "likes": 681118,
+        "coins": 753198,
+        "favorites": 360665,
+        "shares": 186028,
+        "danmaku": 152759,
+        "comments": 44243,
+        "historicalHighestSitewideRank": 1
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 11401222,
+          "asOf": "2026-10-11T08:31:23.2097224+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 1
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1U7411N7vr/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1U7411N7vr",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:31:23.2097224+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ],
+      "music": {
+        "title": "Starfall",
+        "performers": [
+          "袁娅维"
+        ],
+        "context": "官方印象曲"
+      }
+    },
+    {
+      "id": "mei-quit-original",
+      "date": "2020-03-02",
+      "datePrecision": "day",
+      "publishedAt": "2020-03-02T22:45:41+08:00",
+      "title": "【崩坏3/洛天依】芽衣什么的不干了啦！",
+      "displayTitle": "芽衣什么的不干了啦！（洛天依二创）",
+      "category": "fan-creation",
+      "bvid": "BV1qE411j7R9",
+      "aid": 93095741,
+      "url": "https://www.bilibili.com/video/BV1qE411j7R9/",
+      "creator": {
+        "mid": 2629611,
+        "name": "慕尘Muchan",
+        "url": "https://space.bilibili.com/2629611",
+        "kind": "community-creator"
+      },
+      "durationSeconds": 92,
+      "summary": "慕尘Muchan的芽衣填词二创，随后被芽衣CV翻唱；适合保留为传播链来源。",
+      "characters": [
+        "雷电芽衣"
+      ],
+      "tags": [
+        "洛天依",
+        "填词",
+        "芽衣什么的不干啦"
+      ],
+      "priority": "context",
+      "versionAtPublication": {
+        "id": "cn-3.7",
+        "version": "3.7",
+        "date": "2020-01-16"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [
+        "mei-quit-cv"
+      ],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:40:25.5523442+00:00",
+        "views": 232705,
+        "likes": 12928,
+        "coins": 4030,
+        "favorites": 3137,
+        "shares": 1204,
+        "danmaku": 196,
+        "comments": 689,
+        "historicalHighestSitewideRank": null
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 232705,
+          "asOf": "2026-10-11T08:40:25.5523442+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1qE411j7R9/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qE411j7R9",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:40:25.5523442+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    },
+    {
+      "id": "mei-quit-cv",
+      "date": "2020-03-15",
+      "datePrecision": "day",
+      "publishedAt": "2020-03-15T01:43:16+08:00",
+      "title": "【崩坏3】声优翻唱 芽衣什么的不干啦！",
+      "displayTitle": "芽衣什么的不干啦！（声优翻唱）",
+      "category": "cv-song",
+      "bvid": "BV1TE41137zQ",
+      "aid": 96216185,
+      "url": "https://www.bilibili.com/video/BV1TE41137zQ/",
+      "creator": {
+        "mid": 920713,
+        "name": "爆裂菊是也",
+        "url": "https://space.bilibili.com/920713",
+        "kind": "voice-actor"
+      },
+      "durationSeconds": 94,
+      "summary": "芽衣CV账号发布的授权翻唱，简介列出本家av93095741。",
+      "characters": [
+        "雷电芽衣"
+      ],
+      "tags": [
+        "菊花花",
+        "声优翻唱",
+        "芽衣什么的不干啦"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-3.8",
+        "version": "3.8",
+        "date": "2020-03-05"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [
+        "mei-quit-original"
+      ],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:40:25.0706455+00:00",
+        "views": 7204161,
+        "likes": 329535,
+        "coins": 168806,
+        "favorites": 139434,
+        "shares": 43537,
+        "danmaku": 6393,
+        "comments": 10391,
+        "historicalHighestSitewideRank": 22
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 7204161,
+          "asOf": "2026-10-11T08:40:25.0706455+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 22
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1TE41137zQ/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TE41137zQ",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:40:25.0706455+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ],
+      "music": {
+        "title": "芽衣什么的不干啦！",
+        "performers": [
+          "菊花花"
+        ],
+        "context": "二创填词的声优翻唱"
+      },
+      "creditNote": "当前账号名为爆裂菊是也（UID 920713）；官方动画配音表采用菊花花署名。"
+    },
+    {
+      "id": "chuchusha-hualing",
+      "date": "2020-03-28",
+      "datePrecision": "day",
+      "publishedAt": "2020-03-28T10:00:37+08:00",
+      "title": "【花玲】处处傻",
+      "displayTitle": "处处傻（花玲翻唱）",
+      "category": "cv-song",
+      "bvid": "BV1bE411c7kQ",
+      "aid": 98564975,
+      "url": "https://www.bilibili.com/video/BV1bE411c7kQ/",
+      "creator": {
+        "mid": 7966,
+        "name": "花园花玲",
+        "url": "https://space.bilibili.com/7966",
+        "kind": "voice-actor"
+      },
+      "durationSeconds": 198,
+      "summary": "德丽莎CV花玲在角色生日发布；简介明确感谢邻家索尔授权并链接二创原稿。",
+      "characters": [
+        "德丽莎"
+      ],
+      "tags": [
+        "花玲",
+        "声优翻唱",
+        "角色生日",
+        "处处傻"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-3.8",
+        "version": "3.8",
+        "date": "2020-03-05"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [
+        "chuchusha-suoor"
+      ],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:31:26.4794057+00:00",
+        "views": 15493597,
+        "likes": 724602,
+        "coins": 473143,
+        "favorites": 353420,
+        "shares": 92726,
+        "danmaku": 44845,
+        "comments": 19125,
+        "historicalHighestSitewideRank": 12
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 15493597,
+          "asOf": "2026-10-11T08:31:26.4794057+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 12
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1bE411c7kQ/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bE411c7kQ",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:31:26.4794057+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ],
+      "music": {
+        "title": "处处傻",
+        "performers": [
+          "花园花玲"
+        ],
+        "context": "二创填词的声优翻唱；原曲为《处处吻》"
+      }
+    },
+    {
+      "id": "lament",
+      "date": "2020-07-03",
+      "datePrecision": "day",
+      "publishedAt": "2020-07-03T12:00:30+08:00",
+      "title": "《崩坏3》动画短片「罪人挽歌」",
+      "displayTitle": "罪人挽歌",
+      "category": "official-animation",
+      "bvid": "BV1UT4y1J7xN",
+      "aid": 926143432,
+      "url": "https://www.bilibili.com/video/BV1UT4y1J7xN/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 371,
+      "summary": "芽衣与琪亚娜的剧情转折；配乐为小林未郁演唱的《崩坏世界的歌姬 (Movie Ver.)》。",
+      "characters": [
+        "雷电芽衣",
+        "琪亚娜"
+      ],
+      "tags": [
+        "官方动画",
+        "雷之律者",
+        "崩坏世界的歌姬"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-4.0",
+        "version": "4.0",
+        "date": "2020-05-28"
+      },
+      "relatedVersions": [
+        {
+          "id": "cn-4.1",
+          "version": "4.1",
+          "date": "2020-07-09",
+          "relation": "editorial-content-link",
+          "reason": "人物线关联雷之律者装甲上线；动画早于版本更新。"
+        }
+      ],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:31:23.6752193+00:00",
+        "views": 14919855,
+        "likes": 624468,
+        "coins": 555375,
+        "favorites": 326074,
+        "shares": 233658,
+        "danmaku": 105651,
+        "comments": 49619,
+        "historicalHighestSitewideRank": 1
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 14919855,
+          "asOf": "2026-10-11T08:31:23.6752193+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 1
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1UT4y1J7xN/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1UT4y1J7xN",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:31:23.6752193+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ],
+      "music": {
+        "title": "崩坏世界的歌姬 (Movie Ver.)",
+        "performers": [
+          "小林未郁"
+        ],
+        "context": "官方印象曲"
+      }
+    },
+    {
+      "id": "return",
+      "date": "2020-09-25",
+      "datePrecision": "day",
+      "publishedAt": "2020-09-25T12:00:35+08:00",
+      "title": "《崩坏3》新篇章预告动画「归来」",
+      "displayTitle": "归来",
+      "category": "official-animation",
+      "bvid": "BV1sy4y1k7cV",
+      "aid": 797183428,
+      "url": "https://www.bilibili.com/video/BV1sy4y1k7cV/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 136,
+      "summary": "新篇章预告动画，可连接四周年附近的主线宣传。",
+      "characters": [],
+      "tags": [
+        "官方动画",
+        "篇章预告",
+        "四周年"
+      ],
+      "priority": "standard",
+      "versionAtPublication": {
+        "id": "cn-4.2",
+        "version": "4.2",
+        "date": "2020-08-20"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:33:59.2886635+00:00",
+        "views": 7732823,
+        "likes": 272255,
+        "coins": 163183,
+        "favorites": 100185,
+        "shares": 96597,
+        "danmaku": 14311,
+        "comments": 31209,
+        "historicalHighestSitewideRank": 2
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 7732823,
+          "asOf": "2026-10-11T08:33:59.2886635+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 2
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1sy4y1k7cV/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sy4y1k7cV",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:33:59.2886635+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    },
+    {
+      "id": "rubia",
+      "date": "2021-01-29",
+      "datePrecision": "day",
+      "publishedAt": "2021-01-29T12:00:00+08:00",
+      "title": "《崩坏3》动画短片「渡尘」",
+      "displayTitle": "渡尘",
+      "category": "official-animation",
+      "bvid": "BV1jN411o7zS",
+      "aid": 501440303,
+      "url": "https://www.bilibili.com/video/BV1jN411o7zS/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 371,
+      "summary": "符华主题动画与周深演唱的Rubia，可合并为剧情与音乐传播节点。",
+      "characters": [
+        "符华"
+      ],
+      "tags": [
+        "官方动画",
+        "Rubia",
+        "周深"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-4.5",
+        "version": "4.5",
+        "date": "2020-12-24"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:31:24.1408130+00:00",
+        "views": 13856014,
+        "likes": 676600,
+        "coins": 711398,
+        "favorites": 344195,
+        "shares": 234257,
+        "danmaku": 105339,
+        "comments": 60805,
+        "historicalHighestSitewideRank": 1
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 13856014,
+          "asOf": "2026-10-11T08:31:24.1408130+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 1
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1jN411o7zS/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jN411o7zS",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:31:24.1408130+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ],
+      "music": {
+        "title": "Rubia",
+        "performers": [
+          "周深"
+        ],
+        "context": "官方印象曲"
+      }
+    },
+    {
+      "id": "pv-4.6",
+      "date": "2021-01-30",
+      "datePrecision": "day",
+      "publishedAt": "2021-01-30T20:00:13+08:00",
+      "title": "《崩坏3》4.6版本「唯我独尊」宣传PV",
+      "displayTitle": "4.6 唯我独尊 PV",
+      "category": "official-pv",
+      "bvid": "BV14N411o7Ut",
+      "aid": 501470602,
+      "url": "https://www.bilibili.com/video/BV14N411o7Ut/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 98,
+      "summary": "识之律者版本PV，官号累计播放达到千万级，可作为高热度版本宣传代表。",
+      "characters": [
+        "识之律者"
+      ],
+      "tags": [
+        "版本PV",
+        "识之律者"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-4.5",
+        "version": "4.5",
+        "date": "2020-12-24"
+      },
+      "relatedVersions": [
+        {
+          "id": "cn-4.6",
+          "version": "4.6",
+          "date": "2021-02-04",
+          "relation": "editorial-content-link",
+          "reason": "视频标题明确对应4.6；PV早于版本更新。"
+        }
+      ],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:40:26.4226601+00:00",
+        "views": 13738740,
+        "likes": 391924,
+        "coins": 157522,
+        "favorites": 162017,
+        "shares": 130306,
+        "danmaku": 22583,
+        "comments": 16579,
+        "historicalHighestSitewideRank": 39
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 13738740,
+          "asOf": "2026-10-11T08:40:26.4226601+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 39
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV14N411o7Ut/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV14N411o7Ut",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:40:26.4226601+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    },
+    {
+      "id": "moon-halo",
+      "date": "2021-07-09",
+      "datePrecision": "day",
+      "publishedAt": "2021-07-09T12:00:13+08:00",
+      "title": "《崩坏3》动画短片「薪炎永燃」",
+      "displayTitle": "薪炎永燃",
+      "category": "official-animation",
+      "bvid": "BV1b44y1q7Cb",
+      "aid": 974017259,
+      "url": "https://www.bilibili.com/video/BV1b44y1q7Cb/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 476,
+      "summary": "琪亚娜薪炎之律者主题动画，Moon Halo由茶理理、TetraCalyx、Hanser演唱。",
+      "characters": [
+        "琪亚娜"
+      ],
+      "tags": [
+        "官方动画",
+        "薪炎之律者",
+        "Moon Halo"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-4.9",
+        "version": "4.9",
+        "date": "2021-06-10"
+      },
+      "relatedVersions": [
+        {
+          "id": "cn-5.0",
+          "version": "5.0",
+          "date": "2021-07-15",
+          "relation": "editorial-content-link",
+          "reason": "人物线关联薪炎之律者装甲上线；动画提前发布。"
+        }
+      ],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:31:24.5913516+00:00",
+        "views": 26119635,
+        "likes": 1094073,
+        "coins": 1185474,
+        "favorites": 601758,
+        "shares": 445666,
+        "danmaku": 299686,
+        "comments": 138782,
+        "historicalHighestSitewideRank": 1
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 26119635,
+          "asOf": "2026-10-11T08:31:24.5913516+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 1
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1b44y1q7Cb/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1b44y1q7Cb",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:31:24.5913516+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ],
+      "music": {
+        "title": "Moon Halo",
+        "performers": [
+          "茶理理",
+          "TetraCalyx",
+          "Hanser"
+        ],
+        "context": "官方印象曲"
+      }
+    },
+    {
+      "id": "elf-fantasy-song",
+      "date": "2021-07-15",
+      "datePrecision": "day",
+      "publishedAt": "2021-07-15T12:00:01+08:00",
+      "title": "「Elf Fantasy」——《崩坏3》人偶学园片尾曲",
+      "displayTitle": "Elf Fantasy",
+      "category": "official-song",
+      "bvid": "BV1ev411n7Ks",
+      "aid": 249241475,
+      "url": "https://www.bilibili.com/video/BV1ev411n7Ks/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 40,
+      "summary": "官号发布的《人偶学园》片尾曲，可归入游戏衍生动画音乐。",
+      "characters": [],
+      "tags": [
+        "官方歌曲",
+        "人偶学园",
+        "衍生动画"
+      ],
+      "priority": "standard",
+      "versionAtPublication": {
+        "id": "cn-5.0",
+        "version": "5.0",
+        "date": "2021-07-15"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:41:51.9848043+00:00",
+        "views": 1688705,
+        "likes": 135678,
+        "coins": 15904,
+        "favorites": 20623,
+        "shares": 2966,
+        "danmaku": 788,
+        "comments": 1740,
+        "historicalHighestSitewideRank": null
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 1688705,
+          "asOf": "2026-10-11T08:41:51.9848043+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1ev411n7Ks/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ev411n7Ks",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:41:51.9848043+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ],
+      "music": {
+        "title": "Elf Fantasy",
+        "performers": [],
+        "context": "人偶学园片尾曲；本次未单独核验演唱署名"
+      }
+    },
+    {
+      "id": "elysia-song",
+      "date": "2021-09-16",
+      "datePrecision": "day",
+      "publishedAt": "2021-09-16T18:00:16+08:00",
+      "title": "【宴宁】Elysia【声优原创曲】",
+      "displayTitle": "Elysia（宴宁）",
+      "category": "cv-song",
+      "bvid": "BV1dq4y1N7ry",
+      "aid": 547989472,
+      "url": "https://www.bilibili.com/video/BV1dq4y1N7ry/",
+      "creator": {
+        "mid": 14897804,
+        "name": "宴宁ccccc",
+        "url": "https://space.bilibili.com/14897804",
+        "kind": "voice-actor"
+      },
+      "durationSeconds": 220,
+      "summary": "爱莉希雅CV宴宁发布的角色主题声优原创曲。",
+      "characters": [
+        "爱莉希雅"
+      ],
+      "tags": [
+        "宴宁",
+        "声优原创曲",
+        "爱莉希雅"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-5.1",
+        "version": "5.1",
+        "date": "2021-08-19"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:34:02.3914487+00:00",
+        "views": 7637892,
+        "likes": 353813,
+        "coins": 235822,
+        "favorites": 212867,
+        "shares": 31469,
+        "danmaku": 13059,
+        "comments": 13949,
+        "historicalHighestSitewideRank": 50
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 7637892,
+          "asOf": "2026-10-11T08:34:02.3914487+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 50
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1dq4y1N7ry/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dq4y1N7ry",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:34:02.3914487+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ],
+      "music": {
+        "title": "Elysia",
+        "performers": [
+          "宴宁"
+        ],
+        "context": "声优原创曲"
+      }
+    },
+    {
+      "id": "pre-revelation",
+      "date": "2021-09-17",
+      "datePrecision": "day",
+      "publishedAt": "2021-09-17T12:00:04+08:00",
+      "title": "《崩坏3》新篇章预告动画「前启示录」",
+      "displayTitle": "前启示录",
+      "category": "official-animation",
+      "bvid": "BV1Mq4y1K79g",
+      "aid": 548063065,
+      "url": "https://www.bilibili.com/video/BV1Mq4y1K79g/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 129,
+      "summary": "新篇章预告动画，适合作为主线推进的补充条目。",
+      "characters": [],
+      "tags": [
+        "官方动画",
+        "篇章预告"
+      ],
+      "priority": "standard",
+      "versionAtPublication": {
+        "id": "cn-5.1",
+        "version": "5.1",
+        "date": "2021-08-19"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:33:59.7678625+00:00",
+        "views": 2667181,
+        "likes": 153073,
+        "coins": 70560,
+        "favorites": 37588,
+        "shares": 33879,
+        "danmaku": 5600,
+        "comments": 18320,
+        "historicalHighestSitewideRank": 8
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 2667181,
+          "asOf": "2026-10-11T08:33:59.7678625+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 8
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1Mq4y1K79g/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Mq4y1K79g",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:33:59.7678625+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    },
+    {
+      "id": "reburn-ii",
+      "date": "2021-10-06",
+      "datePrecision": "day",
+      "publishedAt": "2021-10-06T19:51:59+08:00",
+      "title": "《崩坏3 Reburn: II》概念动画短片",
+      "displayTitle": "Reburn: II",
+      "category": "official-animation",
+      "bvid": "BV1yR4y1n7KL",
+      "aid": 335885724,
+      "url": "https://www.bilibili.com/video/BV1yR4y1n7KL/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 193,
+      "summary": "描绘崩坏从地球消失之后的世界与向天空出发的旅途；保留概念动画的定位。",
+      "characters": [
+        "瓦尔特",
+        "卡萝尔"
+      ],
+      "tags": [
+        "官方动画",
+        "概念动画",
+        "后崩坏书"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-5.2",
+        "version": "5.2",
+        "date": "2021-09-23"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:41:52.4851685+00:00",
+        "views": 2822691,
+        "likes": 170846,
+        "coins": 51868,
+        "favorites": 48423,
+        "shares": 45227,
+        "danmaku": 6520,
+        "comments": 11108,
+        "historicalHighestSitewideRank": 24
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 2822691,
+          "asOf": "2026-10-11T08:41:52.4851685+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 24
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1yR4y1n7KL/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yR4y1n7KL",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:41:52.4851685+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    },
+    {
+      "id": "blue-sky-promise",
+      "date": "2021-11-05",
+      "datePrecision": "day",
+      "publishedAt": "2021-11-05T12:00:19+08:00",
+      "title": "【崩坏3】青空的约定（声优原创曲）",
+      "displayTitle": "青空的约定",
+      "category": "cv-song",
+      "bvid": "BV1yQ4y1q74w",
+      "aid": 721376713,
+      "url": "https://www.bilibili.com/video/BV1yQ4y1q74w/",
+      "creator": {
+        "mid": 249118,
+        "name": "shourei小N",
+        "url": "https://space.bilibili.com/249118",
+        "kind": "voice-actor"
+      },
+      "durationSeconds": 221,
+      "summary": "小N、Mace、多多poi、宴宁、喵酱、花玲合唱；哈米伦策划的声优原创曲。",
+      "characters": [
+        "丽塔",
+        "符华",
+        "萝莎莉娅",
+        "莉莉娅",
+        "幽兰黛尔",
+        "德丽莎"
+      ],
+      "tags": [
+        "声优合唱",
+        "角色歌",
+        "哈米伦"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-5.3",
+        "version": "5.3",
+        "date": "2021-11-04"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:40:29.8820774+00:00",
+        "views": 1770613,
+        "likes": 151422,
+        "coins": 112106,
+        "favorites": 82207,
+        "shares": 8492,
+        "danmaku": 987,
+        "comments": 3166,
+        "historicalHighestSitewideRank": 28
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 1770613,
+          "asOf": "2026-10-11T08:40:29.8820774+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 28
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1yQ4y1q74w/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yQ4y1q74w",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:40:29.8820774+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ],
+      "music": {
+        "title": "青空的约定",
+        "performers": [
+          "小N",
+          "Mace",
+          "多多poi",
+          "宴宁",
+          "喵酱",
+          "花玲"
+        ],
+        "context": "声优原创曲／多人合唱"
+      }
+    },
+    {
+      "id": "concert-2021",
+      "date": "2021-11-05",
+      "datePrecision": "day",
+      "publishedAt": "2021-11-05T20:00:01+08:00",
+      "title": "崩坏3「星火流音」纪念演出正片",
+      "displayTitle": "星火流音纪念演出",
+      "category": "official-program",
+      "bvid": "BV18r4y1C7xo",
+      "aid": 763967422,
+      "url": "https://www.bilibili.com/video/BV18r4y1C7xo/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 3871,
+      "summary": "五周年纪念演出正片；本稿上传于11月5日，演出日期另记为10月5日。",
+      "characters": [],
+      "tags": [
+        "音乐会",
+        "五周年",
+        "HOYO-MiX"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-5.3",
+        "version": "5.3",
+        "date": "2021-11-04"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:34:07.7050456+00:00",
+        "views": 7150741,
+        "likes": 315643,
+        "coins": 275260,
+        "favorites": 141615,
+        "shares": 26681,
+        "danmaku": 85849,
+        "comments": 13194,
+        "historicalHighestSitewideRank": 50
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 7150741,
+          "asOf": "2026-10-11T08:34:07.7050456+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 50
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV18r4y1C7xo/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV18r4y1C7xo",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:34:07.7050456+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        },
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000108.000048345.html",
+          "kind": "publisher-press-release",
+          "supports": "miHoYo发布的2021-10-05全球同播演出日期"
+        }
+      ],
+      "eventDate": "2021-10-05"
+    },
+    {
+      "id": "regression",
+      "date": "2022-01-21",
+      "datePrecision": "day",
+      "publishedAt": "2022-01-21T12:00:14+08:00",
+      "title": "《崩坏3》动画短片「阿波卡利斯如是说」",
+      "displayTitle": "阿波卡利斯如是说",
+      "category": "official-animation",
+      "bvid": "BV1bY411b7k9",
+      "aid": 253352981,
+      "url": "https://www.bilibili.com/video/BV1bY411b7k9/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 531,
+      "summary": "奥托与卡莲主题动画；Regression由阿云嘎演唱。",
+      "characters": [
+        "奥托",
+        "卡莲"
+      ],
+      "tags": [
+        "官方动画",
+        "奥托",
+        "Regression"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-5.4",
+        "version": "5.4",
+        "date": "2021-12-16"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:31:25.0704672+00:00",
+        "views": 20119412,
+        "likes": 913016,
+        "coins": 959731,
+        "favorites": 460030,
+        "shares": 393003,
+        "danmaku": 232738,
+        "comments": 107142,
+        "historicalHighestSitewideRank": 1
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 20119412,
+          "asOf": "2026-10-11T08:31:25.0704672+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 1
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1bY411b7k9/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bY411b7k9",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:31:25.0704672+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ],
+      "music": {
+        "title": "Regression",
+        "performers": [
+          "阿云嘎"
+        ],
+        "context": "官方印象曲"
+      }
+    },
+    {
+      "id": "newyear-2022",
+      "date": "2022-01-27",
+      "datePrecision": "day",
+      "publishedAt": "2022-01-27T20:30:18+08:00",
+      "title": "2022崩坏3新春会 ·「\"年\"接一切」",
+      "displayTitle": "2022崩坏3新春会：“年”接一切",
+      "category": "community-program",
+      "bvid": "BV1cF411W75Q",
+      "aid": 295956417,
+      "url": "https://www.bilibili.com/video/BV1cF411W75Q/",
+      "creator": {
+        "mid": 8469526,
+        "name": "果蝇轰",
+        "url": "https://space.bilibili.com/8469526",
+        "kind": "community-creator"
+      },
+      "durationSeconds": 8124,
+      "summary": "果蝇轰发布的多UP／配音演员共同参与的新春会；《德德德》是其中节目。",
+      "characters": [],
+      "tags": [
+        "新春会",
+        "社区晚会",
+        "果蝇轰"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-5.5",
+        "version": "5.5",
+        "date": "2022-01-27"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [
+        "ddd"
+      ],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:34:06.8340200+00:00",
+        "views": 2301435,
+        "likes": 202816,
+        "coins": 157856,
+        "favorites": 104722,
+        "shares": 9969,
+        "danmaku": 57063,
+        "comments": 5012,
+        "historicalHighestSitewideRank": 18
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 2301435,
+          "asOf": "2026-10-11T08:34:06.8340200+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 18
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1cF411W75Q/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1cF411W75Q",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:34:06.8340200+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    },
+    {
+      "id": "ddd",
+      "date": "2022-01-27",
+      "datePrecision": "day",
+      "publishedAt": "2022-01-27T20:45:09+08:00",
+      "title": "【崩坏3新春会】《德⭐德⭐德》德丽莎同人原创曲",
+      "displayTitle": "德⭐德⭐德",
+      "category": "cv-song",
+      "bvid": "BV1XR4y1K7SF",
+      "aid": 338456951,
+      "url": "https://www.bilibili.com/video/BV1XR4y1K7SF/",
+      "creator": {
+        "mid": 7966,
+        "name": "花园花玲",
+        "url": "https://space.bilibili.com/7966",
+        "kind": "voice-actor"
+      },
+      "durationSeconds": 144,
+      "summary": "2022新春会德丽莎同人原创曲，由果蝇轰策划／作词、梦鼠制作、花玲演唱。",
+      "characters": [
+        "德丽莎"
+      ],
+      "tags": [
+        "花玲",
+        "声优原创曲",
+        "新春会"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-5.5",
+        "version": "5.5",
+        "date": "2022-01-27"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [
+        "newyear-2022"
+      ],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:34:01.9568139+00:00",
+        "views": 2139470,
+        "likes": 133558,
+        "coins": 79381,
+        "favorites": 75306,
+        "shares": 9787,
+        "danmaku": 10338,
+        "comments": 3707,
+        "historicalHighestSitewideRank": null
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 2139470,
+          "asOf": "2026-10-11T08:34:01.9568139+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1XR4y1K7SF/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XR4y1K7SF",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:34:01.9568139+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ],
+      "music": {
+        "title": "德德德",
+        "performers": [
+          "花园花玲"
+        ],
+        "context": "同人原创曲／角色CV演唱"
+      }
+    },
+    {
+      "id": "winter-memory",
+      "date": "2022-02-15",
+      "datePrecision": "day",
+      "publishedAt": "2022-02-15T18:00:14+08:00",
+      "title": "《崩坏3》概念动画短片「冬之记忆」",
+      "displayTitle": "冬之记忆",
+      "category": "official-animation",
+      "bvid": "BV1QP4y1c7K5",
+      "aid": 893937889,
+      "url": "https://www.bilibili.com/video/BV1QP4y1c7K5/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 95,
+      "summary": "官号概念动画短片，可作为主线动画之外的短片补充。",
+      "characters": [],
+      "tags": [
+        "官方动画",
+        "概念动画"
+      ],
+      "priority": "standard",
+      "versionAtPublication": {
+        "id": "cn-5.5",
+        "version": "5.5",
+        "date": "2022-01-27"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:34:00.2013174+00:00",
+        "views": 4396450,
+        "likes": 407786,
+        "coins": 361537,
+        "favorites": 192200,
+        "shares": 88602,
+        "danmaku": 12769,
+        "comments": 21956,
+        "historicalHighestSitewideRank": 1
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 4396450,
+          "asOf": "2026-10-11T08:34:00.2013174+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 1
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1QP4y1c7K5/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QP4y1c7K5",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:34:00.2013174+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    },
+    {
+      "id": "true",
+      "date": "2022-08-12",
+      "datePrecision": "day",
+      "publishedAt": "2022-08-12T12:00:00+08:00",
+      "title": "《崩坏3》动画短片「因你而在的故事」",
+      "displayTitle": "因你而在的故事",
+      "category": "official-animation",
+      "bvid": "BV1fY4y1F7GL",
+      "aid": 644364784,
+      "url": "https://www.bilibili.com/video/BV1fY4y1F7GL/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 506,
+      "summary": "爱莉希雅与逐火英桀主题动画，印象曲TruE由黄龄演唱。",
+      "characters": [
+        "爱莉希雅",
+        "逐火英桀"
+      ],
+      "tags": [
+        "官方动画",
+        "往世乐土",
+        "TruE"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-5.9",
+        "version": "5.9",
+        "date": "2022-07-14"
+      },
+      "relatedVersions": [
+        {
+          "id": "cn-6.0",
+          "version": "6.0",
+          "date": "2022-08-18",
+          "relation": "editorial-content-link",
+          "reason": "人物线关联真我·人之律者装甲上线；动画提前发布。"
+        }
+      ],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:31:25.5333190+00:00",
+        "views": 25034969,
+        "likes": 1228800,
+        "coins": 1487496,
+        "favorites": 701345,
+        "shares": 516883,
+        "danmaku": 534216,
+        "comments": 434410,
+        "historicalHighestSitewideRank": 1
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 25034969,
+          "asOf": "2026-10-11T08:31:25.5333190+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 1
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1fY4y1F7GL/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fY4y1F7GL",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:31:25.5333190+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ],
+      "music": {
+        "title": "TruE",
+        "performers": [
+          "黄龄"
+        ],
+        "context": "官方印象曲"
+      }
+    },
+    {
+      "id": "pv-6.0",
+      "date": "2022-08-13",
+      "datePrecision": "day",
+      "publishedAt": "2022-08-13T20:00:00+08:00",
+      "title": "《崩坏3》6.0版本「光辉矢愿」宣传PV",
+      "displayTitle": "6.0 光辉矢愿 PV",
+      "category": "official-pv",
+      "bvid": "BV1Mg411k7U5",
+      "aid": 514331399,
+      "url": "https://www.bilibili.com/video/BV1Mg411k7U5/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 144,
+      "summary": "真我·人之律者版本宣传，与爱莉希雅主题动画／声优歌曲可形成同阶段专题。",
+      "characters": [
+        "爱莉希雅"
+      ],
+      "tags": [
+        "版本PV",
+        "真我·人之律者"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-5.9",
+        "version": "5.9",
+        "date": "2022-07-14"
+      },
+      "relatedVersions": [
+        {
+          "id": "cn-6.0",
+          "version": "6.0",
+          "date": "2022-08-18",
+          "relation": "editorial-content-link",
+          "reason": "视频标题明确对应6.0；PV早于版本更新。"
+        }
+      ],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:40:26.8544527+00:00",
+        "views": 3097542,
+        "likes": 143820,
+        "coins": 71169,
+        "favorites": 42886,
+        "shares": 23062,
+        "danmaku": 12908,
+        "comments": 5420,
+        "historicalHighestSitewideRank": null
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 3097542,
+          "asOf": "2026-10-11T08:40:26.8544527+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1Mg411k7U5/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Mg411k7U5",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:40:26.8544527+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    },
+    {
+      "id": "beloved-song",
+      "date": "2022-08-16",
+      "datePrecision": "day",
+      "publishedAt": "2022-08-16T18:30:00+08:00",
+      "title": "「爱莉希雅」致 爱-A song for beloved【声优原创曲】",
+      "displayTitle": "致 爱 — A song for beloved",
+      "category": "cv-song",
+      "bvid": "BV1bB4y1L7qh",
+      "aid": 602098661,
+      "url": "https://www.bilibili.com/video/BV1bB4y1L7qh/",
+      "creator": {
+        "mid": 14897804,
+        "name": "宴宁ccccc",
+        "url": "https://space.bilibili.com/14897804",
+        "kind": "voice-actor"
+      },
+      "durationSeconds": 270,
+      "summary": "宴宁演唱、送给爱莉希雅的声优原创曲；与《因你而在的故事》同阶段发布。",
+      "characters": [
+        "爱莉希雅"
+      ],
+      "tags": [
+        "宴宁",
+        "声优原创曲",
+        "爱莉希雅"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-5.9",
+        "version": "5.9",
+        "date": "2022-07-14"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [
+        "true"
+      ],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:34:02.8423307+00:00",
+        "views": 5004209,
+        "likes": 366856,
+        "coins": 341138,
+        "favorites": 243674,
+        "shares": 59835,
+        "danmaku": 35415,
+        "comments": 12272,
+        "historicalHighestSitewideRank": 5
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 5004209,
+          "asOf": "2026-10-11T08:34:02.8423307+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 5
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1bB4y1L7qh/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bB4y1L7qh",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:34:02.8423307+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ],
+      "music": {
+        "title": "致 爱 — A song for beloved",
+        "performers": [
+          "宴宁"
+        ],
+        "context": "声优原创曲"
+      }
+    },
+    {
+      "id": "concert-2022",
+      "date": "2022-08-27",
+      "datePrecision": "day",
+      "publishedAt": "2022-08-27T21:20:01+08:00",
+      "title": "崩坏3「纯真梦歌」线上音乐会",
+      "displayTitle": "纯真梦歌线上音乐会",
+      "category": "official-program",
+      "bvid": "BV1ad4y1d7Kk",
+      "aid": 387354314,
+      "url": "https://www.bilibili.com/video/BV1ad4y1d7Kk/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 3858,
+      "summary": "官号音乐会正片，简介列出黄龄、黄霄雲、Hanser、小林未郁、MARiA等出演嘉宾。",
+      "characters": [],
+      "tags": [
+        "音乐会",
+        "HOYO-MiX",
+        "声优演唱"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-6.0",
+        "version": "6.0",
+        "date": "2022-08-18"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:40:27.7193305+00:00",
+        "views": 7839654,
+        "likes": 427787,
+        "coins": 446903,
+        "favorites": 198909,
+        "shares": 6124,
+        "danmaku": 156908,
+        "comments": 17885,
+        "historicalHighestSitewideRank": 3
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 7839654,
+          "asOf": "2026-10-11T08:40:27.7193305+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 3
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1ad4y1d7Kk/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ad4y1d7Kk",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:40:27.7193305+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    },
+    {
+      "id": "hamelin-origin",
+      "date": "2022-09-10",
+      "datePrecision": "day",
+      "publishedAt": "2022-09-10T11:00:00+08:00",
+      "title": "【崩坏3】爱莉希雅「The Herrscher of Origin」",
+      "displayTitle": "The Herrscher of Origin",
+      "category": "fan-creation",
+      "bvid": "BV1nV4y1g7ti",
+      "aid": 857944842,
+      "url": "https://www.bilibili.com/video/BV1nV4y1g7ti/",
+      "creator": {
+        "mid": 11742550,
+        "name": "哈米伦的弄笛者",
+        "url": "https://space.bilibili.com/11742550",
+        "kind": "community-creator"
+      },
+      "durationSeconds": 247,
+      "summary": "哈米伦团队制作的爱莉希雅／逐火英桀手书，以往世乐土的羁绊与告别为主题。",
+      "characters": [
+        "爱莉希雅",
+        "逐火英桀",
+        "雷电芽衣"
+      ],
+      "tags": [
+        "手书",
+        "哈米伦",
+        "往世乐土"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-6.0",
+        "version": "6.0",
+        "date": "2022-08-18"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:34:06.3828088+00:00",
+        "views": 3508869,
+        "likes": 274423,
+        "coins": 219608,
+        "favorites": 176953,
+        "shares": 28386,
+        "danmaku": 13580,
+        "comments": 2721,
+        "historicalHighestSitewideRank": 34
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 3508869,
+          "asOf": "2026-10-11T08:34:06.3828088+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 34
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1nV4y1g7ti/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nV4y1g7ti",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:34:06.3828088+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    },
+    {
+      "id": "reunion",
+      "date": "2022-12-15",
+      "datePrecision": "day",
+      "publishedAt": "2022-12-15T12:00:00+08:00",
+      "title": "《崩坏3》过场动画——「重逢」",
+      "displayTitle": "重逢",
+      "category": "official-animation",
+      "bvid": "BV1u8411p7UQ",
+      "aid": 221313159,
+      "url": "https://www.bilibili.com/video/BV1u8411p7UQ/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 178,
+      "summary": "官号过场动画，连接终章阶段的角色剧情。",
+      "characters": [],
+      "tags": [
+        "官方动画",
+        "过场动画",
+        "终章"
+      ],
+      "priority": "standard",
+      "versionAtPublication": {
+        "id": "cn-6.3",
+        "version": "6.3",
+        "date": "2022-12-15"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:34:00.6351093+00:00",
+        "views": 1547947,
+        "likes": 113266,
+        "coins": 41913,
+        "favorites": 28784,
+        "shares": 15919,
+        "danmaku": 2170,
+        "comments": 5779,
+        "historicalHighestSitewideRank": 28
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 1547947,
+          "asOf": "2026-10-11T08:34:00.6351093+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 28
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1u8411p7UQ/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1u8411p7UQ",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:34:00.6351093+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    },
+    {
+      "id": "crossing",
+      "date": "2023-02-16",
+      "datePrecision": "day",
+      "publishedAt": "2023-02-16T18:00:00+08:00",
+      "title": "《崩坏3》过场动画——「跨越」",
+      "displayTitle": "跨越",
+      "category": "official-animation",
+      "bvid": "BV1784y1p7vM",
+      "aid": 609331227,
+      "url": "https://www.bilibili.com/video/BV1784y1p7vM/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 171,
+      "summary": "终章阶段的官号过场动画，可与《毕业旅行》相邻展示。",
+      "characters": [],
+      "tags": [
+        "官方动画",
+        "过场动画",
+        "终章"
+      ],
+      "priority": "standard",
+      "versionAtPublication": {
+        "id": "cn-6.4",
+        "version": "6.4",
+        "date": "2023-01-19"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:34:01.0831948+00:00",
+        "views": 3508618,
+        "likes": 204318,
+        "coins": 134724,
+        "favorites": 82232,
+        "shares": 31181,
+        "danmaku": 9222,
+        "comments": 11135,
+        "historicalHighestSitewideRank": 6
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 3508618,
+          "asOf": "2026-10-11T08:34:01.0831948+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 6
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1784y1p7vM/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1784y1p7vM",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:34:01.0831948+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    },
+    {
+      "id": "da-capo",
+      "date": "2023-03-03",
+      "datePrecision": "day",
+      "publishedAt": "2023-03-03T12:00:00+08:00",
+      "title": "《崩坏3》动画短片「毕业旅行」",
+      "displayTitle": "毕业旅行",
+      "category": "official-animation",
+      "bvid": "BV1Kj411g7Lu",
+      "aid": 437800204,
+      "url": "https://www.bilibili.com/video/BV1Kj411g7Lu/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 438,
+      "summary": "第一部终章的重要动画节点，印象曲Da Capo由HOYO-MiX制作。",
+      "characters": [
+        "琪亚娜",
+        "雷电芽衣"
+      ],
+      "tags": [
+        "官方动画",
+        "终章",
+        "Da Capo"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-6.4",
+        "version": "6.4",
+        "date": "2023-01-19"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:31:26.0004647+00:00",
+        "views": 13097018,
+        "likes": 930452,
+        "coins": 1122636,
+        "favorites": 553591,
+        "shares": 309825,
+        "danmaku": 187985,
+        "comments": 78912,
+        "historicalHighestSitewideRank": 1
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 13097018,
+          "asOf": "2026-10-11T08:31:26.0004647+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 1
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1Kj411g7Lu/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Kj411g7Lu",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:31:26.0004647+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ],
+      "music": {
+        "title": "Da Capo",
+        "performers": [],
+        "context": "官方印象曲；本次未单独核验演唱署名"
+      }
+    },
+    {
+      "id": "documentary",
+      "date": "2023-03-05",
+      "datePrecision": "day",
+      "publishedAt": "2023-03-05T12:00:00+08:00",
+      "title": "《崩坏3》游戏纪录片——「最后留下了故事」",
+      "displayTitle": "最后留下了故事",
+      "category": "official-program",
+      "bvid": "BV1554y1u7J8",
+      "aid": 865382096,
+      "url": "https://www.bilibili.com/video/BV1554y1u7J8/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 2661,
+      "summary": "第一部终章阶段的游戏纪录片，可与《毕业旅行》组成剧情／创作回顾节点。",
+      "characters": [],
+      "tags": [
+        "纪录片",
+        "制作组",
+        "终章"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-6.4",
+        "version": "6.4",
+        "date": "2023-01-19"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [
+        "da-capo"
+      ],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:40:27.2871515+00:00",
+        "views": 3503901,
+        "likes": 351481,
+        "coins": 342125,
+        "favorites": 178620,
+        "shares": 48360,
+        "danmaku": 63088,
+        "comments": 15128,
+        "historicalHighestSitewideRank": 1
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 3503901,
+          "asOf": "2026-10-11T08:40:27.2871515+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 1
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1554y1u7J8/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1554y1u7J8",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:40:27.2871515+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    },
+    {
+      "id": "concert-2023",
+      "date": "2023-07-29",
+      "datePrecision": "day",
+      "publishedAt": "2023-07-29T21:10:00+08:00",
+      "title": "《崩坏3》「林海绮律」线上音乐会",
+      "displayTitle": "林海绮律线上音乐会",
+      "category": "official-program",
+      "bvid": "BV1w94y1i7f1",
+      "aid": 361441709,
+      "url": "https://www.bilibili.com/video/BV1w94y1i7f1/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 3723,
+      "summary": "miHoYo与HOYO-MiX出品；简介列出Hanser、黄龄、萨顶顶、小林未郁等嘉宾。",
+      "characters": [],
+      "tags": [
+        "音乐会",
+        "HOYO-MiX"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-6.8",
+        "version": "6.8",
+        "date": "2023-07-06"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:40:28.1410145+00:00",
+        "views": 5729699,
+        "likes": 260227,
+        "coins": 235489,
+        "favorites": 116926,
+        "shares": 28873,
+        "danmaku": 100856,
+        "comments": 11458,
+        "historicalHighestSitewideRank": 14
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 5729699,
+          "asOf": "2026-10-11T08:40:28.1410145+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 14
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1w94y1i7f1/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1w94y1i7f1",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:40:28.1410145+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    },
+    {
+      "id": "pv-7.0",
+      "date": "2023-09-23",
+      "datePrecision": "day",
+      "publishedAt": "2023-09-23T18:00:00+08:00",
+      "title": "《崩坏3》7.0版本「月下相续」宣传PV",
+      "displayTitle": "7.0 月下相续 PV",
+      "category": "official-pv",
+      "bvid": "BV1xu4y1z7Zw",
+      "aid": 916208845,
+      "url": "https://www.bilibili.com/video/BV1xu4y1z7Zw/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 135,
+      "summary": "七周年版本宣传，可连接月下角色与舰长线相关内容。",
+      "characters": [
+        "月下"
+      ],
+      "tags": [
+        "版本PV",
+        "七周年",
+        "月下"
+      ],
+      "priority": "standard",
+      "versionAtPublication": {
+        "id": "cn-6.9",
+        "version": "6.9",
+        "date": "2023-08-17"
+      },
+      "relatedVersions": [
+        {
+          "id": "cn-7.0",
+          "version": "7.0",
+          "date": "2023-09-28",
+          "relation": "editorial-content-link",
+          "reason": "视频标题明确对应7.0；PV早于版本更新。"
+        }
+      ],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:34:05.4844799+00:00",
+        "views": 1693760,
+        "likes": 66226,
+        "coins": 18548,
+        "favorites": 15737,
+        "shares": 5862,
+        "danmaku": 3210,
+        "comments": 2609,
+        "historicalHighestSitewideRank": null
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 1693760,
+          "asOf": "2026-10-11T08:34:05.4844799+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1xu4y1z7Zw/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xu4y1z7Zw",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:34:05.4844799+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    },
+    {
+      "id": "pv-7.2",
+      "date": "2023-12-15",
+      "datePrecision": "day",
+      "publishedAt": "2023-12-15T20:00:00+08:00",
+      "title": "《崩坏3》7.2版本「渡尘寻星」宣传PV",
+      "displayTitle": "7.2 渡尘寻星 PV",
+      "category": "official-pv",
+      "bvid": "BV1vb4y157TW",
+      "aid": 622228254,
+      "url": "https://www.bilibili.com/video/BV1vb4y157TW/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 118,
+      "summary": "符华相关版本宣传，补充《渡尘》之后的角色节点。",
+      "characters": [
+        "符华"
+      ],
+      "tags": [
+        "版本PV",
+        "符华"
+      ],
+      "priority": "standard",
+      "versionAtPublication": {
+        "id": "cn-7.1",
+        "version": "7.1",
+        "date": "2023-11-09"
+      },
+      "relatedVersions": [
+        {
+          "id": "cn-7.2",
+          "version": "7.2",
+          "date": "2023-12-21",
+          "relation": "editorial-content-link",
+          "reason": "视频标题明确对应7.2；PV早于版本更新。"
+        }
+      ],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:34:05.9344664+00:00",
+        "views": 1285130,
+        "likes": 59208,
+        "coins": 21118,
+        "favorites": 14822,
+        "shares": 8657,
+        "danmaku": 1687,
+        "comments": 2206,
+        "historicalHighestSitewideRank": null
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 1285130,
+          "asOf": "2026-10-11T08:34:05.9344664+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1vb4y157TW/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vb4y157TW",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:34:05.9344664+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    },
+    {
+      "id": "pv-7.3",
+      "date": "2024-01-27",
+      "datePrecision": "day",
+      "publishedAt": "2024-01-27T20:30:00+08:00",
+      "title": "《崩坏3》7.3版本「寻梦启航」宣传PV",
+      "displayTitle": "7.3 寻梦启航 PV",
+      "category": "official-pv",
+      "bvid": "BV1Xe411n7m5",
+      "aid": 241686285,
+      "url": "https://www.bilibili.com/video/BV1Xe411n7m5/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 153,
+      "summary": "第二部启航阶段的版本宣传，用于连接第一部与第二部的时间轴。",
+      "characters": [],
+      "tags": [
+        "版本PV",
+        "第二部"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-7.2",
+        "version": "7.2",
+        "date": "2023-12-21"
+      },
+      "relatedVersions": [
+        {
+          "id": "cn-7.3",
+          "version": "7.3",
+          "date": "2024-02-01",
+          "relation": "editorial-content-link",
+          "reason": "视频标题明确对应7.3；PV早于版本更新。"
+        }
+      ],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:40:25.9874871+00:00",
+        "views": 1525280,
+        "likes": 58156,
+        "coins": 15416,
+        "favorites": 10906,
+        "shares": 5446,
+        "danmaku": 1281,
+        "comments": 3270,
+        "historicalHighestSitewideRank": null
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 1525280,
+          "asOf": "2026-10-11T08:40:25.9874871+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1Xe411n7m5/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Xe411n7m5",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:40:25.9874871+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    },
+    {
+      "id": "travel-animation",
+      "date": "2024-02-09",
+      "datePrecision": "day",
+      "publishedAt": "2024-02-09T19:00:01+08:00",
+      "title": "《崩坏3》全新特别动画「旅途危机！圣芙蕾雅号特别事件」",
+      "displayTitle": "旅途危机！圣芙蕾雅号特别事件",
+      "category": "official-animation",
+      "bvid": "BV15y421Y7dk",
+      "aid": 1550263670,
+      "url": "https://www.bilibili.com/video/BV15y421Y7dk/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 2161,
+      "summary": "春节特别动画，以圣芙蕾雅号飞船上的假期与悬疑事件为主题。",
+      "characters": [],
+      "tags": [
+        "官方动画",
+        "春节",
+        "特别动画"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-7.3",
+        "version": "7.3",
+        "date": "2024-02-01"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [
+        "before-departure-song"
+      ],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:40:29.0128702+00:00",
+        "views": 8134701,
+        "likes": 282622,
+        "coins": 226251,
+        "favorites": 120250,
+        "shares": 29681,
+        "danmaku": 97915,
+        "comments": 9543,
+        "historicalHighestSitewideRank": null
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 8134701,
+          "asOf": "2026-10-11T08:40:29.0128702+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV15y421Y7dk/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV15y421Y7dk",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:40:29.0128702+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    },
+    {
+      "id": "before-departure-song",
+      "date": "2024-02-09",
+      "datePrecision": "day",
+      "publishedAt": "2024-02-09T20:00:00+08:00",
+      "title": "「在出发之前」——崩坏3《旅途危机！圣芙蕾雅号特别事件》主题曲（演唱者：陶典/菊花花/Hanser）",
+      "displayTitle": "在出发之前",
+      "category": "official-song",
+      "bvid": "BV1H7421N7M3",
+      "aid": 1650297244,
+      "url": "https://www.bilibili.com/video/BV1H7421N7M3/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 276,
+      "summary": "春节特别动画主题曲，由琪亚娜、芽衣、布洛妮娅的CV陶典／菊花花／Hanser演唱。",
+      "characters": [
+        "琪亚娜",
+        "雷电芽衣",
+        "布洛妮娅"
+      ],
+      "tags": [
+        "声优合唱",
+        "官方歌曲",
+        "春节"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-7.3",
+        "version": "7.3",
+        "date": "2024-02-01"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [
+        "travel-animation"
+      ],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:40:29.4458597+00:00",
+        "views": 1078825,
+        "likes": 68060,
+        "coins": 41744,
+        "favorites": 26759,
+        "shares": 4366,
+        "danmaku": 6692,
+        "comments": 2413,
+        "historicalHighestSitewideRank": null
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 1078825,
+          "asOf": "2026-10-11T08:40:29.4458597+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1H7421N7M3/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1H7421N7M3",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:40:29.4458597+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ],
+      "music": {
+        "title": "在出发之前",
+        "performers": [
+          "陶典",
+          "菊花花",
+          "Hanser"
+        ],
+        "context": "官方动画主题曲／角色CV演唱"
+      }
+    },
+    {
+      "id": "summer-memory",
+      "date": "2024-07-21",
+      "datePrecision": "day",
+      "publishedAt": "2024-07-21T18:00:00+08:00",
+      "title": "《崩坏3》概念动画短片「夏令回想」",
+      "displayTitle": "夏令回想",
+      "category": "official-animation",
+      "bvid": "BV1bT421k7kA",
+      "aid": 1706221422,
+      "url": "https://www.bilibili.com/video/BV1bT421k7kA/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 123,
+      "summary": "2024年官号概念动画短片，补充终章之后的官方短片内容。",
+      "characters": [],
+      "tags": [
+        "官方动画",
+        "概念动画"
+      ],
+      "priority": "standard",
+      "versionAtPublication": {
+        "id": "cn-7.6",
+        "version": "7.6",
+        "date": "2024-06-27"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:34:03.2772717+00:00",
+        "views": 706957,
+        "likes": 91692,
+        "coins": 46663,
+        "favorites": 27983,
+        "shares": 8906,
+        "danmaku": 1875,
+        "comments": 3860,
+        "historicalHighestSitewideRank": 96
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 706957,
+          "asOf": "2026-10-11T08:34:03.2772717+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 96
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1bT421k7kA/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bT421k7kA",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:34:03.2772717+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    },
+    {
+      "id": "hsr-crossover-program",
+      "date": "2024-10-26",
+      "datePrecision": "day",
+      "publishedAt": "2024-10-26T20:30:00+08:00",
+      "title": "《崩坏3》×《崩坏：星穹铁道》V7.9「星间诡戏」特别节目录像",
+      "displayTitle": "崩坏3×星铁：星间诡戏特别节目",
+      "category": "official-program",
+      "bvid": "BV1zU1HYUENZ",
+      "aid": 113371835797441,
+      "url": "https://www.bilibili.com/video/BV1zU1HYUENZ/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 2076,
+      "summary": "7.9联动特别节目，为跨作品联动的话题提供官方原稿。",
+      "characters": [],
+      "tags": [
+        "联动",
+        "星穹铁道",
+        "特别节目"
+      ],
+      "priority": "standard",
+      "versionAtPublication": {
+        "id": "cn-7.8",
+        "version": "7.8",
+        "date": "2024-09-19"
+      },
+      "relatedVersions": [
+        {
+          "id": "cn-7.9",
+          "version": "7.9",
+          "date": "2024-10-31",
+          "relation": "editorial-content-link",
+          "reason": "视频标题明确对应7.9联动；节目早于版本更新。"
+        }
+      ],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:34:08.1418641+00:00",
+        "views": 912102,
+        "likes": 48411,
+        "coins": 4764,
+        "favorites": 7771,
+        "shares": 1692,
+        "danmaku": 2854,
+        "comments": 2278,
+        "historicalHighestSitewideRank": null
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 912102,
+          "asOf": "2026-10-11T08:34:08.1418641+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1zU1HYUENZ/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zU1HYUENZ",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:34:08.1418641+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    },
+    {
+      "id": "pv-8.5",
+      "date": "2025-09-20",
+      "datePrecision": "day",
+      "publishedAt": "2025-09-20T20:00:00+08:00",
+      "title": "《崩坏3》8.5版本「爱愿偕光」宣传PV",
+      "displayTitle": "8.5 爱愿偕光 PV",
+      "category": "official-pv",
+      "bvid": "BV1bEWgzWEbt",
+      "aid": 115228872280256,
+      "url": "https://www.bilibili.com/video/BV1bEWgzWEbt/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 120,
+      "summary": "九周年版本宣传，连接爱莉希雅相关周年内容。",
+      "characters": [
+        "爱莉希雅"
+      ],
+      "tags": [
+        "版本PV",
+        "九周年"
+      ],
+      "priority": "standard",
+      "versionAtPublication": {
+        "id": "cn-8.4",
+        "version": "8.4",
+        "date": "2025-07-24"
+      },
+      "relatedVersions": [
+        {
+          "id": "cn-8.5",
+          "version": "8.5",
+          "date": "2025-09-25",
+          "relation": "editorial-content-link",
+          "reason": "视频标题明确对应8.5；PV早于版本更新。"
+        }
+      ],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:34:05.0481331+00:00",
+        "views": 846484,
+        "likes": 47784,
+        "coins": 17433,
+        "favorites": 12983,
+        "shares": 3838,
+        "danmaku": 7000,
+        "comments": 1855,
+        "historicalHighestSitewideRank": null
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 846484,
+          "asOf": "2026-10-11T08:34:05.0481331+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1bEWgzWEbt/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bEWgzWEbt",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:34:05.0481331+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    },
+    {
+      "id": "elf-magic",
+      "date": "2025-09-20",
+      "datePrecision": "day",
+      "publishedAt": "2025-09-20T20:16:29+08:00",
+      "title": "《崩坏3》妖精小姐的魔法邀约",
+      "displayTitle": "妖精小姐的魔法邀约",
+      "category": "official-song",
+      "bvid": "BV1SDpRzjEDu",
+      "aid": 115236556309960,
+      "url": "https://www.bilibili.com/video/BV1SDpRzjEDu/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 112,
+      "summary": "官号发布、宴宁演唱的妖精小姐主题视频；可关联九周年版本宣传。",
+      "characters": [
+        "爱莉希雅"
+      ],
+      "tags": [
+        "宴宁",
+        "声优演唱",
+        "九周年"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-8.4",
+        "version": "8.4",
+        "date": "2025-07-24"
+      },
+      "relatedVersions": [
+        {
+          "id": "cn-8.5",
+          "version": "8.5",
+          "date": "2025-09-25",
+          "relation": "editorial-content-link",
+          "reason": "与8.5九周年PV同日发布，作为同阶段宣传关联。"
+        }
+      ],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:34:03.7286159+00:00",
+        "views": 2179488,
+        "likes": 194972,
+        "coins": 124445,
+        "favorites": 106840,
+        "shares": 20478,
+        "danmaku": 37342,
+        "comments": 11031,
+        "historicalHighestSitewideRank": 55
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 2179488,
+          "asOf": "2026-10-11T08:34:03.7286159+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 55
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1SDpRzjEDu/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SDpRzjEDu",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:34:03.7286159+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ],
+      "music": {
+        "title": "妖精小姐的魔法邀约",
+        "performers": [
+          "宴宁"
+        ],
+        "context": "官方发布的演唱视频"
+      }
+    },
+    {
+      "id": "pv-9.1",
+      "date": "2026-09-19",
+      "datePrecision": "day",
+      "publishedAt": "2026-09-19T20:30:00+08:00",
+      "title": "《崩坏3》9.1版本「时序照新」宣传PV",
+      "displayTitle": "9.1 时序照新 PV",
+      "category": "official-pv",
+      "bvid": "BV1pKe26sEPf",
+      "aid": 117290624419810,
+      "url": "https://www.bilibili.com/video/BV1pKe26sEPf/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 116,
+      "summary": "十周年版本宣传，标题与简介确认时序之律者登场。",
+      "characters": [
+        "寻梦者"
+      ],
+      "tags": [
+        "版本PV",
+        "十周年",
+        "时序之律者"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-9.0",
+        "version": "9.0",
+        "date": "2026-07-23"
+      },
+      "relatedVersions": [
+        {
+          "id": "cn-9.1",
+          "version": "9.1",
+          "date": "2026-09-24",
+          "relation": "editorial-content-link",
+          "reason": "视频标题明确对应9.1；PV早于版本更新。"
+        }
+      ],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:34:04.6130325+00:00",
+        "views": 225365,
+        "likes": 21168,
+        "coins": 7111,
+        "favorites": 4218,
+        "shares": 753,
+        "danmaku": 1311,
+        "comments": 2064,
+        "historicalHighestSitewideRank": null
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 225365,
+          "asOf": "2026-10-11T08:34:04.6130325+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1pKe26sEPf/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pKe26sEPf",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:34:04.6130325+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    },
+    {
+      "id": "anniversary-10-program",
+      "date": "2026-09-19",
+      "datePrecision": "day",
+      "publishedAt": "2026-09-19T21:10:00+08:00",
+      "title": "《崩坏3》十周年庆典特别节目录像",
+      "displayTitle": "十周年庆典特别节目",
+      "category": "official-program",
+      "bvid": "BV1aLeb6sEC5",
+      "aid": 117297318527749,
+      "url": "https://www.bilibili.com/video/BV1aLeb6sEC5/",
+      "creator": {
+        "mid": 27534330,
+        "name": "崩坏3第一偶像爱酱",
+        "url": "https://space.bilibili.com/27534330",
+        "kind": "official"
+      },
+      "durationSeconds": 4749,
+      "summary": "十周年特别节目录像，与9.1PV共同作为2026年周年庆官方节点。",
+      "characters": [],
+      "tags": [
+        "十周年",
+        "特别节目"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-9.0",
+        "version": "9.0",
+        "date": "2026-07-23"
+      },
+      "relatedVersions": [
+        {
+          "id": "cn-9.1",
+          "version": "9.1",
+          "date": "2026-09-24",
+          "relation": "editorial-content-link",
+          "reason": "与9.1PV同日发布，作为十周年版本节目关联。"
+        }
+      ],
+      "relatedVideoIds": [
+        "pv-9.1"
+      ],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:34:04.1794326+00:00",
+        "views": 461877,
+        "likes": 55177,
+        "coins": 26574,
+        "favorites": 19507,
+        "shares": 2967,
+        "danmaku": 13259,
+        "comments": 7067,
+        "historicalHighestSitewideRank": 86
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 461877,
+          "asOf": "2026-10-11T08:34:04.1794326+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 86
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV1aLeb6sEC5/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1aLeb6sEC5",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:34:04.1794326+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    },
+    {
+      "id": "anniversary-10-fan",
+      "date": "2026-09-24",
+      "datePrecision": "day",
+      "publishedAt": "2026-09-24T20:00:00+08:00",
+      "title": "【崩坏3十周年生日会】崩坏3躲猫猫？史上最强律者vs现代最强律者！",
+      "displayTitle": "十周年生日会：崩坏3躲猫猫？",
+      "category": "fan-creation",
+      "bvid": "BV15dhv66EHZ",
+      "aid": 117308424981617,
+      "url": "https://www.bilibili.com/video/BV15dhv66EHZ/",
+      "creator": {
+        "mid": 3066511,
+        "name": "特效小哥studio",
+        "url": "https://space.bilibili.com/3066511",
+        "kind": "community-creator"
+      },
+      "durationSeconds": 321,
+      "summary": "特效小哥studio的十周年生日会动画单品，作为2026年社区创作代表。",
+      "characters": [],
+      "tags": [
+        "生日会",
+        "十周年",
+        "同人动画"
+      ],
+      "priority": "featured",
+      "versionAtPublication": {
+        "id": "cn-9.1",
+        "version": "9.1",
+        "date": "2026-09-24"
+      },
+      "relatedVersions": [],
+      "relatedVideoIds": [],
+      "statsSnapshot": {
+        "asOf": "2026-10-11T08:34:07.2704504+00:00",
+        "views": 693614,
+        "likes": 87990,
+        "coins": 12204,
+        "favorites": 24160,
+        "shares": 2277,
+        "danmaku": 918,
+        "comments": 881,
+        "historicalHighestSitewideRank": 61
+      },
+      "heatEvidence": [
+        {
+          "kind": "cumulative-views",
+          "value": 693614,
+          "asOf": "2026-10-11T08:34:07.2704504+00:00"
+        },
+        {
+          "kind": "historical-highest-sitewide-rank",
+          "value": 61
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.bilibili.com/video/BV15dhv66EHZ/",
+          "kind": "original-video",
+          "supports": "原稿、简介、创作署名及内容依据"
+        },
+        {
+          "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV15dhv66EHZ",
+          "kind": "bilibili-public-metadata",
+          "accessedAt": "2026-10-11T08:34:07.2704504+00:00",
+          "supports": "BV／AV、作者UID、发布时间、累计数据及可取得的历史排名"
+        }
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "early-official",
+      "title": "从角色PV到官方动画短片",
+      "summary": "从开服前芽衣PV、Reburn到女王降临，展示早期官方视频内容的变化。",
+      "videoIds": [
+        "mei-pv-2016",
+        "reburn",
+        "befall"
+      ],
+      "tags": [
+        "官方宣传",
+        "早期回忆"
+      ],
+      "anchorDate": "2016-09-26",
+      "anchorVideoId": "mei-pv-2016",
+      "dateMeaning": "earliest-selected-video-publication-not-topic-origin"
+    },
+    {
+      "id": "scyrax-render",
+      "title": "Scyrax的次世代卡通渲染系列",
+      "summary": "四个角色的MMD／实时渲染演示构成独立创作者线索；网页可按系列串联。",
+      "videoIds": [
+        "scyrax-kiana",
+        "scyrax-mei",
+        "scyrax-sakura",
+        "scyrax-fuhua"
+      ],
+      "tags": [
+        "MMD",
+        "Unity",
+        "Scyrax"
+      ],
+      "anchorDate": "2016-11-25",
+      "anchorVideoId": "scyrax-kiana",
+      "dateMeaning": "earliest-selected-video-publication-not-topic-origin"
+    },
+    {
+      "id": "himeko-kiana",
+      "title": "最后一课 → 薪炎永燃",
+      "summary": "用两部动画连接姬子与琪亚娜的剧情记忆，再关联Nightglow与Moon Halo。",
+      "videoIds": [
+        "last-lesson",
+        "starfall",
+        "moon-halo"
+      ],
+      "tags": [
+        "姬子",
+        "琪亚娜",
+        "剧情音乐"
+      ],
+      "anchorDate": "2018-12-14",
+      "anchorVideoId": "last-lesson",
+      "dateMeaning": "earliest-selected-video-publication-not-topic-origin"
+    },
+    {
+      "id": "bronya-seele",
+      "title": "布洛妮娅、希儿与Cyberangel",
+      "summary": "动画与Hanser演唱视频分别保留，避免把同日两个原稿误认为转载。",
+      "videoIds": [
+        "cyberangel",
+        "cyberangel-song",
+        "seele",
+        "bronya-short"
+      ],
+      "tags": [
+        "布洛妮娅",
+        "希儿",
+        "Hanser"
+      ],
+      "anchorDate": "2019-07-05",
+      "anchorVideoId": "cyberangel-song",
+      "dateMeaning": "earliest-selected-video-publication-not-topic-origin"
+    },
+    {
+      "id": "theresa-remix",
+      "title": "德丽莎：犹大disco、处处傻与德德德",
+      "summary": "把角色填词／鬼畜、原作、声优翻唱、同人原创曲放在同一话题下；《处处傻》传播关系由花玲简介直接确认。",
+      "videoIds": [
+        "judah-disco",
+        "chuchusha-suoor",
+        "chuchusha-hualing",
+        "ddd"
+      ],
+      "tags": [
+        "德丽莎",
+        "花玲",
+        "二创",
+        "声优翻唱"
+      ],
+      "anchorDate": "2019-09-30",
+      "anchorVideoId": "judah-disco",
+      "dateMeaning": "earliest-selected-video-publication-not-topic-origin"
+    },
+    {
+      "id": "mei-quit-lament",
+      "title": "芽衣什么的不干啦 → 罪人挽歌",
+      "summary": "先展示2020年3月二创及CV翻唱，再接7月官方动画；前后对照是编辑叙事，不宣称动画由该梗引发。",
+      "videoIds": [
+        "mei-quit-original",
+        "mei-quit-cv",
+        "lament"
+      ],
+      "tags": [
+        "芽衣",
+        "声优翻唱",
+        "雷之律者"
+      ],
+      "anchorDate": "2020-03-02",
+      "anchorVideoId": "mei-quit-original",
+      "dateMeaning": "earliest-selected-video-publication-not-topic-origin"
+    },
+    {
+      "id": "fuhua-memory",
+      "title": "符华、渡尘与识之律者",
+      "summary": "符华渲染演示、渡尘／Rubia、4.6PV与后续符华版本PV可跨年串联。",
+      "videoIds": [
+        "scyrax-fuhua",
+        "rubia",
+        "pv-4.6",
+        "pv-7.2"
+      ],
+      "tags": [
+        "符华",
+        "周深",
+        "识之律者"
+      ],
+      "anchorDate": "2020-01-10",
+      "anchorVideoId": "scyrax-fuhua",
+      "dateMeaning": "earliest-selected-video-publication-not-topic-origin"
+    },
+    {
+      "id": "elysia-elysian",
+      "title": "爱莉希雅与逐火英桀：官动画、声优歌、手书",
+      "summary": "组合TruE、宴宁的Elysia／致爱、哈米伦手书及后续妖精小姐视频；歌曲演唱者逐条区分。",
+      "videoIds": [
+        "elysia-song",
+        "true",
+        "pv-6.0",
+        "beloved-song",
+        "hamelin-origin",
+        "elf-magic"
+      ],
+      "tags": [
+        "爱莉希雅",
+        "往世乐土",
+        "宴宁",
+        "手书"
+      ],
+      "anchorDate": "2021-09-16",
+      "anchorVideoId": "elysia-song",
+      "dateMeaning": "earliest-selected-video-publication-not-topic-origin"
+    },
+    {
+      "id": "cv-collaboration",
+      "title": "声优合唱与游戏衍生动画音乐",
+      "summary": "青空的约定与在出发之前代表多人声优合唱；Elf Fantasy单列为衍生动画片尾曲。",
+      "videoIds": [
+        "blue-sky-promise",
+        "before-departure-song",
+        "travel-animation",
+        "elf-fantasy-song"
+      ],
+      "tags": [
+        "声优合唱",
+        "衍生动画"
+      ],
+      "anchorDate": "2021-07-15",
+      "anchorVideoId": "elf-fantasy-song",
+      "dateMeaning": "earliest-selected-video-publication-not-topic-origin"
+    },
+    {
+      "id": "concerts",
+      "title": "音乐会：星火流音、纯真梦歌、林海绮律",
+      "summary": "把歌曲传播与官方演出串联；演出日期和B站正片上传日期使用不同字段。",
+      "videoIds": [
+        "concert-2021",
+        "concert-2022",
+        "concert-2023"
+      ],
+      "tags": [
+        "音乐会",
+        "HOYO-MiX"
+      ],
+      "anchorDate": "2021-11-05",
+      "anchorVideoId": "concert-2021",
+      "dateMeaning": "earliest-selected-video-publication-not-topic-origin"
+    },
+    {
+      "id": "community-festivals",
+      "title": "周年回顾、新春会与生日会",
+      "summary": "官方影像大赏获奖MAD、社区新春会总集与十周年生日会单品构成社区活动线。",
+      "videoIds": [
+        "annals",
+        "judah-disco",
+        "newyear-2022",
+        "ddd",
+        "anniversary-10-fan"
+      ],
+      "tags": [
+        "社区晚会",
+        "生日会",
+        "周年回顾"
+      ],
+      "anchorDate": "2019-09-07",
+      "anchorVideoId": "annals",
+      "dateMeaning": "earliest-selected-video-publication-not-topic-origin"
+    },
+    {
+      "id": "graduation-next",
+      "title": "毕业旅行、创作回顾与第二部启航",
+      "summary": "《毕业旅行》与游戏纪录片连接第一部终章，再用7.3PV开启第二部节点。",
+      "videoIds": [
+        "reunion",
+        "crossing",
+        "da-capo",
+        "documentary",
+        "pv-7.3"
+      ],
+      "tags": [
+        "终章",
+        "第二部",
+        "纪录片"
+      ],
+      "anchorDate": "2022-12-15",
+      "anchorVideoId": "reunion",
+      "dateMeaning": "earliest-selected-video-publication-not-topic-origin"
+    },
+    {
+      "id": "anniversary-crossover",
+      "title": "周年版本与跨作品联动",
+      "summary": "七周年、九周年、十周年宣传和星铁联动节目按原稿发布时间展示，另关联目标版本。",
+      "videoIds": [
+        "pv-7.0",
+        "hsr-crossover-program",
+        "pv-8.5",
+        "elf-magic",
+        "anniversary-10-program",
+        "pv-9.1",
+        "anniversary-10-fan"
+      ],
+      "tags": [
+        "周年庆",
+        "联动",
+        "十周年"
+      ],
+      "anchorDate": "2023-09-23",
+      "anchorVideoId": "pv-7.0",
+      "dateMeaning": "earliest-selected-video-publication-not-topic-origin"
+    }
+  ]
+}

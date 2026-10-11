@@ -1,0 +1,187 @@
+{
+  "cn-6.4": {
+    "bvid": "BV1me411n7eu",
+    "relation": "version-pv"
+  },
+  "cn-6.5": {
+    "bvid": "BV15T411v72r",
+    "relation": "version-pv"
+  },
+  "cn-6.6": {
+    "bvid": "BV17m4y1m7FH",
+    "relation": "version-pv"
+  },
+  "cn-6.7": {
+    "bvid": "BV1ig4y1c7BB",
+    "relation": "version-pv"
+  },
+  "cn-6.8": {
+    "bvid": "BV1Wg4y1N7Bu",
+    "relation": "version-pv"
+  },
+  "cn-6.9": {
+    "bvid": "BV1j94y1y7az",
+    "relation": "version-pv"
+  },
+  "cn-7.0": {
+    "bvid": "BV1xu4y1z7Zw",
+    "relation": "version-pv"
+  },
+  "cn-7.1": {
+    "bvid": "BV1MQ4y1n7nE",
+    "relation": "version-program"
+  },
+  "cn-7.2": {
+    "bvid": "BV1vb4y157TW",
+    "relation": "version-pv"
+  },
+  "cn-7.3": {
+    "bvid": "BV1Xe411n7m5",
+    "relation": "version-pv"
+  },
+  "cn-7.4": {
+    "bvid": "BV1mz421Z7MR",
+    "relation": "version-pv"
+  },
+  "cn-7.5": {
+    "bvid": "BV18m421p7q5",
+    "relation": "version-pv"
+  },
+  "cn-7.6": {
+    "bvid": "BV1Dz421B7kA",
+    "relation": "version-pv"
+  },
+  "cn-7.7": {
+    "bvid": "BV1w1421t79o",
+    "relation": "version-pv"
+  },
+  "cn-7.8": {
+    "bvid": "BV1S9tweQEzy",
+    "relation": "version-pv"
+  },
+  "cn-7.9": {
+    "aid": 113367557672506,
+    "relation": "version-pv"
+  },
+  "cn-8.0": {
+    "bvid": "BV1qFivY4E4c",
+    "relation": "version-pv"
+  },
+  "cn-8.1": {
+    "bvid": "BV1suwHePEUg",
+    "relation": "version-pv"
+  },
+  "cn-8.2": {
+    "bvid": "BV12pQRYTE6n",
+    "relation": "version-pv"
+  },
+  "cn-8.3": {
+    "bvid": "BV1eNJ4zYE2r",
+    "relation": "version-pv"
+  },
+  "cn-8.4": {
+    "bvid": "BV1EZgwzmE5Z",
+    "relation": "version-pv"
+  },
+  "cn-8.5": {
+    "bvid": "BV1bEWgzWEbt",
+    "relation": "version-pv"
+  },
+  "cn-8.6": {
+    "bvid": "BV1KnSjBmE31",
+    "relation": "version-pv"
+  },
+  "cn-8.7": {
+    "bvid": "BV1wv67B9E2m",
+    "relation": "version-pv"
+  },
+  "cn-8.8": {
+    "bvid": "BV17xXbBCEKT",
+    "relation": "version-pv"
+  },
+  "cn-8.9": {
+    "bvid": "BV15MGi6oEFp",
+    "relation": "version-program"
+  },
+  "cn-9.0": {
+    "bvid": "BV1abNd6bE6L",
+    "relation": "version-pv"
+  },
+  "cn-9.1": {
+    "bvid": "BV1pKe26sEPf",
+    "relation": "version-pv"
+  },
+  "community-white-river": {
+    "bvid": "BV1WG4y1e7wC",
+    "relation": "topic-explainer"
+  },
+  "community-vita-sama": {
+    "bvid": "BV1JJtjeGEUQ",
+    "relation": "topic-explainer"
+  },
+  "community-aimen": {
+    "bvid": "BV1oB4y177Dz",
+    "relation": "topic-explainer"
+  },
+  "community-aileen-fan": {
+    "bvid": "BV1vK4y1Y7jx",
+    "relation": "topic-video"
+  },
+  "beta-pv": {
+    "bvid": "BV14s411r7Rh"
+  },
+  "community-bridge-interaction": {
+    "bvid": "BV1UW411v7o3"
+  },
+  "community-guoji-zero": {
+    "bvid": "BV1Rg4y1z75q"
+  },
+  "community-raven-forum": {
+    "bvid": "BV1KY4y1D7Xt"
+  },
+  "community-stigma-renaming": {
+    "bvid": "BV13W411e7fu"
+  },
+  "community-bunny": {
+    "bvid": "BV17Z4y1F7gB"
+  },
+  "community-sp-175": {
+    "bvid": "BV1eW4y1j7ik"
+  },
+  "community-raven-island": {
+    "bvid": "BV1Lf4y1p7jF"
+  },
+  "community-part2-finale": {
+    "bvid": "BV1nnun6QESD"
+  },
+  "community-zero98": {
+    "articleId": 11455035
+  },
+  "community-bunny-original": {
+    "bvid": "BV1onbueHEzW"
+  },
+  "community-krishna": {
+    "bvid": "BV1m3411E7P7"
+  },
+  "community-captainverse": {
+    "bvid": "BV1Mp4y1N76t"
+  },
+  "community-raven-roll": {
+    "bvid": "BV1Q5411Q7rT"
+  },
+  "community-sp-meme": {
+    "bvid": "BV1zP4y1U7h4"
+  },
+  "launch-2016": {
+    "bvid": "BV1ms411t7qj"
+  },
+  "community-raven-original": {
+    "bvid": "BV1UT4y1u7Hs"
+  },
+  "cn-4.8-corrected": {
+    "bvid": "BV1vo4y1f7P5"
+  },
+  "cn-6.4-corrected": {
+    "bvid": "BV14d4y1J7M5"
+  }
+}

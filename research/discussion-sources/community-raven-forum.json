@@ -1,0 +1,95 @@
+{
+  "platform": "Bilibili",
+  "checkedAt": "2026-10-11T19:28:49+08:00",
+  "sourceHint": {
+    "bvid": "BV1KY4y1D7Xt"
+  },
+  "comments": [
+    {
+      "id": "158480757120",
+      "userId": "111202477",
+      "username": "牧月-忍冬",
+      "publishedAt": "2023-03-30T13:44:01+08:00",
+      "text": "起码娜塔莎小姐成长了\n倾诉给小空 忍住了，不满地打滚，撕心裂肺的吼\n因为人类 已经战胜了崩坏[doge]",
+      "likes": 321,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV1KY4y1D7Xt/#reply158480757120"
+    },
+    {
+      "id": "158481751488",
+      "userId": "22809720",
+      "username": "水晶龙神",
+      "publishedAt": "2023-03-30T13:54:09+08:00",
+      "text": "懂了，下版本出初始s眩晕c渡鸦，sp吸引辅助小空[傲娇]",
+      "likes": 16,
+      "replyTo": "158480757120",
+      "sourceURL": "https://www.bilibili.com/video/BV1KY4y1D7Xt/#reply158481751488"
+    },
+    {
+      "id": "158484952736",
+      "userId": "431320675",
+      "username": "咸鱼-躺",
+      "publishedAt": "2023-03-30T14:26:14+08:00",
+      "text": "回复 @水晶龙神 :这几个肯定会出，但是估计少说得2.0再开始吧。",
+      "likes": 4,
+      "replyTo": "158481751488",
+      "sourceURL": "https://www.bilibili.com/video/BV1KY4y1D7Xt/#reply158484952736"
+    },
+    {
+      "id": "158481470992",
+      "userId": "489518626",
+      "username": "重装小兔29斤_吃胖版",
+      "publishedAt": "2023-03-30T13:50:45+08:00",
+      "text": "向娜塔莎小姐道歉\n否则我就\n羽箭锋回+12+3+3\n[doge][doge][doge][doge]",
+      "likes": 221,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV1KY4y1D7Xt/#reply158481470992"
+    },
+    {
+      "id": "158482296288",
+      "userId": "143516409",
+      "username": "亚索の疾风剑豪",
+      "publishedAt": "2023-03-30T13:58:47+08:00",
+      "text": "👋炎上之光，喝！[响指]决战的时刻到了，呀哈呀，👋，呀哈嘿👋，以此烈火斩无不断🔥🔥🔥",
+      "likes": 17,
+      "replyTo": "158481470992",
+      "sourceURL": "https://www.bilibili.com/video/BV1KY4y1D7Xt/#reply158482296288"
+    },
+    {
+      "id": "158485003472",
+      "userId": "386257431",
+      "username": "如黄金般璀璨ウ",
+      "publishedAt": "2023-03-30T14:27:07+08:00",
+      "text": "回复 @魔法师预备役 :出分了446",
+      "likes": 3,
+      "replyTo": "158484129376",
+      "sourceURL": "https://www.bilibili.com/video/BV1KY4y1D7Xt/#reply158485003472"
+    },
+    {
+      "id": "158480213728",
+      "userId": "144623018",
+      "username": "648是个好东西",
+      "publishedAt": "2023-03-30T13:38:54+08:00",
+      "text": "渡鸦,你也会写恐怖小说啊\n真没想到\n怕是你在乐土吓出来的",
+      "likes": 65,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV1KY4y1D7Xt/#reply158480213728"
+    }
+  ],
+  "title": "【崩坏3主线】渡鸦：我曾受论坛迫害",
+  "bvid": "BV1KY4y1D7Xt",
+  "aid": 654282066,
+  "author": "问肯局长是不是基",
+  "authorId": "23618219",
+  "url": "https://www.bilibili.com/video/BV1KY4y1D7Xt/",
+  "publishedAt": "2023-03-30T13:36:19+08:00",
+  "metadataURL": "https://api.bilibili.com/x/web-interface/view?bvid=BV1KY4y1D7Xt",
+  "commentAPI": "https://api.bilibili.com/x/v2/reply?type=1&oid=654282066&sort=2&pn=1",
+  "page": {
+    "num": 1,
+    "size": 20,
+    "count": 24,
+    "acount": 24
+  },
+  "status": "ok"
+}

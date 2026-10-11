@@ -1,0 +1,76 @@
+{
+  "platform": "Bilibili",
+  "checkedAt": "2026-10-11T19:23:26+08:00",
+  "sourceHint": {
+    "bvid": "BV1pKe26sEPf",
+    "relation": "version-pv"
+  },
+  "comments": [
+    {
+      "id": "314446182865",
+      "userId": "3494372261759071",
+      "username": "立志走遍B站的男人",
+      "publishedAt": "2026-09-19T20:31:26+08:00",
+      "text": "（￣▽￣）←这是一只2009年的颜文字，它穿越了，啊Σ(ﾟдﾟ;)  现在是2026年吗？我不是在mikufans吗？这是哪(ﾟДﾟ≡ﾟдﾟ)!?  bilibili?是什么网站啊？文学网站?(´･_･`)为什么大家的话我都看不懂呢?哦⊙∀⊙！这可能就是大文学家的聚集地吧!毕竟我只是一个颜文字╮(￣▽￣)╭呢，还是让现在的表情去理解吧，它们可比我丰富多了(｀・ω・´)，希望大家都能开开心心地讨论哦(｡･ω･｡)，可不要吵架（/TДT)/",
+      "likes": 58,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV1pKe26sEPf/#reply314446182865"
+    },
+    {
+      "id": "317958574784",
+      "userId": "1046147329",
+      "username": "hikerynaNum3",
+      "publishedAt": "2026-09-19T20:36:57+08:00",
+      "text": "给牢资历磕了[明日方舟_惊][明日方舟_惊]",
+      "likes": 0,
+      "replyTo": "314446182865",
+      "sourceURL": "https://www.bilibili.com/video/BV1pKe26sEPf/#reply317958574784"
+    },
+    {
+      "id": "317960210480",
+      "userId": "1235495407",
+      "username": "影像档案袋",
+      "publishedAt": "2026-09-19T20:52:26+08:00",
+      "text": "我的天呐，老资历",
+      "likes": 0,
+      "replyTo": "314446182865",
+      "sourceURL": "https://www.bilibili.com/video/BV1pKe26sEPf/#reply317960210480"
+    },
+    {
+      "id": "317958035392",
+      "userId": "454364046",
+      "username": "怪医黑娣克",
+      "publishedAt": "2026-09-19T20:32:43+08:00",
+      "text": "还是有点小失望啊😞，但是就是要把这个不美好的世界变成你所期望的样子不是吗",
+      "likes": 3,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV1pKe26sEPf/#reply317958035392"
+    },
+    {
+      "id": "314446121649",
+      "userId": "260554968",
+      "username": "折沉香丶",
+      "publishedAt": "2026-09-19T20:30:43+08:00",
+      "text": "干翻原神 崩坏永存",
+      "likes": 3,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV1pKe26sEPf/#reply314446121649"
+    }
+  ],
+  "title": "《崩坏3》9.1版本「时序照新」宣传PV",
+  "bvid": "BV1pKe26sEPf",
+  "aid": 117290624419810,
+  "author": "崩坏3第一偶像爱酱",
+  "authorId": "27534330",
+  "url": "https://www.bilibili.com/video/BV1pKe26sEPf/",
+  "publishedAt": "2026-09-19T20:30:00+08:00",
+  "metadataURL": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pKe26sEPf",
+  "commentAPI": "https://api.bilibili.com/x/v2/reply?type=1&oid=117290624419810&sort=2&pn=1",
+  "page": {
+    "num": 1,
+    "size": 20,
+    "count": 2064,
+    "acount": 2064
+  },
+  "status": "ok"
+}

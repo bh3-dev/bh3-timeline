@@ -1,0 +1,282 @@
+{
+  "mei-pv-2016": {
+    "path": "assets/covers/mei-pv-2016.jpg",
+    "source": "https://i2.hdslb.com/bfs/archive/c2e40522819716d97b6d29f22be5f0a330156346.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zs411t7ma"
+  },
+  "scyrax-kiana": {
+    "path": "assets/covers/scyrax-kiana.jpg",
+    "source": "https://i0.hdslb.com/bfs/archive/2a6150ced2162e7eae53e367acb884c38c864e69.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Fs411s7PZ"
+  },
+  "scyrax-mei": {
+    "path": "assets/covers/scyrax-mei.jpg",
+    "source": "https://i0.hdslb.com/bfs/archive/ab8e83c84573211f9f6ae9d9e3ab0610caf065c0.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Mx41147EK"
+  },
+  "reburn": {
+    "path": "assets/covers/reburn.jpg",
+    "source": "https://i2.hdslb.com/bfs/archive/7d7c415c3322ecfc5a7df0c06022ae9912f753b9.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Tx411V7be"
+  },
+  "befall": {
+    "path": "assets/covers/befall.jpg",
+    "source": "https://i0.hdslb.com/bfs/archive/ed881fa267c6e3248573550d551892c99368d120.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1aW411P7UJ"
+  },
+  "last-lesson": {
+    "path": "assets/covers/last-lesson.jpg",
+    "source": "https://i0.hdslb.com/bfs/archive/13aebe7ece1a5f1cb6198014c946324d7bd82c96.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ut411v74a"
+  },
+  "scyrax-sakura": {
+    "path": "assets/covers/scyrax-sakura.jpg",
+    "source": "https://i0.hdslb.com/bfs/archive/2020b2e0a2405aaa60b51116f3b67e993cca281a.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Lb411k7eP"
+  },
+  "cyberangel-song": {
+    "path": "assets/covers/cyberangel-song.jpg",
+    "source": "https://i1.hdslb.com/bfs/archive/2e8ef07c907a889df39c1ddf8f50d0e6292cef87.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1v4411A7oj"
+  },
+  "cyberangel": {
+    "path": "assets/covers/cyberangel.jpg",
+    "source": "https://i1.hdslb.com/bfs/archive/90024489eef2db7ba8f6be4a249bfd614292fc51.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1v4411A7kc"
+  },
+  "annals": {
+    "path": "assets/covers/annals.jpg",
+    "source": "https://i0.hdslb.com/bfs/archive/025ad61a2469558187b90044eaac18d04944432a.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1U4411k7W4"
+  },
+  "judah-disco": {
+    "path": "assets/covers/judah-disco.jpg",
+    "source": "https://i0.hdslb.com/bfs/archive/363a373565f5e6ba773f695520ef30003180caec.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yJ411K7j3"
+  },
+  "seele": {
+    "path": "assets/covers/seele.jpg",
+    "source": "https://i2.hdslb.com/bfs/archive/db46d29bcacf5858ff29c5c0f41c840c10df6b42.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1cE411Z74g"
+  },
+  "bronya-short": {
+    "path": "assets/covers/bronya-short.jpg",
+    "source": "https://i1.hdslb.com/bfs/archive/b837be887813909a439ca39a9dd58b6bac1904b9.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1NE411y738"
+  },
+  "scyrax-fuhua": {
+    "path": "assets/covers/scyrax-fuhua.jpg",
+    "source": "https://i1.hdslb.com/bfs/archive/e201e57253674f17add823dfbddc89037d3531e4.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fJ411G7N3"
+  },
+  "chuchusha-suoor": {
+    "path": "assets/covers/chuchusha-suoor.jpg",
+    "source": "https://i1.hdslb.com/bfs/archive/c1094299bcf99ee7d7a297e58b18eb472bdb100e.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV137411a7xB"
+  },
+  "starfall": {
+    "path": "assets/covers/starfall.jpg",
+    "source": "https://i2.hdslb.com/bfs/archive/2ee7d828e6defd70f932dc6ae098e9429da3a8ac.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1U7411N7vr"
+  },
+  "mei-quit-original": {
+    "path": "assets/covers/mei-quit-original.jpg",
+    "source": "https://i1.hdslb.com/bfs/archive/635b44fe5a65ecd6560657a9bcb4c103dcc1235f.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qE411j7R9"
+  },
+  "mei-quit-cv": {
+    "path": "assets/covers/mei-quit-cv.jpg",
+    "source": "https://i0.hdslb.com/bfs/archive/2b148c6cec2a61e6d4acc28146ea181e3f670546.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TE41137zQ"
+  },
+  "chuchusha-hualing": {
+    "path": "assets/covers/chuchusha-hualing.jpg",
+    "source": "https://i1.hdslb.com/bfs/archive/d127f4d5d73c7cb41b983c3375d896c7c4941204.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bE411c7kQ"
+  },
+  "lament": {
+    "path": "assets/covers/lament.jpg",
+    "source": "https://i2.hdslb.com/bfs/archive/d87506b31a1793dad2ac08d0c175f9b27f2a0c30.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1UT4y1J7xN"
+  },
+  "return": {
+    "path": "assets/covers/return.jpg",
+    "source": "https://i1.hdslb.com/bfs/archive/965c843093e19dab5347348dbd6b560508c0f7c7.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sy4y1k7cV"
+  },
+  "rubia": {
+    "path": "assets/covers/rubia.jpg",
+    "source": "https://i2.hdslb.com/bfs/archive/fc46c3b5d3cba34ebfd0275f88ae2ab2802b62e6.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jN411o7zS"
+  },
+  "pv-4.6": {
+    "path": "assets/covers/pv-4.6.jpg",
+    "source": "https://i2.hdslb.com/bfs/archive/1732dd829a805f7b22460778f532f11d8de1e2dd.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV14N411o7Ut"
+  },
+  "moon-halo": {
+    "path": "assets/covers/moon-halo.jpg",
+    "source": "https://i2.hdslb.com/bfs/archive/f664f5dc247a078350a5c65a34b84d15c7be1f14.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1b44y1q7Cb"
+  },
+  "elf-fantasy-song": {
+    "path": "assets/covers/elf-fantasy-song.jpg",
+    "source": "https://i0.hdslb.com/bfs/archive/585ff249268d570bb39711bd3059311ccfe7ea15.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ev411n7Ks"
+  },
+  "elysia-song": {
+    "path": "assets/covers/elysia-song.jpg",
+    "source": "https://i0.hdslb.com/bfs/archive/1bc3fef52aa2a670b0abcc356f9dcaf8850daca9.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dq4y1N7ry"
+  },
+  "pre-revelation": {
+    "path": "assets/covers/pre-revelation.jpg",
+    "source": "https://i0.hdslb.com/bfs/archive/ddaeef1a9ee736098bd88f800cb47f74e491cee2.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Mq4y1K79g"
+  },
+  "reburn-ii": {
+    "path": "assets/covers/reburn-ii.jpg",
+    "source": "https://i0.hdslb.com/bfs/archive/b2af167d5d13e6e85078edab5402b239f409839c.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yR4y1n7KL"
+  },
+  "blue-sky-promise": {
+    "path": "assets/covers/blue-sky-promise.jpg",
+    "source": "https://i0.hdslb.com/bfs/archive/c0dd1a499814db57481a01a58a82100b59821581.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yQ4y1q74w"
+  },
+  "concert-2021": {
+    "path": "assets/covers/concert-2021.jpg",
+    "source": "https://i1.hdslb.com/bfs/archive/d33e1a356464a93838b938e0f961576a2284e236.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV18r4y1C7xo"
+  },
+  "regression": {
+    "path": "assets/covers/regression.jpg",
+    "source": "https://i2.hdslb.com/bfs/archive/26dca8543c9841ebd17be1daa3903c43623fbedc.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bY411b7k9"
+  },
+  "newyear-2022": {
+    "path": "assets/covers/newyear-2022.jpg",
+    "source": "https://i0.hdslb.com/bfs/archive/68635cc38e2374bda62f451f3d7618feaadd1bdc.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1cF411W75Q"
+  },
+  "ddd": {
+    "path": "assets/covers/ddd.jpg",
+    "source": "https://i1.hdslb.com/bfs/archive/10bd6af428117a7b581075b13e31561189bcb419.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XR4y1K7SF"
+  },
+  "winter-memory": {
+    "path": "assets/covers/winter-memory.jpg",
+    "source": "https://i1.hdslb.com/bfs/archive/ab2341a87a96db6c704e20d8a993631ddafce181.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QP4y1c7K5"
+  },
+  "true": {
+    "path": "assets/covers/true.jpg",
+    "source": "https://i2.hdslb.com/bfs/archive/a87673b961d302042ecd9e73b1b99644a809a109.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fY4y1F7GL"
+  },
+  "pv-6.0": {
+    "path": "assets/covers/pv-6.0.jpg",
+    "source": "https://i0.hdslb.com/bfs/archive/763923e5bcd5d0792f76e81113d89b5e4b378a95.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Mg411k7U5"
+  },
+  "beloved-song": {
+    "path": "assets/covers/beloved-song.jpg",
+    "source": "https://i2.hdslb.com/bfs/archive/44730f613e47e4acc6dfd91bb0c6c973d56c15ff.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bB4y1L7qh"
+  },
+  "concert-2022": {
+    "path": "assets/covers/concert-2022.jpg",
+    "source": "https://i0.hdslb.com/bfs/archive/2602c295176028b21107281870be099b0ffc6c64.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ad4y1d7Kk"
+  },
+  "hamelin-origin": {
+    "path": "assets/covers/hamelin-origin.jpg",
+    "source": "https://i1.hdslb.com/bfs/archive/178f3b53a7b6d821bd83497bcda574fe481c101b.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nV4y1g7ti"
+  },
+  "reunion": {
+    "path": "assets/covers/reunion.jpg",
+    "source": "https://i0.hdslb.com/bfs/archive/29a4cf732bd3e9fb107784ef2e44e4a16961b66f.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1u8411p7UQ"
+  },
+  "crossing": {
+    "path": "assets/covers/crossing.jpg",
+    "source": "https://i0.hdslb.com/bfs/archive/94da57ada1adae9a29146de2d1ea6585818c757e.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1784y1p7vM"
+  },
+  "da-capo": {
+    "path": "assets/covers/da-capo.jpg",
+    "source": "https://i1.hdslb.com/bfs/archive/05133458ba400998f8b87532c46f781059c5c8d7.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Kj411g7Lu"
+  },
+  "documentary": {
+    "path": "assets/covers/documentary.jpg",
+    "source": "https://i1.hdslb.com/bfs/archive/1bb6b1e03f239acb74daa46ba5784200736bf19a.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1554y1u7J8"
+  },
+  "concert-2023": {
+    "path": "assets/covers/concert-2023.jpg",
+    "source": "https://i1.hdslb.com/bfs/archive/5527014c7df94de0e2259b9635a3a38b84f8a4f6.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1w94y1i7f1"
+  },
+  "pv-7.0": {
+    "path": "assets/covers/pv-7.0.jpg",
+    "source": "https://i1.hdslb.com/bfs/archive/2bdf4752c2b1ddf668b1d4af6162090841903908.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xu4y1z7Zw"
+  },
+  "pv-7.2": {
+    "path": "assets/covers/pv-7.2.jpg",
+    "source": "https://i2.hdslb.com/bfs/archive/6e00245974bc9f1ad2c1eaf566d5cba372e719ee.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vb4y157TW"
+  },
+  "pv-7.3": {
+    "path": "assets/covers/pv-7.3.jpg",
+    "source": "https://i2.hdslb.com/bfs/archive/64ee2b4527094e3bed4c91ef78b9f55b0f1163b4.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Xe411n7m5"
+  },
+  "travel-animation": {
+    "path": "assets/covers/travel-animation.jpg",
+    "source": "https://i1.hdslb.com/bfs/archive/334651055c8580931ff4abe51255ed154634c929.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV15y421Y7dk"
+  },
+  "before-departure-song": {
+    "path": "assets/covers/before-departure-song.jpg",
+    "source": "https://i2.hdslb.com/bfs/archive/f1e8902a055713d77e8268f4e8892a6df2290850.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1H7421N7M3"
+  },
+  "summer-memory": {
+    "path": "assets/covers/summer-memory.jpg",
+    "source": "https://i0.hdslb.com/bfs/archive/c7675481a947c46cbed1d33727f548b4f78528d2.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bT421k7kA"
+  },
+  "hsr-crossover-program": {
+    "path": "assets/covers/hsr-crossover-program.jpg",
+    "source": "https://i1.hdslb.com/bfs/archive/fd7e3f4c91332c9d82aae1e9b92308eda0bafe16.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zU1HYUENZ"
+  },
+  "pv-8.5": {
+    "path": "assets/covers/pv-8.5.jpg",
+    "source": "https://i1.hdslb.com/bfs/archive/c274ea144ea6fd827010415f5c51a5871b099e33.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bEWgzWEbt"
+  },
+  "elf-magic": {
+    "path": "assets/covers/elf-magic.jpg",
+    "source": "https://i0.hdslb.com/bfs/archive/de11261802a90740c3f07ffa96f431196a211d27.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SDpRzjEDu"
+  },
+  "pv-9.1": {
+    "path": "assets/covers/pv-9.1.jpg",
+    "source": "https://i0.hdslb.com/bfs/archive/ab9f4a3b34331d0b0d26da75d4cb9bc93e669f13.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pKe26sEPf"
+  },
+  "anniversary-10-program": {
+    "path": "assets/covers/anniversary-10-program.jpg",
+    "source": "https://i0.hdslb.com/bfs/archive/356bc25d93dde73f476e00205994980a0c6fd519.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1aLeb6sEC5"
+  },
+  "anniversary-10-fan": {
+    "path": "assets/covers/anniversary-10-fan.jpg",
+    "source": "https://i0.hdslb.com/bfs/archive/5dafb6162fc52433b184822ae4e689dd7ba7790a.jpg",
+    "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV15dhv66EHZ"
+  }
+}

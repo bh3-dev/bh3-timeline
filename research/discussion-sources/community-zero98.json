@@ -1,0 +1,113 @@
+{
+  "platform": "Bilibili",
+  "checkedAt": "2026-10-11T19:34:52+08:00",
+  "sourceHint": {
+    "articleId": 11455035
+  },
+  "comments": [
+    {
+      "id": "4628073725",
+      "userId": "752131",
+      "username": "辰夜执棋者",
+      "publishedAt": "2021-05-27T11:07:38+08:00",
+      "text": "又有什么用呢，只要打好国外市场，国内市场是不需要管的，流水低只是一时的，以后慢慢还能再拉回来，这就是米哈游的打算",
+      "likes": 20,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/read/cv11455035/#reply4628073725"
+    },
+    {
+      "id": "4628079254",
+      "userId": "7902676",
+      "username": "北方的小北方酱",
+      "publishedAt": "2021-05-27T11:11:04+08:00",
+      "text": "那的确，反正我是没放弃过冲mhy",
+      "likes": 9,
+      "replyTo": "4628073725",
+      "sourceURL": "https://www.bilibili.com/read/cv11455035/#reply4628079254"
+    },
+    {
+      "id": "4756464084",
+      "userId": "178692438",
+      "username": "潜尘隐",
+      "publishedAt": "2021-06-19T19:56:20+08:00",
+      "text": "他们怎么样现在和我没关系了，我能做的就是让他在我这里赚不到一分钱",
+      "likes": 5,
+      "replyTo": "4628073725",
+      "sourceURL": "https://www.bilibili.com/read/cv11455035/#reply4756464084"
+    },
+    {
+      "id": "120327293360",
+      "userId": "440529441",
+      "username": "因为太美被罚10块",
+      "publishedAt": "2022-07-11T13:00:39+08:00",
+      "text": "当时0.98事件是开池第一天在概率表格里玫瑰姬子后面写着0.98%的概率出，然后有十万氪大佬整理了几个抽SSS的数据感觉单发出货率不到0.98%就发出来了，然后米哈游发公告解释说0.98%是获得姬子的概率包含保底，也就是说问题主要是出在米哈游的运营身上，他们把“0.98%概率出”和“0.98%概率（含保底）出”给搞混了，实际上还上升不到米哈游故意恶心骗钱的地步，现在原神也是有两个数据，一个是“0.6%概率出五星”一个是“1.6%概率（含保底）出五星”。",
+      "likes": 14,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/read/cv11455035/#reply120327293360"
+    },
+    {
+      "id": "141592148720",
+      "userId": "288577633",
+      "username": "卡缇厨组长",
+      "publishedAt": "2022-12-13T09:28:33+08:00",
+      "text": "不是官方贴吧对线发了个图说0.98是角色卡+碎片总共的概率吗？为什么和保底有关系",
+      "likes": 5,
+      "replyTo": "120327293360",
+      "sourceURL": "https://www.bilibili.com/read/cv11455035/#reply141592148720"
+    },
+    {
+      "id": "184570402544",
+      "userId": "2092910265",
+      "username": "陌陌章鱼",
+      "publishedAt": "2023-09-04T23:39:54+08:00",
+      "text": "洗你就硬洗，保底是几个版本之后的事了，0.98的时候哪来的保底[OK]",
+      "likes": 20,
+      "replyTo": "120327293360",
+      "sourceURL": "https://www.bilibili.com/read/cv11455035/#reply184570402544"
+    },
+    {
+      "id": "258192898448",
+      "userId": "62799543",
+      "username": "BeastX咕哒子",
+      "publishedAt": "2025-03-19T23:15:11+08:00",
+      "text": "那时候有保底？玩呢？你知道批三是什么时候出保底机制的",
+      "likes": 5,
+      "replyTo": "120327293360",
+      "sourceURL": "https://www.bilibili.com/read/cv11455035/#reply258192898448"
+    },
+    {
+      "id": "240788467856",
+      "userId": "6523435",
+      "username": "吾先声",
+      "publishedAt": "2024-08-29T15:52:21+08:00",
+      "text": "现在回头看，也太踏马乐了",
+      "likes": 7,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/read/cv11455035/#reply240788467856"
+    },
+    {
+      "id": "240815417297",
+      "userId": "10714550",
+      "username": "mkeeeoin-",
+      "publishedAt": "2024-08-29T21:45:26+08:00",
+      "text": "笑死了 原神抽卡那个明光第一时间想到0.98 真的乐",
+      "likes": 0,
+      "replyTo": "240788467856",
+      "sourceURL": "https://www.bilibili.com/read/cv11455035/#reply240815417297"
+    }
+  ],
+  "title": "崩坏三黑历史①：“零点酒吧事件”",
+  "articleId": 11455035,
+  "author": "北方的小北方酱",
+  "authorId": "7902676",
+  "url": "https://www.bilibili.com/read/cv11455035/",
+  "metadataURL": "https://api.bilibili.com/x/article/viewinfo?id=11455035",
+  "commentAPI": "https://api.bilibili.com/x/v2/reply?type=12&oid=11455035&sort=2&pn=1",
+  "page": {
+    "num": 1,
+    "size": 20,
+    "count": 31,
+    "acount": 31
+  },
+  "status": "ok"
+}

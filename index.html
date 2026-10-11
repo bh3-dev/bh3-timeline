@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#101a32" />
+    <meta name="description" content="从2016年9月预登录到2026年十周年，重温崩坏3的国服版本、动画短片与社区记忆。" />
+    <title>崩坏3 · 十年时光档案</title>
+    <link rel="icon" href="assets/favicon.ico" type="image/png" />
+    <link rel="preload" href="assets/anniversary-official.png" as="image" />
+    <link rel="stylesheet" href="styles.css" />
+    <script type="module" src="src/app.js"></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="崩坏3十年时光档案首页">
+        <img src="assets/logo-official.png" alt="崩坏3" width="122" height="63" />
+        <span class="brand-divider"></span><span class="brand-title">十年时光档案<small>THE DECADE ARCHIVE</small></span>
+      </a>
+      <nav class="main-nav" aria-label="主要导航">
+        <a href="#archive" class="active" data-nav-type="all">时光档案</a>
+        <a href="#archive" data-nav-type="video">影像回忆</a>
+        <a href="#archive" data-nav-type="community">社区记忆</a>
+        <button class="nav-about" data-about>资料说明 <span>↗</span></button>
+      </nav>
+      <a class="official-link" href="https://bh3.mihoyo.com/main" target="_blank" rel="noopener noreferrer">前往官网 <span>↗</span></a>
+    </header>
+
+    <main>
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-art" role="img" aria-label="崩坏3官网十周年纪念主视觉，女武神们在庆典中相聚"></div>
+        <div class="hero-shade"></div>
+        <div class="hero-grid" aria-hidden="true"></div>
+        <div class="hero-inner">
+          <div class="anniversary-tag"><span class="diamond"></span> HONKAI IMPACT 3RD <i></i> 10TH ANNIVERSARY</div>
+          <p class="hero-eyebrow">2016.09 <span>——</span> 2026.10</p>
+          <h1 id="hero-title">十年，<br />仍为<span>美好</span>而战。</h1>
+          <p class="hero-description">从第一次登上休伯利安，到每一次奔赴明天。<br />那些版本、故事与回忆，在这里再次相遇。</p>
+          <div class="hero-actions">
+            <a href="#archive" class="button button-primary">开启十年回忆 <span>↓</span></a>
+            <a href="#archive" class="button button-glass" id="anniversary-jump">直达十周年 <span>↗</span></a>
+          </div>
+          <div class="hero-data" aria-label="收录资料数量">
+            <span><b id="version-count">82</b><small>国服版本</small></span>
+            <span><b id="video-count">56</b><small>精选影像</small></span>
+            <span><b id="community-count">27</b><small>社区节点</small></span>
+          </div>
+        </div>
+        <div class="hero-caption"><span>相遇，是我们共同的纪念。</span><small>官网十周年纪念主视觉 / © miHoYo</small></div>
+        <div class="hero-index" aria-hidden="true">01 / MEMORY ARCHIVE <span>SCROLL TO EXPLORE ↓</span></div>
+      </section>
+
+      <section class="archive" id="archive" aria-labelledby="archive-title">
+        <div class="section-heading">
+          <div><p class="section-kicker">OUR JOURNEY, TOGETHER</p><h2 id="archive-title">把回忆，连成时间。</h2></div>
+          <div class="archive-range"><span class="status-dot"></span>中国大陆国服<small id="data-cutoff">资料截至 2026.10.11</small></div>
+        </div>
+
+        <div class="archive-toolbar">
+          <div class="type-tabs" role="group" aria-label="按内容分类">
+            <button class="type-tab active" data-type="all" aria-pressed="true">全部记忆 <small id="total-count">168</small></button>
+            <button class="type-tab" data-type="version" aria-pressed="false">版本档案</button>
+            <button class="type-tab" data-type="video" aria-pressed="false">影像回忆</button>
+            <button class="type-tab" data-type="community" aria-pressed="false">社区记忆</button>
+          </div>
+          <div class="search-box"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input type="search" id="search" placeholder="搜索版本、角色或回忆…" aria-label="搜索全部年份的版本、角色或回忆" autocomplete="off" /><kbd>/</kbd></div>
+        </div>
+
+        <div class="archive-layout">
+          <aside class="year-sidebar" aria-label="年份导航">
+            <div class="sidebar-label">时间坐标 <span>YEAR INDEX</span></div>
+            <nav id="year-nav"></nav>
+          </aside>
+          <div class="timeline-panel">
+            <div class="timeline-heading"><div><h3 id="timeline-year">2016<span>初次启航</span></h3><p id="timeline-caption">从九月的预登录开始，故事在这里写下第一行。</p></div><label class="sort-control">时间顺序 <select id="sort" aria-label="时间排序"><option value="asc">从早到晚 ↓</option><option value="desc">从近到远 ↑</option></select></label></div>
+            <div class="result-summary" aria-live="polite" id="result-summary">正在读取时光档案…</div>
+            <div id="timeline" class="timeline" aria-busy="true"><div class="loading-state"><span class="loading-spinner"></span>正在载入回忆…</div></div>
+            <div id="year-pagination" class="year-pagination"></div>
+            <div class="archive-note"><span>ⓘ</span><p>版本日期为国服更新日；视频为原稿发布日期；社区记忆保留事件、用例或时期的原始日期说明。<button data-about>了解资料口径 ↗</button></p></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="closing"><div class="closing-mark" aria-hidden="true">Ⅹ</div><p>为世界上所有的美好而战</p><span>THE STORY GOES ON.</span><a href="#archive">继续翻阅时光 <span>↑</span></a></section>
+    </main>
+
+    <footer class="site-footer"><div><b>崩坏3 · 十年时光档案</b><p>玩家整理的纪念档案 · 非官方网站</p></div><p>游戏与官方图片版权归 miHoYo 所有<br />各视频作品版权归原作者所有</p><button data-about>资料来源与收录说明 ↗</button></footer>
+    <button class="back-top" id="back-top" aria-label="回到顶部" hidden>↑</button>
+
+    <dialog id="detail-dialog" class="detail-dialog" aria-labelledby="detail-title"><div class="dialog-topbar"><span>MEMORY RECORD / 时光档案</span><button class="close-dialog" aria-label="关闭详情">×</button></div><div id="detail-content"></div></dialog>
+    <dialog id="about-dialog" class="about-dialog" aria-labelledby="about-title"><div class="dialog-topbar"><span>ARCHIVE NOTES / 资料说明</span><button class="close-dialog" aria-label="关闭资料说明">×</button></div><div class="about-body"><p class="section-kicker">EVERY MEMORY HAS A SOURCE</p><h2 id="about-title">关于这份时光档案</h2><p>这是一份玩家整理的崩坏3十周年纪念档案，时间从 2016 年 9 月延伸至 <b id="about-cutoff">2026 年 10 月 11 日</b>，统一使用北京时间和中国大陆国服版本日期。资料来自项目 research 目录，每个节点都保留了可追溯的来源。</p><div class="about-section"><h3>版本与角色</h3><p>收录 1.0—9.1 共 82 个主要版本。更新日与补给、活动开放日可能不同；装甲、增幅、人偶、协同者和活动限定角色分开注明。新装甲不等于新人物，活动与玩法为精选记录。</p></div><div class="about-section"><h3>预登录的时间</h3><p>2016 年 9 月的节点表示“预登录进行中”。旧官网消息标注为 2016 年 8 月 9 日，因此九月不是预登录首日。安卓不删档测试、iOS 首发与全平台公测各自展示。</p></div><div class="about-section"><h3>视频与话题</h3><p>56 条视频与 13 组影像话题为编辑精选。播放量是资料采集时的累计快照，不是发布当年的播放量或年度热榜；话题最早选中视频的发布日期也不是话题起源。</p></div><div class="about-section"><h3>社区记忆与证据</h3><p>27 个节点和 12 个梗词条保留日期口径及证据说明。月份、时期不补成精确事件日，无法核验的首创时间保持未知。争议条目记录当时讨论，不代表社区总体态度；未补证的候选项不混入主时间轴。</p></div><div class="about-section"><h3>社区回声与留言日期</h3><p>每个节点摘录 3 位不同用户的真实署名留言，共 504 段，保留平台、日期与原帖链接。同期讨论和后来的回忆各按真实留言时间标注；节选是个人观点，不代表社区共识。早期公告与部分梗原帖没有可读留言时，详情会说明所用的关联影像或俚语讨论来源。</p></div><div class="about-links"><a href="research/README.md" target="_blank" rel="noopener">版本研究说明 ↗</a><a href="research/bilibili.md" target="_blank" rel="noopener">影像研究说明 ↗</a><a href="research/community.md" target="_blank" rel="noopener">社区研究说明 ↗</a><a href="research/discussions.md" target="_blank" rel="noopener">留言采集说明 ↗</a></div><button class="button button-dark" id="open-glossary">查看社区梗词典 <span>→</span></button><div id="glossary" hidden></div></div></dialog>
+    <div id="toast" class="toast" role="status" hidden></div>
+    <noscript><p class="noscript">请启用 JavaScript 以浏览时间轴。原始资料仍可在 <a href="research/README.md">research 文档</a>中阅读。</p></noscript>
+  </body>
+</html>

@@ -1,0 +1,605 @@
+{
+  "cn-1.0": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=1.0PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-1.1": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=1.1PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1Ms411W7As",
+    "aid": 7108901,
+    "wikitext": "{{面包屑|官方宣传PV}}\n=== 视频 ===\n<!---1.1PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//www.bilibili.com/blackboard/newplayer.html?aid=7108901&bvid=BV1Ms411W7As&cid=11593212&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2681?cate=173 官网1.1版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-1.2": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=1.2PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1Fs411Y7Tn",
+    "aid": 7788017,
+    "wikitext": "{{面包屑|官方宣传PV}}\n=== 视频 ===\n<!---1.2PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//www.bilibili.com/blackboard/newplayer.html?aid=7788017&bvid=BV1Fs411Y7Tn&cid=12769615&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2694?cate=173 官网1.2版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-1.3": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=1.3PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1bx411y7nE",
+    "aid": 8729609,
+    "wikitext": "{{面包屑|官方宣传PV}}\n=== 视频 ===\n<!---1.3PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//www.bilibili.com/blackboard/newplayer.html?aid=8729609&bvid=BV1bx411y7nE&cid=14384735&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2697?cate=173 官网1.3版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-1.4": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=1.4PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1Ex411Q7aD",
+    "aid": 9536452,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---1.4PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=9536452&bvid=BV1Ex411Q7aD&cid=15940054&page=1&crossDomain=0&autoplay=0&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2706?cate=173 官网1.4版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-1.5": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=1.5PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1ix411v7Kx",
+    "aid": 10701466,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---1.5PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=10701466&bvid=BV1ix411v7Kx&cid=17658600&page=1&crossDomain=0&autoplay=0&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2715?cate=173 官网1.5版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-1.6": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=1.6PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1Dx411B7GL",
+    "aid": 11854552,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---1.6PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=11854552&bvid=BV1Dx411B7GL&cid=29982088&page=1&crossDomain=0&autoplay=0&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2720?cate=173 官网1.6版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-1.7": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=1.7PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1ax411J7bk",
+    "aid": 13525694,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---1.7PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=13525694&bvid=BV1ax411J7bk&cid=30615810&page=1&crossDomain=0&autoplay=0&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2729?cate=173 官网1.7版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-1.8": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=1.8PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV17x411V7sx",
+    "aid": 14931038,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---1.8PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=14931038&bvid=BV17x411V7sx&cid=24327873&page=1&crossDomain=0&autoplay=0&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2738?cate=173 官网1.8版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-1.9": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=1.9PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1hx411L7Ci",
+    "aid": 16414492,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---1.9PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=16414492&bvid=BV1hx411L7Ci&cid=26779058&page=1&crossDomain=0&autoplay=0&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2745?cate=173 官网1.9版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-2.0": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=2.0PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV16W411B7eB",
+    "aid": 17996168,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---2.0PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=17996168&bvid=BV16W411B7eB&cid=35232354&page=1&crossDomain=0&autoplay=0&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2752?cate=173 官网2.0版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-2.1": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=2.1PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1vW411H7zJ",
+    "aid": 19054324,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---2.1PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=19054324&bvid=BV1vW411H7zJ&cid=31083190&page=1&crossDomain=0&autoplay=0&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2759?cate=173 官网2.1版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-2.2": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=2.2PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV16W411g7QQ",
+    "aid": 21117913,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---2.2PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=21117913&bvid=BV16W411g7QQ&cid=35203045&page=1&crossDomain=0&autoplay=0&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2764?cate=173 官网2.2版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-2.3": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=2.3PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1dW41137Jc",
+    "aid": 22963156,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---2.3PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=22963156&bvid=BV1dW41137Jc&cid=38170780&page=1&crossDomain=0&autoplay=0&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2772?cate=173 官网2.3版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-2.4": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=2.4PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1KW411A7Zr",
+    "aid": 24879939,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---2.4PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=24879939&bvid=BV1KW411A7Zr&cid=42737472&page=1&crossDomain=0&autoplay=0&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2778?cate=173 官网2.4版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-2.5": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=2.5PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1Ns411A7kG",
+    "aid": 27836633,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---2.5PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=27836633&bvid=BV1Ns411A7kG&cid=48063896&page=1&crossDomain=0&autoplay=0&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2785?cate=173 官网2.5版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-2.6": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=2.6PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1xW411d7BA",
+    "aid": 31258130,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---2.6PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=31258130&bvid=BV1xW411d7BA&cid=54618152&page=1&crossDomain=0&autoplay=0&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2793?cate=173 官网2.6版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-2.7": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=2.7PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1Ub411P71c",
+    "aid": 34614830,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---2.7PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=34614830&bvid=BV1Ub411P71c&cid=60642983&page=1&crossDomain=0&autoplay=1&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2801?cate=173 官网2.7版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-2.8": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=2.8PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1rt411S7zV",
+    "aid": 37624738,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---2.8PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=37624738&bvid=BV1rt411S7zV&cid=66149482&page=1&crossDomain=0&autoplay=1&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2810?cate=173 官网2.8版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-2.9": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=2.9PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV13t411a7rA",
+    "aid": 41054972,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---2.9PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=41054972&bvid=BV13t411a7rA&cid=72142784&page=1&crossDomain=0&autoplay=0&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2821?cate=173 官网2.9版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-3.0": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=3.0PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1Sb411q7w2",
+    "aid": 45606682,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---3.0PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=45606682&bvid=BV1Sb411q7w2&cid=79855253&page=1&crossDomain=0&autoplay=0&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2830?cate=173 官网3.0版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-3.1": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=3.1PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV17b411L7cC",
+    "aid": 49791547,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---3.1PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=49791547&bvid=BV17b411L7cC&cid=87178875&page=1&crossDomain=0&autoplay=0&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2837?cate=173 官网3.1版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-3.2": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=3.2PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1N4411p76u",
+    "aid": 54147704,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---3.2PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=54147704&bvid=BV1N4411p76u&cid=94724816&page=1&crossDomain=0&autoplay=0&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2846?cate=173 官网3.2版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-3.3": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=3.3PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1Gt411L7kn",
+    "aid": 58910157,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---3.3PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=58910157&bvid=BV1Gt411L7kn&cid=102699356&page=1&crossDomain=0&autoplay=0&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2857?cate=173 官网3.3版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-3.4": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=3.4PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1p4411R7cY",
+    "aid": 65000577,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---3.4PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=65000577&bvid=BV1p4411R7cY&cid=112931530&page=1&crossDomain=0&autoplay=0&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2871?cate=173 官网3.4版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-3.5": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=3.5PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1zE411Z7ZW",
+    "aid": 71020580,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---3.5PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=71020580&bvid=BV1zE411Z7ZW&cid=123054365&page=1&crossDomain=0&autoplay=0&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2880?cate=173 官网3.5版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-3.6": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=3.6PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1wJ411d7YY",
+    "aid": 76585875,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---3.6PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=76585875&bvid=BV1wJ411d7YY&cid=131002115&page=1&crossDomain=0&autoplay=0&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/3674?cate=173 官网3.6版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-3.7": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=3.7PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1mJ411H7VM",
+    "aid": 82876721,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---3.7PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=82876721&bvid=BV1mJ411H7VM&cid=141809548&page=1&crossDomain=0&autoplay=0&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/6124?cate=173 官网3.7版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-3.8": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=3.8PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1yE411n792",
+    "aid": 92363930,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---3.8PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=92363930&bvid=BV1yE411n792&cid=157707193&page=1&crossDomain=0&autoplay=0&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/6341?cate=173 官网3.8版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-3.9": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=3.9PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1Tk4y1R7PE",
+    "aid": 752717557,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---3.9PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//www.bilibili.com/blackboard/newplayer.html?aid=752717557&bvid=BV1Tk4y1R7PE&cid=176549830&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n<!--[# 官网3.9版本更新公告] -->\n\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-4.0": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=4.0PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV17Q4y1P7kX",
+    "aid": 710856410,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---4.0PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//www.bilibili.com/blackboard/newplayer.html?aid=710856410&bvid=BV17Q4y1P7kX&cid=193887279&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n\n\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n<!--[# 官网4.0版本更新公告] -->\n\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "cn-4.1": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=4.1PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1mf4y117Uz",
+    "aid": 286236367,
+    "wikitext": "{{面包屑|官方宣传PV}}\n\n=== 视频 ===\n<bvideo class=\"video-player\" id=\"2233\" src=\"//www.bilibili.com/blackboard/newplayer.html?aid=286236367&bvid=BV1mf4y117Uz&cid=208387573&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n\n{{:官方宣传PV}}"
+  },
+  "cn-4.2": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=4.2PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1354y1i7Wd",
+    "aid": 841641835,
+    "wikitext": "{{面包屑|官方宣传PV}}\n\n=== 视频 ===\n<bvideo class=\"video-player\" id=\"2233\" src=\"//www.bilibili.com/blackboard/newplayer.html?aid=841641835&bvid=BV1354y1i7Wd&cid=224476470&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n{{:官方宣传PV}}"
+  },
+  "cn-4.3": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=4.3PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV12V411m77f",
+    "aid": 414672316,
+    "wikitext": "{{面包屑|官方宣传PV}}\n\n=== 视频 ===\n<bvideo class=\"video-player\" id=\"2233\" src=\"//www.bilibili.com/blackboard/newplayer.html?aid=414672316&bvid=BV12V411m77f&cid=236540614&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n{{:官方宣传PV}}"
+  },
+  "cn-4.4": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=4.4PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1dA411j7kE",
+    "aid": 330292607,
+    "wikitext": "{{面包屑|官方宣传PV}}\n\n=== 视频 ===\n<bvideo class=\"video-player\" id=\"2233\" src=\"//www.bilibili.com/blackboard/newplayer.html?aid=330292607&bvid=BV1dA411j7kE&cid=255845306&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n{{:官方宣传PV}}"
+  },
+  "cn-4.5": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=4.5PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1Mv411t7G8",
+    "aid": 245804950,
+    "wikitext": "{{面包屑|官方宣传PV}}\n\n=== 视频 ===\n<bvideo class=\"video-player\" id=\"2233\" src=\"//www.bilibili.com/blackboard/newplayer.html?aid=245804950&bvid=BV1Mv411t7G8&cid=269936935&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n{{:官方宣传PV}}"
+  },
+  "cn-4.6": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=4.6PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV14N411o7Ut",
+    "aid": 501470602,
+    "wikitext": "{{面包屑|官方宣传PV}}\n\n=== 视频 ===\n<bvideo class=\"video-player\" id=\"2233\" src=\"//www.bilibili.com/blackboard/newplayer.html?aid=501470602&bvid=BV14N411o7Ut&cid=289897240&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n{{:官方宣传PV}}"
+  },
+  "cn-4.7": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=4.7PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1cK4y1S7sU",
+    "aid": 929734872,
+    "wikitext": "{{面包屑|官方宣传PV}}\n\n=== 视频 ===\n<bvideo class=\"video-player\" id=\"2233\" src=\"//www.bilibili.com/blackboard/newplayer.html?aid=929734872&bvid=BV1cK4y1S7sU&cid=312429608&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n{{:官方宣传PV}}"
+  },
+  "cn-4.8": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=4.8PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1V44y1b7cf",
+    "aid": 975516284,
+    "wikitext": "{{面包屑|官方宣传PV}}\n\n=== 视频 ===\n<bvideo class=\"video-player\" id=\"2233\" src=\"//www.bilibili.com/blackboard/newplayer.html?aid=975516284&bvid=BV1V44y1b7cf&cid=410312577&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n{{:官方宣传PV}}"
+  },
+  "cn-4.9": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=4.9PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1Xq4y1j7Dj",
+    "aid": 545966509,
+    "wikitext": "{{面包屑|官方宣传PV}}\n\n=== 视频 ===\n<bvideo class=\"video-player\" id=\"2233\" src=\"//www.bilibili.com/blackboard/newplayer.html?aid=545966509&bvid=BV1Xq4y1j7Dj&cid=349000577&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n{{:官方宣传PV}}"
+  },
+  "cn-5.0": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=5.0PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV14X4y1w7P6",
+    "aid": 716563532,
+    "wikitext": "{{面包屑|官方宣传PV}}\n\n=== 视频 ===\n<bvideo class=\"video-player\" id=\"2233\" src=\"//www.bilibili.com/blackboard/newplayer.html?aid=716563532&bvid=BV14X4y1w7P6&cid=367115163&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n{{:官方宣传PV}}"
+  },
+  "cn-5.1": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=5.1PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1iP4y1W7Kk",
+    "aid": 889754226,
+    "wikitext": "{{面包屑|官方宣传PV}}\n\n=== 视频 ===\n<bvideo class=\"video-player\" id=\"2233\" src=\"//www.bilibili.com/blackboard/newplayer.html?aid=889754226&bvid=BV1iP4y1W7Kk&cid=388853003&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n{{:官方宣传PV}}"
+  },
+  "cn-5.2": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=5.2PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1V44y1b7cf",
+    "aid": 975516284,
+    "wikitext": "{{面包屑|官方宣传PV}}\n\n=== 《崩坏3》5.2版本「无限命途」宣传PV ===\n<bvideo class=\"video-player\" id=\"2233\" src=\"//www.bilibili.com/blackboard/newplayer.html?aid=975516284&bvid=BV1V44y1b7cf&cid=410312577&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n{{:官方宣传PV}}"
+  },
+  "cn-5.3": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=5.3PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1wq4y1R7tj",
+    "aid": 591292549,
+    "wikitext": "{{面包屑|官方宣传PV}}\n\n=== 《崩坏3》5.3版本「黄昏后书」宣传PV ===\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=591292549&bvid=BV1wq4y1R7tj&cid=433471265&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n{{:官方宣传PV}}"
+  },
+  "cn-5.4": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=5.4PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1HQ4y1e7ea",
+    "aid": 719669230,
+    "wikitext": "{{面包屑|官方宣传PV}}\n\n=== 《崩坏3》5.4版本「彼岸银翼」宣传PV ===\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=719669230&bvid=BV1HQ4y1e7ea&cid=458438012&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n{{:官方宣传PV}}"
+  },
+  "cn-5.5": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=5.5PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1qu411m7N2",
+    "aid": 508276932,
+    "wikitext": "{{面包屑|官方宣传PV}}\n\n=== 《崩坏3》5.5版本「天元启星」宣传PV ===\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=508276932&bvid=BV1qu411m7N2&cid=491698466&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n{{:官方宣传PV}}"
+  },
+  "cn-5.6": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=5.6PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1KL4y137Jb",
+    "aid": 851924625,
+    "wikitext": "{{面包屑|官方宣传PV}}\n\n=== 《崩坏3》5.6版本「往世空梦」宣传PV ===\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=851924625&bvid=BV1KL4y137Jb&cid=550806395&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n{{:官方宣传PV}}"
+  },
+  "cn-5.7": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=5.7PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1nY411j74v",
+    "aid": 255665805,
+    "wikitext": "{{面包屑|官方宣传PV}}\n\n=== 《崩坏3》5.7版本「深罪长歌」宣传PV ===\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=255665805&bvid=BV1nY411j74v&cid=576629494&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n{{:官方宣传PV}}"
+  },
+  "cn-5.8": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=5.8PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1sP4y1F7iQ",
+    "aid": 896767995,
+    "wikitext": "{{面包屑|官方宣传PV}}\n\n=== 《崩坏3》5.8版本「繁星绘卷」宣传PV ===\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=896767995&bvid=BV1sP4y1F7iQ&cid=731996621&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n{{:官方宣传PV}}"
+  },
+  "cn-5.9": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=5.9PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1Ra411X7Hr",
+    "aid": 258141597,
+    "wikitext": "{{面包屑|官方宣传PV}}\n\n=== 《崩坏3》5.9版本「螺旋长宴」宣传PV ===\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=258141597&bvid=BV1Ra411X7Hr&cid=768181355&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n{{:官方宣传PV}}"
+  },
+  "cn-6.0": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=6.0PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1Mg411k7U5",
+    "aid": 514331399,
+    "wikitext": "{{面包屑|官方宣传PV}}\n\n=== 《崩坏3》6.0版本「光辉矢愿」宣传PV ===\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=514331399&bvid=BV1Mg411k7U5&cid=802478725&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n{{:官方宣传PV}}"
+  },
+  "cn-6.1": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=6.1PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1dd4y1B7Xb",
+    "aid": 388305169,
+    "wikitext": "{{面包屑|官方宣传PV}}\n\n=== 《崩坏3》6.1版本「月痕侠影」宣传PV ===\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=388305169&bvid=BV1dd4y1B7Xb&cid=840886515&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n《崩坏3》6.1版本「月痕侠影」即将开启！全新S级角色李素裳「玉骑士·月痕」登场！<br>\n还有主线第32章、六周年主题活动「天穹夜行录」、多重周年福利等重磅更新来袭，敬请期待！<br>\n<br>\n配音演员：<br>\n琪亚娜——陶典<br>\n雷电芽衣——菊花花<br>\n普罗米修斯——hanser<br>\n李素裳——陈婷婷<br>\n灰蛇——刘以嘉<br>\n凯文——秦且歌<br>\n{{:官方宣传PV}}"
+  },
+  "cn-6.2": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=6.2PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1vY411f7qz",
+    "aid": 262174757,
+    "wikitext": "{{面包屑|官方宣传PV}}\n\n=== 《崩坏3》6.2版本「时帆归羽」宣传PV ===\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=262174757&bvid=BV1vY411f7qz&cid=882187809&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n《崩坏3》6.2版本「时帆归羽」即将开启，全新SP角色爱衣·休伯利安Λ「时帆旅人」登场！<br>\n还有主线33章、「崩坏拯救日志」活动等重磅更新来袭，敬请期待！<br>\n<br>\n配音演员：<br>\n爱衣·休伯利安Λ——王雅欣<br>\n羽兔——浮梦若薇<br>\n{{:官方宣传PV}}"
+  },
+  "cn-6.3": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=6.3PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV12g411H7sC",
+    "aid": 518453517,
+    "wikitext": "{{面包屑|官方宣传PV}}\n\n=== 《崩坏3》6.3版本「真理交响」宣传PV ===\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=518453517&bvid=BV12g411H7sC&cid=918902366&page=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\" portrait_full_screen=\"true\" hq=\"true\" height=\"100%\"width=\"100%\"> </bvideo>\n\n《崩坏3》6.3版本「真理交响」即将开启，全新S级角色布洛妮娅·扎伊切克「真理之律者」登场！<br>\n还有主线34章、「喧闹假日交响曲 𝄆」活动等重磅更新来袭，敬请期待！<br>\n\n配音演员：<br>\n布洛妮娅·扎伊切克——hanser<br>\n齐格飞·卡斯兰娜——彭博<br>\n灰蛇——刘以嘉<br>\n{{:官方宣传PV}}"
+  },
+  "cn-6.4": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=6.4PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-6.5": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=6.5PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-6.6": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=6.6PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-6.7": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=6.7PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-6.8": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=6.8PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-6.9": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=6.9PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-7.0": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=7.0PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-7.1": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=7.1PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-7.2": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=7.2PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-7.3": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=7.3PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-7.4": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=7.4PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-7.5": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=7.5PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-7.6": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=7.6PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-7.7": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=7.7PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-7.8": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=7.8PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-7.9": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=7.9PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-8.0": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=8.0PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-8.1": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=8.1PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-8.2": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=8.2PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-8.3": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=8.3PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-8.4": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=8.4PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-8.5": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=8.5PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-8.6": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=8.6PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-8.7": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=8.7PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-8.8": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=8.8PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-8.9": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=8.9PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-9.0": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=9.0PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  },
+  "cn-9.1": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=9.1PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": null,
+    "aid": null,
+    "wikitext": "",
+    "error": "The page you specified doesn't exist."
+  }
+}

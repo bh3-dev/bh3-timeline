@@ -1,0 +1,126 @@
+{
+  "platform": "Bilibili",
+  "checkedAt": "2026-10-11T19:18:33+08:00",
+  "sourceHint": {
+    "bvid": "BV1bB4y1L7qh",
+    "aid": 602098661
+  },
+  "comments": [
+    {
+      "id": "125968368832",
+      "userId": "11253297",
+      "username": "多多poi丶",
+      "publishedAt": "2022-08-16T19:53:07+08:00",
+      "text": "太好听了[tv_大哭]",
+      "likes": 25050,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV1bB4y1L7qh/#reply125968368832"
+    },
+    {
+      "id": "125973793296",
+      "userId": "14897804",
+      "username": "宴宁ccccc",
+      "publishedAt": "2022-08-16T20:27:56+08:00",
+      "text": "呜呜呜爱你[保卫萝卜_哭哭][保卫萝卜_哭哭][保卫萝卜_哭哭]",
+      "likes": 1436,
+      "replyTo": "125968368832",
+      "sourceURL": "https://www.bilibili.com/video/BV1bB4y1L7qh/#reply125973793296"
+    },
+    {
+      "id": "125974115136",
+      "userId": "503523785",
+      "username": "时光四夕",
+      "publishedAt": "2022-08-16T20:30:27+08:00",
+      "text": "回复 @宴宁ccccc :包包[大哭]",
+      "likes": 118,
+      "replyTo": "125973793296",
+      "sourceURL": "https://www.bilibili.com/video/BV1bB4y1L7qh/#reply125974115136"
+    },
+    {
+      "id": "125956229712",
+      "userId": "1589613",
+      "username": "bananaMace",
+      "publishedAt": "2022-08-16T18:34:35+08:00",
+      "text": "太美了[tv_大哭]",
+      "likes": 25170,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV1bB4y1L7qh/#reply125956229712"
+    },
+    {
+      "id": "125956629120",
+      "userId": "49876030",
+      "username": "噬魂のゼロ心烁",
+      "publishedAt": "2022-08-16T18:37:38+08:00",
+      "text": "飞扑[热词系列_大师球]捉马老师[喜欢][给心心][打call]",
+      "likes": 90,
+      "replyTo": "125956229712",
+      "sourceURL": "https://www.bilibili.com/video/BV1bB4y1L7qh/#reply125956629120"
+    },
+    {
+      "id": "125956959552",
+      "userId": "442793222",
+      "username": "钟巴ccccc",
+      "publishedAt": "2022-08-16T18:39:32+08:00",
+      "text": "马老师我是你的粉丝啊（飞扑）",
+      "likes": 149,
+      "replyTo": "125956229712",
+      "sourceURL": "https://www.bilibili.com/video/BV1bB4y1L7qh/#reply125956959552"
+    },
+    {
+      "id": "125957195296",
+      "userId": "397223567",
+      "username": "星羽千辰official",
+      "publishedAt": "2022-08-16T18:41:08+08:00",
+      "text": "马老师！我是你的粉丝啊！（飞扑！）",
+      "likes": 48,
+      "replyTo": "125956229712",
+      "sourceURL": "https://www.bilibili.com/video/BV1bB4y1L7qh/#reply125957195296"
+    },
+    {
+      "id": "125956760080",
+      "userId": "383003362",
+      "username": "作曲徐鲤",
+      "publishedAt": "2022-08-16T18:37:35+08:00",
+      "text": "B站的小伙伴大家好，我是徐鲤。第一次创作同人曲，听说这就是“整活”[OK] 这次合作非常愉快，B站真的是藏龙卧虎[抱拳]，和各位UP主的隔空合作惊喜满满，对我来说是一次非常有趣难忘的经历[支持]",
+      "likes": 24120,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV1bB4y1L7qh/#reply125956760080"
+    },
+    {
+      "id": "125964827248",
+      "userId": "14897804",
+      "username": "宴宁ccccc",
+      "publishedAt": "2022-08-16T19:29:48+08:00",
+      "text": "老师写的歌真好听！！！",
+      "likes": 1143,
+      "replyTo": "125956760080",
+      "sourceURL": "https://www.bilibili.com/video/BV1bB4y1L7qh/#reply125964827248"
+    },
+    {
+      "id": "125966056016",
+      "userId": "383003362",
+      "username": "作曲徐鲤",
+      "publishedAt": "2022-08-16T19:38:23+08:00",
+      "text": "回复 @宴宁ccccc :唱的超甜！[支持]",
+      "likes": 426,
+      "replyTo": "125964827248",
+      "sourceURL": "https://www.bilibili.com/video/BV1bB4y1L7qh/#reply125966056016"
+    }
+  ],
+  "title": "「爱莉希雅」致 爱-A song for beloved【声优原创曲】",
+  "bvid": "BV1bB4y1L7qh",
+  "aid": 602098661,
+  "author": "宴宁ccccc",
+  "authorId": "14897804",
+  "url": "https://www.bilibili.com/video/BV1bB4y1L7qh/",
+  "publishedAt": "2022-08-16T18:30:00+08:00",
+  "metadataURL": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bB4y1L7qh",
+  "commentAPI": "https://api.bilibili.com/x/v2/reply?type=1&oid=602098661&sort=2&pn=1",
+  "page": {
+    "num": 1,
+    "size": 20,
+    "count": 12273,
+    "acount": 12273
+  },
+  "status": "ok"
+}

@@ -1,0 +1,1377 @@
+{
+  "schemaVersion": 1,
+  "videos": [
+    {
+      "id": "mei-pv-2016",
+      "displayTitle": "雷电女王降临！芽衣角色PV",
+      "category": "official-pv",
+      "summary": "开服前的芽衣角色宣传，可接在2016年9月预登录节点之后。",
+      "characters": [
+        "雷电芽衣"
+      ],
+      "tags": [
+        "预登录",
+        "角色PV"
+      ],
+      "featured": true,
+      "relatedVersions": [
+        {
+          "version": "1.0",
+          "reason": "开服前角色宣传；视频早于国服全平台公测。"
+        }
+      ]
+    },
+    {
+      "id": "scyrax-kiana",
+      "displayTitle": "琪亚娜·极乐净土",
+      "category": "render-mmd",
+      "summary": "Scyrax的Unity5实时渲染MMD；简介说明由作者与伙伴共同完成。",
+      "characters": [
+        "琪亚娜"
+      ],
+      "tags": [
+        "Scyrax",
+        "Unity",
+        "MMD",
+        "极乐净土"
+      ],
+      "featured": true,
+      "reportedIdentity": {
+        "name": "贺甲",
+        "role": "媒体报道的时任米哈游技术总监",
+        "verification": "secondary-report",
+        "sourceUrl": "https://game.xiaomi.com/viewpoint/1393220466_1678951710297_100",
+        "note": "报道通过琪亚娜极乐净土及团队渲染系列联系作者身份；不作为现任职务断言。"
+      },
+      "extraSources": [
+        {
+          "url": "https://game.xiaomi.com/viewpoint/1393220466_1678951710297_100",
+          "kind": "secondary-media-report",
+          "supports": "游戏葡萄报道、小米游戏中心转载；该渲染系列与贺甲及历史任职归属的联系"
+        }
+      ]
+    },
+    {
+      "id": "scyrax-mei",
+      "displayTitle": "芽衣·染上你的颜色",
+      "category": "render-mmd",
+      "summary": "Scyrax次世代卡通渲染系列第二弹，延续角色舞蹈与渲染展示。",
+      "characters": [
+        "雷电芽衣"
+      ],
+      "tags": [
+        "Scyrax",
+        "Unity",
+        "MMD"
+      ],
+      "featured": true,
+      "reportedIdentity": {
+        "name": "贺甲",
+        "role": "媒体报道的时任米哈游技术总监",
+        "verification": "secondary-report",
+        "sourceUrl": "https://game.xiaomi.com/viewpoint/1393220466_1678951710297_100",
+        "note": "报道通过琪亚娜极乐净土及团队渲染系列联系作者身份；不作为现任职务断言。"
+      },
+      "extraSources": [
+        {
+          "url": "https://game.xiaomi.com/viewpoint/1393220466_1678951710297_100",
+          "kind": "secondary-media-report",
+          "supports": "游戏葡萄报道、小米游戏中心转载；该渲染系列与贺甲及历史任职归属的联系"
+        }
+      ]
+    },
+    {
+      "id": "scyrax-sakura",
+      "displayTitle": "八重樱·桃源恋歌",
+      "category": "render-mmd",
+      "summary": "Scyrax次世代卡通渲染系列第三弹，八重樱舞蹈展示。",
+      "characters": [
+        "八重樱"
+      ],
+      "tags": [
+        "Scyrax",
+        "MMD",
+        "桃源恋歌"
+      ],
+      "featured": true,
+      "reportedIdentity": {
+        "name": "贺甲",
+        "role": "媒体报道的时任米哈游技术总监",
+        "verification": "secondary-report",
+        "sourceUrl": "https://game.xiaomi.com/viewpoint/1393220466_1678951710297_100",
+        "note": "报道通过琪亚娜极乐净土及团队渲染系列联系作者身份；不作为现任职务断言。"
+      },
+      "extraSources": [
+        {
+          "url": "https://game.xiaomi.com/viewpoint/1393220466_1678951710297_100",
+          "kind": "secondary-media-report",
+          "supports": "游戏葡萄报道、小米游戏中心转载；该渲染系列与贺甲及历史任职归属的联系"
+        }
+      ]
+    },
+    {
+      "id": "scyrax-fuhua",
+      "displayTitle": "符华·[A]ddiction",
+      "category": "render-mmd",
+      "summary": "Scyrax符华渲染演示；原稿简介还预告4K及支持HDR的RTX实时运行版。",
+      "characters": [
+        "符华"
+      ],
+      "tags": [
+        "Scyrax",
+        "MMD",
+        "RTX",
+        "HDR"
+      ],
+      "featured": true,
+      "reportedIdentity": {
+        "name": "贺甲",
+        "role": "媒体报道的时任米哈游技术总监",
+        "verification": "secondary-report",
+        "sourceUrl": "https://game.xiaomi.com/viewpoint/1393220466_1678951710297_100",
+        "note": "报道通过琪亚娜极乐净土及团队渲染系列联系作者身份；不作为现任职务断言。"
+      },
+      "extraSources": [
+        {
+          "url": "https://game.xiaomi.com/viewpoint/1393220466_1678951710297_100",
+          "kind": "secondary-media-report",
+          "supports": "游戏葡萄报道、小米游戏中心转载；该渲染系列与贺甲及历史任职归属的联系"
+        }
+      ]
+    },
+    {
+      "id": "reburn",
+      "displayTitle": "Reburn",
+      "category": "official-animation",
+      "summary": "琪亚娜主题动作短片，适合作为早期官方动画的代表节点。",
+      "characters": [
+        "琪亚娜"
+      ],
+      "tags": [
+        "官方动画",
+        "一周年"
+      ],
+      "featured": true
+    },
+    {
+      "id": "befall",
+      "displayTitle": "女王降临",
+      "category": "official-animation",
+      "summary": "空之律者主题动画，配乐Befall由尚雯婕演唱。",
+      "characters": [
+        "空之律者"
+      ],
+      "tags": [
+        "官方动画",
+        "Befall",
+        "空之律者"
+      ],
+      "featured": true,
+      "music": {
+        "title": "Befall",
+        "performers": [
+          "尚雯婕"
+        ],
+        "context": "官方印象曲"
+      },
+      "relatedVersions": [
+        {
+          "version": "2.5",
+          "reason": "人物线可关联空之律者装甲上线；短片早于该版本，不能改写发布时间。"
+        }
+      ]
+    },
+    {
+      "id": "last-lesson",
+      "displayTitle": "最后一课",
+      "category": "official-animation",
+      "summary": "姬子与琪亚娜剧情的重要动画节点，印象曲为蔡健雅演唱的Nightglow。",
+      "characters": [
+        "无量塔姬子",
+        "琪亚娜"
+      ],
+      "tags": [
+        "官方动画",
+        "姬子",
+        "Nightglow"
+      ],
+      "featured": true,
+      "music": {
+        "title": "Nightglow",
+        "performers": [
+          "蔡健雅"
+        ],
+        "context": "官方印象曲"
+      }
+    },
+    {
+      "id": "cyberangel",
+      "displayTitle": "天使重构",
+      "category": "official-animation",
+      "summary": "布洛妮娅寻找希儿的动画节点；布洛妮娅CV Hanser演唱Cyberangel。",
+      "characters": [
+        "布洛妮娅",
+        "希儿"
+      ],
+      "tags": [
+        "官方动画",
+        "理之律者",
+        "Cyberangel"
+      ],
+      "featured": true,
+      "music": {
+        "title": "Cyberangel",
+        "performers": [
+          "Hanser"
+        ],
+        "context": "官方印象曲／角色CV演唱"
+      },
+      "relatedVersions": [
+        {
+          "version": "3.3",
+          "reason": "人物线关联理之律者装甲上线；动画提前发布。"
+        }
+      ]
+    },
+    {
+      "id": "cyberangel-song",
+      "displayTitle": "Cyberangel（Hanser）",
+      "category": "official-song",
+      "summary": "官号单独发布的印象曲视频，与同日《天使重构》组成动画／音乐两个原稿。",
+      "characters": [
+        "布洛妮娅"
+      ],
+      "tags": [
+        "Hanser",
+        "声优演唱",
+        "Cyberangel"
+      ],
+      "featured": true,
+      "music": {
+        "title": "Cyberangel",
+        "performers": [
+          "Hanser"
+        ],
+        "context": "官方印象曲／角色CV演唱"
+      },
+      "relatedVideoIds": [
+        "cyberangel"
+      ]
+    },
+    {
+      "id": "seele",
+      "displayTitle": "希儿",
+      "category": "official-animation",
+      "summary": "希儿与布洛妮娅相关动画；Dual-Ego由萨顶顶演唱。",
+      "characters": [
+        "希儿",
+        "布洛妮娅"
+      ],
+      "tags": [
+        "官方动画",
+        "Dual-Ego"
+      ],
+      "featured": true,
+      "music": {
+        "title": "Dual-Ego",
+        "performers": [
+          "萨顶顶"
+        ],
+        "context": "官方印象曲"
+      }
+    },
+    {
+      "id": "bronya-short",
+      "displayTitle": "布洛妮娅",
+      "category": "official-animation",
+      "summary": "官号布洛妮娅主题短片，可作为同年角色动画的补充。",
+      "characters": [
+        "布洛妮娅"
+      ],
+      "tags": [
+        "官方动画",
+        "角色短片"
+      ]
+    },
+    {
+      "id": "starfall",
+      "displayTitle": "天穹流星",
+      "category": "official-animation",
+      "summary": "琪亚娜剧情动画节点，印象曲Starfall由袁娅维演唱。",
+      "characters": [
+        "琪亚娜"
+      ],
+      "tags": [
+        "官方动画",
+        "Starfall"
+      ],
+      "featured": true,
+      "music": {
+        "title": "Starfall",
+        "performers": [
+          "袁娅维"
+        ],
+        "context": "官方印象曲"
+      }
+    },
+    {
+      "id": "lament",
+      "displayTitle": "罪人挽歌",
+      "category": "official-animation",
+      "summary": "芽衣与琪亚娜的剧情转折；配乐为小林未郁演唱的《崩坏世界的歌姬 (Movie Ver.)》。",
+      "characters": [
+        "雷电芽衣",
+        "琪亚娜"
+      ],
+      "tags": [
+        "官方动画",
+        "雷之律者",
+        "崩坏世界的歌姬"
+      ],
+      "featured": true,
+      "music": {
+        "title": "崩坏世界的歌姬 (Movie Ver.)",
+        "performers": [
+          "小林未郁"
+        ],
+        "context": "官方印象曲"
+      },
+      "relatedVersions": [
+        {
+          "version": "4.1",
+          "reason": "人物线关联雷之律者装甲上线；动画早于版本更新。"
+        }
+      ]
+    },
+    {
+      "id": "return",
+      "displayTitle": "归来",
+      "category": "official-animation",
+      "summary": "新篇章预告动画，可连接四周年附近的主线宣传。",
+      "characters": [],
+      "tags": [
+        "官方动画",
+        "篇章预告",
+        "四周年"
+      ]
+    },
+    {
+      "id": "rubia",
+      "displayTitle": "渡尘",
+      "category": "official-animation",
+      "summary": "符华主题动画与周深演唱的Rubia，可合并为剧情与音乐传播节点。",
+      "characters": [
+        "符华"
+      ],
+      "tags": [
+        "官方动画",
+        "Rubia",
+        "周深"
+      ],
+      "featured": true,
+      "music": {
+        "title": "Rubia",
+        "performers": [
+          "周深"
+        ],
+        "context": "官方印象曲"
+      }
+    },
+    {
+      "id": "moon-halo",
+      "displayTitle": "薪炎永燃",
+      "category": "official-animation",
+      "summary": "琪亚娜薪炎之律者主题动画，Moon Halo由茶理理、TetraCalyx、Hanser演唱。",
+      "characters": [
+        "琪亚娜"
+      ],
+      "tags": [
+        "官方动画",
+        "薪炎之律者",
+        "Moon Halo"
+      ],
+      "featured": true,
+      "music": {
+        "title": "Moon Halo",
+        "performers": [
+          "茶理理",
+          "TetraCalyx",
+          "Hanser"
+        ],
+        "context": "官方印象曲"
+      },
+      "relatedVersions": [
+        {
+          "version": "5.0",
+          "reason": "人物线关联薪炎之律者装甲上线；动画提前发布。"
+        }
+      ]
+    },
+    {
+      "id": "pre-revelation",
+      "displayTitle": "前启示录",
+      "category": "official-animation",
+      "summary": "新篇章预告动画，适合作为主线推进的补充条目。",
+      "characters": [],
+      "tags": [
+        "官方动画",
+        "篇章预告"
+      ]
+    },
+    {
+      "id": "regression",
+      "displayTitle": "阿波卡利斯如是说",
+      "category": "official-animation",
+      "summary": "奥托与卡莲主题动画；Regression由阿云嘎演唱。",
+      "characters": [
+        "奥托",
+        "卡莲"
+      ],
+      "tags": [
+        "官方动画",
+        "奥托",
+        "Regression"
+      ],
+      "featured": true,
+      "music": {
+        "title": "Regression",
+        "performers": [
+          "阿云嘎"
+        ],
+        "context": "官方印象曲"
+      }
+    },
+    {
+      "id": "winter-memory",
+      "displayTitle": "冬之记忆",
+      "category": "official-animation",
+      "summary": "官号概念动画短片，可作为主线动画之外的短片补充。",
+      "characters": [],
+      "tags": [
+        "官方动画",
+        "概念动画"
+      ]
+    },
+    {
+      "id": "true",
+      "displayTitle": "因你而在的故事",
+      "category": "official-animation",
+      "summary": "爱莉希雅与逐火英桀主题动画，印象曲TruE由黄龄演唱。",
+      "characters": [
+        "爱莉希雅",
+        "逐火英桀"
+      ],
+      "tags": [
+        "官方动画",
+        "往世乐土",
+        "TruE"
+      ],
+      "featured": true,
+      "music": {
+        "title": "TruE",
+        "performers": [
+          "黄龄"
+        ],
+        "context": "官方印象曲"
+      },
+      "relatedVersions": [
+        {
+          "version": "6.0",
+          "reason": "人物线关联真我·人之律者装甲上线；动画提前发布。"
+        }
+      ]
+    },
+    {
+      "id": "reunion",
+      "displayTitle": "重逢",
+      "category": "official-animation",
+      "summary": "官号过场动画，连接终章阶段的角色剧情。",
+      "characters": [],
+      "tags": [
+        "官方动画",
+        "过场动画",
+        "终章"
+      ]
+    },
+    {
+      "id": "crossing",
+      "displayTitle": "跨越",
+      "category": "official-animation",
+      "summary": "终章阶段的官号过场动画，可与《毕业旅行》相邻展示。",
+      "characters": [],
+      "tags": [
+        "官方动画",
+        "过场动画",
+        "终章"
+      ]
+    },
+    {
+      "id": "da-capo",
+      "displayTitle": "毕业旅行",
+      "category": "official-animation",
+      "summary": "第一部终章的重要动画节点，印象曲Da Capo由HOYO-MiX制作。",
+      "characters": [
+        "琪亚娜",
+        "雷电芽衣"
+      ],
+      "tags": [
+        "官方动画",
+        "终章",
+        "Da Capo"
+      ],
+      "featured": true,
+      "music": {
+        "title": "Da Capo",
+        "performers": [],
+        "context": "官方印象曲；本次未单独核验演唱署名"
+      }
+    },
+    {
+      "id": "summer-memory",
+      "displayTitle": "夏令回想",
+      "category": "official-animation",
+      "summary": "2024年官号概念动画短片，补充终章之后的官方短片内容。",
+      "characters": [],
+      "tags": [
+        "官方动画",
+        "概念动画"
+      ]
+    },
+    {
+      "id": "reburn-ii",
+      "displayTitle": "Reburn: II",
+      "category": "official-animation",
+      "summary": "描绘崩坏从地球消失之后的世界与向天空出发的旅途；保留概念动画的定位。",
+      "characters": [
+        "瓦尔特",
+        "卡萝尔"
+      ],
+      "tags": [
+        "官方动画",
+        "概念动画",
+        "后崩坏书"
+      ],
+      "featured": true
+    },
+    {
+      "id": "travel-animation",
+      "displayTitle": "旅途危机！圣芙蕾雅号特别事件",
+      "category": "official-animation",
+      "summary": "春节特别动画，以圣芙蕾雅号飞船上的假期与悬疑事件为主题。",
+      "characters": [],
+      "tags": [
+        "官方动画",
+        "春节",
+        "特别动画"
+      ],
+      "featured": true,
+      "relatedVideoIds": [
+        "before-departure-song"
+      ]
+    },
+    {
+      "id": "chuchusha-suoor",
+      "displayTitle": "处处傻（二创填词原稿）",
+      "category": "fan-creation",
+      "summary": "以《处处吻》为原曲的德丽莎二创；简介署名填词、调音、混音、制作为邻家索尔。",
+      "characters": [
+        "德丽莎"
+      ],
+      "tags": [
+        "鬼畜",
+        "填词",
+        "处处傻"
+      ],
+      "relatedVideoIds": [
+        "chuchusha-hualing"
+      ],
+      "creditNote": "账号当前名为猫山王豆浆；简介保留邻家索尔署名，花玲翻唱明确指向本稿av87241880。"
+    },
+    {
+      "id": "chuchusha-hualing",
+      "displayTitle": "处处傻（花玲翻唱）",
+      "category": "cv-song",
+      "summary": "德丽莎CV花玲在角色生日发布；简介明确感谢邻家索尔授权并链接二创原稿。",
+      "characters": [
+        "德丽莎"
+      ],
+      "tags": [
+        "花玲",
+        "声优翻唱",
+        "角色生日",
+        "处处傻"
+      ],
+      "featured": true,
+      "relatedVideoIds": [
+        "chuchusha-suoor"
+      ],
+      "music": {
+        "title": "处处傻",
+        "performers": [
+          "花园花玲"
+        ],
+        "context": "二创填词的声优翻唱；原曲为《处处吻》"
+      }
+    },
+    {
+      "id": "mei-quit-original",
+      "displayTitle": "芽衣什么的不干了啦！（洛天依二创）",
+      "category": "fan-creation",
+      "summary": "慕尘Muchan的芽衣填词二创，随后被芽衣CV翻唱；适合保留为传播链来源。",
+      "characters": [
+        "雷电芽衣"
+      ],
+      "tags": [
+        "洛天依",
+        "填词",
+        "芽衣什么的不干啦"
+      ],
+      "relatedVideoIds": [
+        "mei-quit-cv"
+      ]
+    },
+    {
+      "id": "mei-quit-cv",
+      "displayTitle": "芽衣什么的不干啦！（声优翻唱）",
+      "category": "cv-song",
+      "summary": "芽衣CV账号发布的授权翻唱，简介列出本家av93095741。",
+      "characters": [
+        "雷电芽衣"
+      ],
+      "tags": [
+        "菊花花",
+        "声优翻唱",
+        "芽衣什么的不干啦"
+      ],
+      "featured": true,
+      "relatedVideoIds": [
+        "mei-quit-original"
+      ],
+      "creditNote": "当前账号名为爆裂菊是也（UID 920713）；官方动画配音表采用菊花花署名。",
+      "music": {
+        "title": "芽衣什么的不干啦！",
+        "performers": [
+          "菊花花"
+        ],
+        "context": "二创填词的声优翻唱"
+      }
+    },
+    {
+      "id": "ddd",
+      "displayTitle": "德⭐德⭐德",
+      "category": "cv-song",
+      "summary": "2022新春会德丽莎同人原创曲，由果蝇轰策划／作词、梦鼠制作、花玲演唱。",
+      "characters": [
+        "德丽莎"
+      ],
+      "tags": [
+        "花玲",
+        "声优原创曲",
+        "新春会"
+      ],
+      "featured": true,
+      "relatedVideoIds": [
+        "newyear-2022"
+      ],
+      "music": {
+        "title": "德德德",
+        "performers": [
+          "花园花玲"
+        ],
+        "context": "同人原创曲／角色CV演唱"
+      }
+    },
+    {
+      "id": "elysia-song",
+      "displayTitle": "Elysia（宴宁）",
+      "category": "cv-song",
+      "summary": "爱莉希雅CV宴宁发布的角色主题声优原创曲。",
+      "characters": [
+        "爱莉希雅"
+      ],
+      "tags": [
+        "宴宁",
+        "声优原创曲",
+        "爱莉希雅"
+      ],
+      "featured": true,
+      "music": {
+        "title": "Elysia",
+        "performers": [
+          "宴宁"
+        ],
+        "context": "声优原创曲"
+      }
+    },
+    {
+      "id": "beloved-song",
+      "displayTitle": "致 爱 — A song for beloved",
+      "category": "cv-song",
+      "summary": "宴宁演唱、送给爱莉希雅的声优原创曲；与《因你而在的故事》同阶段发布。",
+      "characters": [
+        "爱莉希雅"
+      ],
+      "tags": [
+        "宴宁",
+        "声优原创曲",
+        "爱莉希雅"
+      ],
+      "featured": true,
+      "relatedVideoIds": [
+        "true"
+      ],
+      "music": {
+        "title": "致 爱 — A song for beloved",
+        "performers": [
+          "宴宁"
+        ],
+        "context": "声优原创曲"
+      }
+    },
+    {
+      "id": "blue-sky-promise",
+      "displayTitle": "青空的约定",
+      "category": "cv-song",
+      "summary": "小N、Mace、多多poi、宴宁、喵酱、花玲合唱；哈米伦策划的声优原创曲。",
+      "characters": [
+        "丽塔",
+        "符华",
+        "萝莎莉娅",
+        "莉莉娅",
+        "幽兰黛尔",
+        "德丽莎"
+      ],
+      "tags": [
+        "声优合唱",
+        "角色歌",
+        "哈米伦"
+      ],
+      "featured": true,
+      "music": {
+        "title": "青空的约定",
+        "performers": [
+          "小N",
+          "Mace",
+          "多多poi",
+          "宴宁",
+          "喵酱",
+          "花玲"
+        ],
+        "context": "声优原创曲／多人合唱"
+      }
+    },
+    {
+      "id": "elf-fantasy-song",
+      "displayTitle": "Elf Fantasy",
+      "category": "official-song",
+      "summary": "官号发布的《人偶学园》片尾曲，可归入游戏衍生动画音乐。",
+      "characters": [],
+      "tags": [
+        "官方歌曲",
+        "人偶学园",
+        "衍生动画"
+      ],
+      "music": {
+        "title": "Elf Fantasy",
+        "performers": [],
+        "context": "人偶学园片尾曲；本次未单独核验演唱署名"
+      }
+    },
+    {
+      "id": "before-departure-song",
+      "displayTitle": "在出发之前",
+      "category": "official-song",
+      "summary": "春节特别动画主题曲，由琪亚娜、芽衣、布洛妮娅的CV陶典／菊花花／Hanser演唱。",
+      "characters": [
+        "琪亚娜",
+        "雷电芽衣",
+        "布洛妮娅"
+      ],
+      "tags": [
+        "声优合唱",
+        "官方歌曲",
+        "春节"
+      ],
+      "featured": true,
+      "relatedVideoIds": [
+        "travel-animation"
+      ],
+      "music": {
+        "title": "在出发之前",
+        "performers": [
+          "陶典",
+          "菊花花",
+          "Hanser"
+        ],
+        "context": "官方动画主题曲／角色CV演唱"
+      }
+    },
+    {
+      "id": "elf-magic",
+      "displayTitle": "妖精小姐的魔法邀约",
+      "category": "official-song",
+      "summary": "官号发布、宴宁演唱的妖精小姐主题视频；可关联九周年版本宣传。",
+      "characters": [
+        "爱莉希雅"
+      ],
+      "tags": [
+        "宴宁",
+        "声优演唱",
+        "九周年"
+      ],
+      "featured": true,
+      "music": {
+        "title": "妖精小姐的魔法邀约",
+        "performers": [
+          "宴宁"
+        ],
+        "context": "官方发布的演唱视频"
+      },
+      "relatedVersions": [
+        {
+          "version": "8.5",
+          "reason": "与8.5九周年PV同日发布，作为同阶段宣传关联。"
+        }
+      ]
+    },
+    {
+      "id": "pv-4.6",
+      "displayTitle": "4.6 唯我独尊 PV",
+      "category": "official-pv",
+      "summary": "识之律者版本PV，官号累计播放达到千万级，可作为高热度版本宣传代表。",
+      "characters": [
+        "识之律者"
+      ],
+      "tags": [
+        "版本PV",
+        "识之律者"
+      ],
+      "featured": true,
+      "relatedVersions": [
+        {
+          "version": "4.6",
+          "reason": "视频标题明确对应4.6；PV早于版本更新。"
+        }
+      ]
+    },
+    {
+      "id": "pv-6.0",
+      "displayTitle": "6.0 光辉矢愿 PV",
+      "category": "official-pv",
+      "summary": "真我·人之律者版本宣传，与爱莉希雅主题动画／声优歌曲可形成同阶段专题。",
+      "characters": [
+        "爱莉希雅"
+      ],
+      "tags": [
+        "版本PV",
+        "真我·人之律者"
+      ],
+      "featured": true,
+      "relatedVersions": [
+        {
+          "version": "6.0",
+          "reason": "视频标题明确对应6.0；PV早于版本更新。"
+        }
+      ]
+    },
+    {
+      "id": "pv-7.0",
+      "displayTitle": "7.0 月下相续 PV",
+      "category": "official-pv",
+      "summary": "七周年版本宣传，可连接月下角色与舰长线相关内容。",
+      "characters": [
+        "月下"
+      ],
+      "tags": [
+        "版本PV",
+        "七周年",
+        "月下"
+      ],
+      "relatedVersions": [
+        {
+          "version": "7.0",
+          "reason": "视频标题明确对应7.0；PV早于版本更新。"
+        }
+      ]
+    },
+    {
+      "id": "pv-7.2",
+      "displayTitle": "7.2 渡尘寻星 PV",
+      "category": "official-pv",
+      "summary": "符华相关版本宣传，补充《渡尘》之后的角色节点。",
+      "characters": [
+        "符华"
+      ],
+      "tags": [
+        "版本PV",
+        "符华"
+      ],
+      "relatedVersions": [
+        {
+          "version": "7.2",
+          "reason": "视频标题明确对应7.2；PV早于版本更新。"
+        }
+      ]
+    },
+    {
+      "id": "pv-7.3",
+      "displayTitle": "7.3 寻梦启航 PV",
+      "category": "official-pv",
+      "summary": "第二部启航阶段的版本宣传，用于连接第一部与第二部的时间轴。",
+      "characters": [],
+      "tags": [
+        "版本PV",
+        "第二部"
+      ],
+      "featured": true,
+      "relatedVersions": [
+        {
+          "version": "7.3",
+          "reason": "视频标题明确对应7.3；PV早于版本更新。"
+        }
+      ]
+    },
+    {
+      "id": "pv-8.5",
+      "displayTitle": "8.5 爱愿偕光 PV",
+      "category": "official-pv",
+      "summary": "九周年版本宣传，连接爱莉希雅相关周年内容。",
+      "characters": [
+        "爱莉希雅"
+      ],
+      "tags": [
+        "版本PV",
+        "九周年"
+      ],
+      "relatedVersions": [
+        {
+          "version": "8.5",
+          "reason": "视频标题明确对应8.5；PV早于版本更新。"
+        }
+      ]
+    },
+    {
+      "id": "pv-9.1",
+      "displayTitle": "9.1 时序照新 PV",
+      "category": "official-pv",
+      "summary": "十周年版本宣传，标题与简介确认时序之律者登场。",
+      "characters": [
+        "寻梦者"
+      ],
+      "tags": [
+        "版本PV",
+        "十周年",
+        "时序之律者"
+      ],
+      "featured": true,
+      "relatedVersions": [
+        {
+          "version": "9.1",
+          "reason": "视频标题明确对应9.1；PV早于版本更新。"
+        }
+      ]
+    },
+    {
+      "id": "hamelin-origin",
+      "displayTitle": "The Herrscher of Origin",
+      "category": "fan-creation",
+      "summary": "哈米伦团队制作的爱莉希雅／逐火英桀手书，以往世乐土的羁绊与告别为主题。",
+      "characters": [
+        "爱莉希雅",
+        "逐火英桀",
+        "雷电芽衣"
+      ],
+      "tags": [
+        "手书",
+        "哈米伦",
+        "往世乐土"
+      ],
+      "featured": true
+    },
+    {
+      "id": "judah-disco",
+      "displayTitle": "犹大disco",
+      "category": "fan-creation",
+      "summary": "邻家索尔署名的德丽莎填词二创，获官方三周年影像大赏一等奖。",
+      "characters": [
+        "德丽莎"
+      ],
+      "tags": [
+        "鬼畜",
+        "填词",
+        "犹大",
+        "三周年"
+      ],
+      "featured": true,
+      "creditNote": "官方获奖页署名邻家索尔，UID 4320540与现名猫山王豆浆一致。",
+      "extraSources": [
+        {
+          "url": "https://www.bilibili.com/blackboard/activity-bhszmyxds.html",
+          "kind": "official-activity-page",
+          "supports": "一等奖、当年作者名及UID"
+        }
+      ]
+    },
+    {
+      "id": "annals",
+      "displayTitle": "ANNALS｜崩坏编年史",
+      "category": "fan-creation",
+      "summary": "三周年回顾MAD，获官方三周年影像大赏特等奖；以获奖证据补充播放量指标。",
+      "characters": [],
+      "tags": [
+        "MAD",
+        "周年回顾",
+        "三周年"
+      ],
+      "extraSources": [
+        {
+          "url": "https://www.bilibili.com/blackboard/activity-bhszmyxds.html",
+          "kind": "official-activity-page",
+          "supports": "特等奖与作者署名"
+        }
+      ]
+    },
+    {
+      "id": "newyear-2022",
+      "displayTitle": "2022崩坏3新春会：“年”接一切",
+      "category": "community-program",
+      "summary": "果蝇轰发布的多UP／配音演员共同参与的新春会；《德德德》是其中节目。",
+      "characters": [],
+      "tags": [
+        "新春会",
+        "社区晚会",
+        "果蝇轰"
+      ],
+      "featured": true,
+      "relatedVideoIds": [
+        "ddd"
+      ]
+    },
+    {
+      "id": "anniversary-10-fan",
+      "displayTitle": "十周年生日会：崩坏3躲猫猫？",
+      "category": "fan-creation",
+      "summary": "特效小哥studio的十周年生日会动画单品，作为2026年社区创作代表。",
+      "characters": [],
+      "tags": [
+        "生日会",
+        "十周年",
+        "同人动画"
+      ],
+      "featured": true
+    },
+    {
+      "id": "concert-2021",
+      "displayTitle": "星火流音纪念演出",
+      "category": "official-program",
+      "summary": "五周年纪念演出正片；本稿上传于11月5日，演出日期另记为10月5日。",
+      "characters": [],
+      "tags": [
+        "音乐会",
+        "五周年",
+        "HOYO-MiX"
+      ],
+      "featured": true,
+      "eventDate": "2021-10-05",
+      "extraSources": [
+        {
+          "url": "https://prtimes.jp/main/html/rd/p/000000108.000048345.html",
+          "kind": "publisher-press-release",
+          "supports": "miHoYo发布的2021-10-05全球同播演出日期"
+        }
+      ]
+    },
+    {
+      "id": "concert-2022",
+      "displayTitle": "纯真梦歌线上音乐会",
+      "category": "official-program",
+      "summary": "官号音乐会正片，简介列出黄龄、黄霄雲、Hanser、小林未郁、MARiA等出演嘉宾。",
+      "characters": [],
+      "tags": [
+        "音乐会",
+        "HOYO-MiX",
+        "声优演唱"
+      ],
+      "featured": true
+    },
+    {
+      "id": "concert-2023",
+      "displayTitle": "林海绮律线上音乐会",
+      "category": "official-program",
+      "summary": "miHoYo与HOYO-MiX出品；简介列出Hanser、黄龄、萨顶顶、小林未郁等嘉宾。",
+      "characters": [],
+      "tags": [
+        "音乐会",
+        "HOYO-MiX"
+      ],
+      "featured": true
+    },
+    {
+      "id": "documentary",
+      "displayTitle": "最后留下了故事",
+      "category": "official-program",
+      "summary": "第一部终章阶段的游戏纪录片，可与《毕业旅行》组成剧情／创作回顾节点。",
+      "characters": [],
+      "tags": [
+        "纪录片",
+        "制作组",
+        "终章"
+      ],
+      "featured": true,
+      "relatedVideoIds": [
+        "da-capo"
+      ]
+    },
+    {
+      "id": "hsr-crossover-program",
+      "displayTitle": "崩坏3×星铁：星间诡戏特别节目",
+      "category": "official-program",
+      "summary": "7.9联动特别节目，为跨作品联动的话题提供官方原稿。",
+      "characters": [],
+      "tags": [
+        "联动",
+        "星穹铁道",
+        "特别节目"
+      ],
+      "relatedVersions": [
+        {
+          "version": "7.9",
+          "reason": "视频标题明确对应7.9联动；节目早于版本更新。"
+        }
+      ]
+    },
+    {
+      "id": "anniversary-10-program",
+      "displayTitle": "十周年庆典特别节目",
+      "category": "official-program",
+      "summary": "十周年特别节目录像，与9.1PV共同作为2026年周年庆官方节点。",
+      "characters": [],
+      "tags": [
+        "十周年",
+        "特别节目"
+      ],
+      "featured": true,
+      "relatedVideoIds": [
+        "pv-9.1"
+      ],
+      "relatedVersions": [
+        {
+          "version": "9.1",
+          "reason": "与9.1PV同日发布，作为十周年版本节目关联。"
+        }
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "early-official",
+      "title": "从角色PV到官方动画短片",
+      "summary": "从开服前芽衣PV、Reburn到女王降临，展示早期官方视频内容的变化。",
+      "videoIds": [
+        "mei-pv-2016",
+        "reburn",
+        "befall"
+      ],
+      "tags": [
+        "官方宣传",
+        "早期回忆"
+      ]
+    },
+    {
+      "id": "scyrax-render",
+      "title": "Scyrax的次世代卡通渲染系列",
+      "summary": "四个角色的MMD／实时渲染演示构成独立创作者线索；网页可按系列串联。",
+      "videoIds": [
+        "scyrax-kiana",
+        "scyrax-mei",
+        "scyrax-sakura",
+        "scyrax-fuhua"
+      ],
+      "tags": [
+        "MMD",
+        "Unity",
+        "Scyrax"
+      ]
+    },
+    {
+      "id": "himeko-kiana",
+      "title": "最后一课 → 薪炎永燃",
+      "summary": "用两部动画连接姬子与琪亚娜的剧情记忆，再关联Nightglow与Moon Halo。",
+      "videoIds": [
+        "last-lesson",
+        "starfall",
+        "moon-halo"
+      ],
+      "tags": [
+        "姬子",
+        "琪亚娜",
+        "剧情音乐"
+      ]
+    },
+    {
+      "id": "bronya-seele",
+      "title": "布洛妮娅、希儿与Cyberangel",
+      "summary": "动画与Hanser演唱视频分别保留，避免把同日两个原稿误认为转载。",
+      "videoIds": [
+        "cyberangel",
+        "cyberangel-song",
+        "seele",
+        "bronya-short"
+      ],
+      "tags": [
+        "布洛妮娅",
+        "希儿",
+        "Hanser"
+      ]
+    },
+    {
+      "id": "theresa-remix",
+      "title": "德丽莎：犹大disco、处处傻与德德德",
+      "summary": "把角色填词／鬼畜、原作、声优翻唱、同人原创曲放在同一话题下；《处处傻》传播关系由花玲简介直接确认。",
+      "videoIds": [
+        "judah-disco",
+        "chuchusha-suoor",
+        "chuchusha-hualing",
+        "ddd"
+      ],
+      "tags": [
+        "德丽莎",
+        "花玲",
+        "二创",
+        "声优翻唱"
+      ]
+    },
+    {
+      "id": "mei-quit-lament",
+      "title": "芽衣什么的不干啦 → 罪人挽歌",
+      "summary": "先展示2020年3月二创及CV翻唱，再接7月官方动画；前后对照是编辑叙事，不宣称动画由该梗引发。",
+      "videoIds": [
+        "mei-quit-original",
+        "mei-quit-cv",
+        "lament"
+      ],
+      "tags": [
+        "芽衣",
+        "声优翻唱",
+        "雷之律者"
+      ]
+    },
+    {
+      "id": "fuhua-memory",
+      "title": "符华、渡尘与识之律者",
+      "summary": "符华渲染演示、渡尘／Rubia、4.6PV与后续符华版本PV可跨年串联。",
+      "videoIds": [
+        "scyrax-fuhua",
+        "rubia",
+        "pv-4.6",
+        "pv-7.2"
+      ],
+      "tags": [
+        "符华",
+        "周深",
+        "识之律者"
+      ]
+    },
+    {
+      "id": "elysia-elysian",
+      "title": "爱莉希雅与逐火英桀：官动画、声优歌、手书",
+      "summary": "组合TruE、宴宁的Elysia／致爱、哈米伦手书及后续妖精小姐视频；歌曲演唱者逐条区分。",
+      "videoIds": [
+        "elysia-song",
+        "true",
+        "pv-6.0",
+        "beloved-song",
+        "hamelin-origin",
+        "elf-magic"
+      ],
+      "tags": [
+        "爱莉希雅",
+        "往世乐土",
+        "宴宁",
+        "手书"
+      ]
+    },
+    {
+      "id": "cv-collaboration",
+      "title": "声优合唱与游戏衍生动画音乐",
+      "summary": "青空的约定与在出发之前代表多人声优合唱；Elf Fantasy单列为衍生动画片尾曲。",
+      "videoIds": [
+        "blue-sky-promise",
+        "before-departure-song",
+        "travel-animation",
+        "elf-fantasy-song"
+      ],
+      "tags": [
+        "声优合唱",
+        "衍生动画"
+      ]
+    },
+    {
+      "id": "concerts",
+      "title": "音乐会：星火流音、纯真梦歌、林海绮律",
+      "summary": "把歌曲传播与官方演出串联；演出日期和B站正片上传日期使用不同字段。",
+      "videoIds": [
+        "concert-2021",
+        "concert-2022",
+        "concert-2023"
+      ],
+      "tags": [
+        "音乐会",
+        "HOYO-MiX"
+      ]
+    },
+    {
+      "id": "community-festivals",
+      "title": "周年回顾、新春会与生日会",
+      "summary": "官方影像大赏获奖MAD、社区新春会总集与十周年生日会单品构成社区活动线。",
+      "videoIds": [
+        "annals",
+        "judah-disco",
+        "newyear-2022",
+        "ddd",
+        "anniversary-10-fan"
+      ],
+      "tags": [
+        "社区晚会",
+        "生日会",
+        "周年回顾"
+      ]
+    },
+    {
+      "id": "graduation-next",
+      "title": "毕业旅行、创作回顾与第二部启航",
+      "summary": "《毕业旅行》与游戏纪录片连接第一部终章，再用7.3PV开启第二部节点。",
+      "videoIds": [
+        "reunion",
+        "crossing",
+        "da-capo",
+        "documentary",
+        "pv-7.3"
+      ],
+      "tags": [
+        "终章",
+        "第二部",
+        "纪录片"
+      ]
+    },
+    {
+      "id": "anniversary-crossover",
+      "title": "周年版本与跨作品联动",
+      "summary": "七周年、九周年、十周年宣传和星铁联动节目按原稿发布时间展示，另关联目标版本。",
+      "videoIds": [
+        "pv-7.0",
+        "hsr-crossover-program",
+        "pv-8.5",
+        "elf-magic",
+        "anniversary-10-program",
+        "pv-9.1",
+        "anniversary-10-fan"
+      ],
+      "tags": [
+        "周年庆",
+        "联动",
+        "十周年"
+      ]
+    }
+  ]
+}

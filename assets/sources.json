@@ -1,0 +1,23 @@
+{
+  "sourcePage": "https://bh3.mihoyo.com/main",
+  "configuration": "https://fastcdn.mihoyo.com/mi18n/bh3_cn/m20230317hy14h0glc0/m20230317hy14h0glc0-zh-cn.json",
+  "downloadedAt": "2026-10-11",
+  "images": [
+    {
+      "url": "https://bh3.mihoyo.com/favicon.ico",
+      "file": "favicon.ico"
+    },
+    {
+      "url": "https://fastcdn.mihoyo.com/mi18n/bh3_cn/m20230317hy14h0glc0/upload/a2e772894f2779a6395c4530bf198a8f_1847043455602035537.png",
+      "file": "anniversary-official.png"
+    },
+    {
+      "url": "https://fastcdn.mihoyo.com/mi18n/bh3_cn/m20230317hy14h0glc0/upload/8f02ca5c3e2e93394b6834c24641efe2_6979556397869994021.png",
+      "file": "logo-official.png"
+    },
+    {
+      "url": "https://fastcdn.mihoyo.com/mi18n/bh3_cn/m20230317hy14h0glc0/upload/905628bf82ee1e67090ca4f882fde2b8_3887299080938280988.png",
+      "file": "wallpaper-official.png"
+    }
+  ]
+}

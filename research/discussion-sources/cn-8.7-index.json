@@ -1,0 +1,8 @@
+{
+  "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=8.7PV&prop=wikitext&format=json",
+  "checkedAt": "2026-10-11T19:18:09+08:00",
+  "bvid": null,
+  "aid": null,
+  "wikitext": "",
+  "error": "The page you specified doesn't exist."
+}

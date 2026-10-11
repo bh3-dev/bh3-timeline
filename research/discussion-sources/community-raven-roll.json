@@ -1,0 +1,55 @@
+{
+  "platform": "Bilibili",
+  "checkedAt": "2026-10-11T19:36:04+08:00",
+  "sourceHint": {
+    "bvid": "BV1Q5411Q7rT"
+  },
+  "comments": [
+    {
+      "id": "114036883088",
+      "userId": "128716227",
+      "username": "诺厨烟绯酱",
+      "publishedAt": "2022-05-23T13:08:41+08:00",
+      "text": "[崩坏3_卡了]别墅小岛……",
+      "likes": 7,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV1Q5411Q7rT/#reply114036883088"
+    },
+    {
+      "id": "154719177296",
+      "userId": "383766022",
+      "username": "某剧组",
+      "publishedAt": "2023-03-03T23:15:10+08:00",
+      "text": "背景音乐好烦我都听不清说的是啥了",
+      "likes": 3,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV1Q5411Q7rT/#reply154719177296"
+    },
+    {
+      "id": "146992035776",
+      "userId": "1996280181",
+      "username": "科尔815A",
+      "publishedAt": "2023-01-14T14:16:32+08:00",
+      "text": "这哪一关啊？",
+      "likes": 0,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV1Q5411Q7rT/#reply146992035776"
+    }
+  ],
+  "title": "因为别墅小岛被毁又哭又闹还在地上打滚的渡鸦你见过没？🤣🤣",
+  "bvid": "BV1Q5411Q7rT",
+  "aid": 469256468,
+  "author": "闪耀的小江",
+  "authorId": "593735174",
+  "url": "https://www.bilibili.com/video/BV1Q5411Q7rT/",
+  "publishedAt": "2022-05-22T21:38:42+08:00",
+  "metadataURL": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Q5411Q7rT",
+  "commentAPI": "https://api.bilibili.com/x/v2/reply?type=1&oid=469256468&sort=2&pn=1",
+  "page": {
+    "num": 1,
+    "size": 20,
+    "count": 4,
+    "acount": 4
+  },
+  "status": "ok"
+}

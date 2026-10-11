@@ -1,0 +1,139 @@
+{
+  "platform": "Bilibili",
+  "checkedAt": "2026-10-11T19:18:09+08:00",
+  "sourceHint": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=3.6PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV1wJ411d7YY",
+    "aid": 76585875,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---3.6PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=76585875&bvid=BV1wJ411d7YY&cid=131002115&page=1&crossDomain=0&autoplay=0&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/3674?cate=173 官网3.6版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "comments": [
+    {
+      "id": "2124040126",
+      "userId": "22988046",
+      "username": "二赤猿教父",
+      "publishedAt": "2019-11-22T20:02:16+08:00",
+      "text": "谁是电嘤之王？",
+      "likes": 7804,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV1wJ411d7YY/#reply2124040126"
+    },
+    {
+      "id": "2124032312",
+      "userId": "349927695",
+      "username": "bili_349927695",
+      "publishedAt": "2019-11-22T20:03:19+08:00",
+      "text": "我是电嘤之王",
+      "likes": 244,
+      "replyTo": "2124040126",
+      "sourceURL": "https://www.bilibili.com/video/BV1wJ411d7YY/#reply2124032312"
+    },
+    {
+      "id": "2124092626",
+      "userId": "300305139",
+      "username": "我乐意傻笑",
+      "publishedAt": "2019-11-22T20:24:41+08:00",
+      "text": "唔喔喔，安瑞巴蒂跟我一起嘤嘤嘤",
+      "likes": 180,
+      "replyTo": "2124040126",
+      "sourceURL": "https://www.bilibili.com/video/BV1wJ411d7YY/#reply2124092626"
+    },
+    {
+      "id": "2124139307",
+      "userId": "34087380",
+      "username": "非虎阿扶",
+      "publishedAt": "2019-11-22T20:46:13+08:00",
+      "text": "喔唔，艾瑞巴蒂我要让你嘤嘤嘤唔哦哦",
+      "likes": 144,
+      "replyTo": "2124040126",
+      "sourceURL": "https://www.bilibili.com/video/BV1wJ411d7YY/#reply2124139307"
+    },
+    {
+      "id": "2124041791",
+      "userId": "44994176",
+      "username": "丈_枪",
+      "publishedAt": "2019-11-22T20:04:16+08:00",
+      "text": "辣鸡游戏，宣传视频就拿游戏录播糊弄我[滑稽]",
+      "likes": 5047,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV1wJ411d7YY/#reply2124041791"
+    },
+    {
+      "id": "2124118741",
+      "userId": "33441574",
+      "username": "star天翼宽带",
+      "publishedAt": "2019-11-22T20:37:20+08:00",
+      "text": "太黑暗了[doge]",
+      "likes": 270,
+      "replyTo": "2124041791",
+      "sourceURL": "https://www.bilibili.com/video/BV1wJ411d7YY/#reply2124118741"
+    },
+    {
+      "id": "2124313378",
+      "userId": "4087341",
+      "username": "Ultraman-LEGEND",
+      "publishedAt": "2019-11-22T21:50:18+08:00",
+      "text": "回复 @star天翼宽带 :一代又一一代的勇士们，都选择了，黑暗圣堂武士之路[阴险][阴险][阴险]",
+      "likes": 296,
+      "replyTo": "2124118741",
+      "sourceURL": "https://www.bilibili.com/video/BV1wJ411d7YY/#reply2124313378"
+    },
+    {
+      "id": "2124177234",
+      "userId": "353256",
+      "username": "风吹裙子PP凉",
+      "publishedAt": "2019-11-22T20:59:59+08:00",
+      "text": "封面分别是：\n500年前的八重樱、五万年前的八重樱、五年前的八重樱，现在的八重樱。\n问：八重樱多大了。[doge]",
+      "likes": 3913,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV1wJ411d7YY/#reply2124177234"
+    },
+    {
+      "id": "2124345336",
+      "userId": "183289163",
+      "username": "逐云之云",
+      "publishedAt": "2019-11-22T21:58:58+08:00",
+      "text": "你去问上仙[doge]他知道[doge][doge]",
+      "likes": 321,
+      "replyTo": "2124177234",
+      "sourceURL": "https://www.bilibili.com/video/BV1wJ411d7YY/#reply2124345336"
+    },
+    {
+      "id": "2124474526",
+      "userId": "176484491",
+      "username": "记忆_流年",
+      "publishedAt": "2019-11-22T22:45:48+08:00",
+      "text": "回复 @逐云之云 :他？？？？寸劲警告",
+      "likes": 77,
+      "replyTo": "2124345336",
+      "sourceURL": "https://www.bilibili.com/video/BV1wJ411d7YY/#reply2124474526"
+    },
+    {
+      "id": "2124586310",
+      "userId": "2274745",
+      "username": "阿疼-",
+      "publishedAt": "2019-11-22T23:22:55+08:00",
+      "text": "多大？我目测D或者E吧[doge]",
+      "likes": 964,
+      "replyTo": "2124177234",
+      "sourceURL": "https://www.bilibili.com/video/BV1wJ411d7YY/#reply2124586310"
+    }
+  ],
+  "title": "《崩坏3》3.6版本「绯夜霞隐」宣传PV",
+  "bvid": "BV1wJ411d7YY",
+  "aid": 76585875,
+  "author": "崩坏3第一偶像爱酱",
+  "authorId": "27534330",
+  "url": "https://www.bilibili.com/video/BV1wJ411d7YY/",
+  "publishedAt": "2019-11-22T20:00:15+08:00",
+  "metadataURL": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wJ411d7YY",
+  "commentAPI": "https://api.bilibili.com/x/v2/reply?type=1&oid=76585875&sort=2&pn=1",
+  "page": {
+    "num": 1,
+    "size": 20,
+    "count": 2824,
+    "acount": 2824
+  },
+  "status": "ok"
+}

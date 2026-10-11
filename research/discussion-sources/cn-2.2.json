@@ -1,0 +1,139 @@
+{
+  "platform": "Bilibili",
+  "checkedAt": "2026-10-11T19:28:48+08:00",
+  "sourceHint": {
+    "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=2.2PV&prop=wikitext&format=json",
+    "checkedAt": "2026-10-11T19:18:09+08:00",
+    "bvid": "BV16W411g7QQ",
+    "aid": 21117913,
+    "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---2.2PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=21117913&bvid=BV16W411g7QQ&cid=35203045&page=1&crossDomain=0&autoplay=0&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2764?cate=173 官网2.2版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+  },
+  "comments": [
+    {
+      "id": "696909452",
+      "userId": "21216101",
+      "username": "与我无关-别问我",
+      "publishedAt": "2018-03-23T20:07:53+08:00",
+      "text": "这次直播让我明白，原来爱酱不止偷电，原来还偷cpu占有率和网速。\n  怕不是周末折扣把sbeam的心愿单清空了，在后台疯狂下载",
+      "likes": 4440,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV16W411g7QQ/#reply696909452"
+    },
+    {
+      "id": "696936755",
+      "userId": "8830462",
+      "username": "源主",
+      "publishedAt": "2018-03-23T20:25:08+08:00",
+      "text": "我还以为是我的问题啊 原来都有（#-_-)┯━┯",
+      "likes": 25,
+      "replyTo": "696909452",
+      "sourceURL": "https://www.bilibili.com/video/BV16W411g7QQ/#reply696936755"
+    },
+    {
+      "id": "696939923",
+      "userId": "21216101",
+      "username": "与我无关-别问我",
+      "publishedAt": "2018-03-23T20:27:05+08:00",
+      "text": "回复 @源主:你仔细看就会发现，游戏卡住了，但左下角的人是正常的",
+      "likes": 72,
+      "replyTo": "696936755",
+      "sourceURL": "https://www.bilibili.com/video/BV16W411g7QQ/#reply696939923"
+    },
+    {
+      "id": "696941609",
+      "userId": "21213415",
+      "username": "晨风灵",
+      "publishedAt": "2018-03-23T20:28:07+08:00",
+      "text": "sbeam可还行",
+      "likes": 34,
+      "replyTo": "696909452",
+      "sourceURL": "https://www.bilibili.com/video/BV16W411g7QQ/#reply696941609"
+    },
+    {
+      "id": "696901269",
+      "userId": "13783658",
+      "username": "好耶耶耶耶耶耶也",
+      "publishedAt": "2018-03-23T20:03:07+08:00",
+      "text": "好好的动画公司做什么游戏[小电视_发愁]",
+      "likes": 3177,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV16W411g7QQ/#reply696901269"
+    },
+    {
+      "id": "696910140",
+      "userId": "10888549",
+      "username": "Human555",
+      "publishedAt": "2018-03-23T20:08:19+08:00",
+      "text": "然而现在pv越来越水了，与生八版本pv相比╮（╯＿╰）╭",
+      "likes": 174,
+      "replyTo": "696901269",
+      "sourceURL": "https://www.bilibili.com/video/BV16W411g7QQ/#reply696910140"
+    },
+    {
+      "id": "696942421",
+      "userId": "34040352",
+      "username": "7SeverusSnape7",
+      "publishedAt": "2018-03-23T20:28:38+08:00",
+      "text": "回复 @最后一名人类 :只是游戏时间长了   对新版本没有以前那么憧憬了  你看可以回去看看对比下啊",
+      "likes": 46,
+      "replyTo": "696910140",
+      "sourceURL": "https://www.bilibili.com/video/BV16W411g7QQ/#reply696942421"
+    },
+    {
+      "id": "696931854",
+      "userId": "11025084",
+      "username": "抽屉鹅",
+      "publishedAt": "2018-03-23T20:22:04+08:00",
+      "text": "米哈游比我想象中还要懂迂回政策，现在终于毫不掩饰地展示中国元素了，文化输出添上一笔，比网易好多了……就算过几个版本地图出现现代中国城市街道也不意外",
+      "likes": 1446,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV16W411g7QQ/#reply696931854"
+    },
+    {
+      "id": "696947568",
+      "userId": "20724858",
+      "username": "怪虫族长",
+      "publishedAt": "2018-03-23T20:31:50+08:00",
+      "text": "现代城市国家间差别就不明显了吧，都是钢筋混凝土",
+      "likes": 22,
+      "replyTo": "696931854",
+      "sourceURL": "https://www.bilibili.com/video/BV16W411g7QQ/#reply696947568"
+    },
+    {
+      "id": "696970797",
+      "userId": "11025084",
+      "username": "抽屉鹅",
+      "publishedAt": "2018-03-23T20:45:52+08:00",
+      "text": "回复 @怪虫族长:就好像美国游戏里不止一次出现时代广场之类的场景，日本动漫里很多参照的现实街道一样…不懂的人看不出来，反正都是现代，但是本地人却会引起强烈共鸣的那种感觉",
+      "likes": 49,
+      "replyTo": "696947568",
+      "sourceURL": "https://www.bilibili.com/video/BV16W411g7QQ/#reply696970797"
+    },
+    {
+      "id": "1603469151",
+      "userId": "37829472",
+      "username": "魔女的滋味真不错阿",
+      "publishedAt": "2019-05-14T12:35:49+08:00",
+      "text": "预言家",
+      "likes": 8,
+      "replyTo": "696931854",
+      "sourceURL": "https://www.bilibili.com/video/BV16W411g7QQ/#reply1603469151"
+    }
+  ],
+  "title": "《崩坏3》2.2版本「千年之羽」宣传PV 符华「炽翎」参战",
+  "bvid": "BV16W411g7QQ",
+  "aid": 21117913,
+  "author": "崩坏3第一偶像爱酱",
+  "authorId": "27534330",
+  "url": "https://www.bilibili.com/video/BV16W411g7QQ/",
+  "publishedAt": "2018-03-23T20:00:45+08:00",
+  "metadataURL": "https://api.bilibili.com/x/web-interface/view?bvid=BV16W411g7QQ",
+  "commentAPI": "https://api.bilibili.com/x/v2/reply?type=1&oid=21117913&sort=2&pn=1",
+  "page": {
+    "num": 1,
+    "size": 20,
+    "count": 1698,
+    "acount": 1698
+  },
+  "status": "ok"
+}

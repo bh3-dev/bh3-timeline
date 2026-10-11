@@ -1,0 +1,7 @@
+{
+  "index": "https://wiki.biligame.com/bh3/api.php?action=parse&page=2.5PV&prop=wikitext&format=json",
+  "checkedAt": "2026-10-11T19:18:09+08:00",
+  "bvid": "BV1Ns411A7kG",
+  "aid": 27836633,
+  "wikitext": "{{面包屑}}\n=== 视频 ===\n<!---2.5PV Link--->\n<bvideo class=\"video-player\" id=\"2233\" src=\"//player.bilibili.com/player.html?aid=27836633&bvid=BV1Ns411A7kG&cid=48063896&page=1&crossDomain=0&autoplay=0&allowfullscreen=1&hq=1&from=wiki\" scrolling=\"no\" border=\"0\" frameborder=\"no\" onload=\"changeFrameHeight()\" framespacing=\"0\"  portrait_full_screen=\"true\" hq=\"true\" height=\"100%\" width=\"100%\"> </bvideo>\n=== 当期更新内容 ===\n<!---增加当前版本的更新内容页--->\n[https://www.bh3.com/news/2785?cate=173 官网2.5版本更新公告]\n<!---标准引用--->\n{{:官方宣传PV}}"
+}

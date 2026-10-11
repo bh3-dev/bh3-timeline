@@ -1,0 +1,106 @@
+{
+  "platform": "Bilibili",
+  "checkedAt": "2026-10-11T19:18:33+08:00",
+  "sourceHint": {
+    "bvid": "BV1aLeb6sEC5",
+    "aid": 117297318527749
+  },
+  "comments": [
+    {
+      "id": "317992351008",
+      "userId": "2485048",
+      "username": "萝莉型颓废",
+      "publishedAt": "2026-09-20T03:38:36+08:00",
+      "text": "谁是0，谁是1，\n一目了然[doge]",
+      "likes": 89,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV1aLeb6sEC5/#reply317992351008"
+    },
+    {
+      "id": "314704741921",
+      "userId": "3546914242956086",
+      "username": "长梦寄思",
+      "publishedAt": "2026-09-22T14:43:59+08:00",
+      "text": "回复 @长梦寄思 :琪琪芽！",
+      "likes": 0,
+      "replyTo": "314704813089",
+      "sourceURL": "https://www.bilibili.com/video/BV1aLeb6sEC5/#reply314704741921"
+    },
+    {
+      "id": "314704813089",
+      "userId": "3546914242956086",
+      "username": "长梦寄思",
+      "publishedAt": "2026-09-22T14:43:52+08:00",
+      "text": "想什么呢，那是琪宝不想让芽衣说的太难看，收手了",
+      "likes": 0,
+      "replyTo": "317992351008",
+      "sourceURL": "https://www.bilibili.com/video/BV1aLeb6sEC5/#reply314704813089"
+    },
+    {
+      "id": "318029052624",
+      "userId": "1002613760",
+      "username": "关爱-",
+      "publishedAt": "2026-09-20T14:24:04+08:00",
+      "text": "芽芽琪",
+      "likes": 0,
+      "replyTo": "317992351008",
+      "sourceURL": "https://www.bilibili.com/video/BV1aLeb6sEC5/#reply318029052624"
+    },
+    {
+      "id": "317971094976",
+      "userId": "23542844",
+      "username": "以及卡达桑",
+      "publishedAt": "2026-09-19T22:29:03+08:00",
+      "text": "谁是1，谁是0，这下都懂了吧[崩坏3_七][崩坏3_十][崩坏3_米][崩坏3_长][崩坏3_刀]",
+      "likes": 81,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV1aLeb6sEC5/#reply317971094976"
+    },
+    {
+      "id": "314472296241",
+      "userId": "244315015",
+      "username": "迷路的蹦蹦炸弹",
+      "publishedAt": "2026-09-20T00:51:09+08:00",
+      "text": "我超威我 3000券没了",
+      "likes": 2,
+      "replyTo": "317971094976",
+      "sourceURL": "https://www.bilibili.com/video/BV1aLeb6sEC5/#reply314472296241"
+    },
+    {
+      "id": "314469125969",
+      "userId": "1922167887",
+      "username": "泷澜_6626",
+      "publishedAt": "2026-09-20T00:08:34+08:00",
+      "text": "崩坏三十周年",
+      "likes": 4,
+      "replyTo": null,
+      "sourceURL": "https://www.bilibili.com/video/BV1aLeb6sEC5/#reply314469125969"
+    },
+    {
+      "id": "314469137617",
+      "userId": "1922167887",
+      "username": "泷澜_6626",
+      "publishedAt": "2026-09-20T00:08:56+08:00",
+      "text": "谁家二游这么长寿",
+      "likes": 1,
+      "replyTo": "314469125969",
+      "sourceURL": "https://www.bilibili.com/video/BV1aLeb6sEC5/#reply314469137617"
+    }
+  ],
+  "title": "《崩坏3》十周年庆典特别节目录像",
+  "bvid": "BV1aLeb6sEC5",
+  "aid": 117297318527749,
+  "author": "崩坏3第一偶像爱酱",
+  "authorId": "27534330",
+  "url": "https://www.bilibili.com/video/BV1aLeb6sEC5/",
+  "publishedAt": "2026-09-19T21:10:00+08:00",
+  "metadataURL": "https://api.bilibili.com/x/web-interface/view?bvid=BV1aLeb6sEC5",
+  "commentAPI": "https://api.bilibili.com/x/v2/reply?type=1&oid=117297318527749&sort=2&pn=1",
+  "page": {
+    "num": 1,
+    "size": 20,
+    "count": 7067,
+    "acount": 7067
+  },
+  "status": "ok"
+}

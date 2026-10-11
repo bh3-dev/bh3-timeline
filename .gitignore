@@ -1,0 +1,9 @@
+/dist/
+/verification/
+node_modules/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.DS_Store
+Thumbs.db
